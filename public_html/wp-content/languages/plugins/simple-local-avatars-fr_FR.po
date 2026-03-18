@@ -1,0 +1,162 @@
+# Translation of Plugins - Simple Local Avatars - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Simple Local Avatars - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-20 14:14:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Simple Local Avatars - Stable (latest release)\n"
+
+#. Author of the plugin
+#: simple-local-avatars.php
+msgid "10up"
+msgstr "10up"
+
+#: includes/class-simple-local-avatars.php:1077
+msgid "Only images can be uploaded as an avatar"
+msgstr "Uniquement des images peuvent être téléversées en tant qu‘avatar"
+
+#. translators: %s: Formatted size.
+#: includes/class-simple-local-avatars.php:1085
+msgid "Max allowed avatar size is %s"
+msgstr "La taille maximale autorisée pour l‘avatar est de %s"
+
+#: includes/class-simple-local-avatars.php:841
+msgid "Choose default avatar"
+msgstr "Choisir l‘avatar par défaut"
+
+#: includes/class-simple-local-avatars.php:235
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/class-simple-local-avatars.php:703
+#: includes/class-simple-local-avatars.php:707
+msgid "Mode"
+msgstr "Mode"
+
+#: includes/class-simple-local-avatars.php:708
+msgid "Default to the settings below when creating a new site"
+msgstr "Définir les réglages ci-dessous par défaut lors de la création d‘un nouveau site."
+
+#: includes/class-simple-local-avatars.php:709
+msgid "Enforce the settings below across all sites"
+msgstr "Appliquer les réglages ci-dessous à tous les sites"
+
+#: includes/class-simple-local-avatars.php:893
+msgid "Clear cache"
+msgstr "Vider le cache"
+
+#: includes/class-simple-local-avatars.php:844
+msgid "Migration in progress."
+msgstr "Migration en cours."
+
+#: includes/class-simple-local-avatars.php:624
+#: includes/class-simple-local-avatars.php:737
+msgid "Only allow users with file upload capabilities to upload local avatars (Authors and above)"
+msgstr "N’autorisez uniquement les utilisateurs et utilisatrices ayant les permision de téléversements de fichier à téléverser les avatars local (Auteurs/Autrice et supérieur)"
+
+#: includes/class-simple-local-avatars.php:612
+#: includes/class-simple-local-avatars.php:722
+msgid "Only allow local avatars (still uses Gravatar for default avatars)"
+msgstr "Autoriser uniquement les avatars locaux (utilise toujours Gravatar pour les avatars par défaut)"
+
+#: includes/class-simple-local-avatars.php:930
+msgid "Avatar"
+msgstr "Avatar"
+
+#: includes/class-simple-local-avatars.php:934
+msgid "Upload Avatar"
+msgstr "Envoyer un Avatar"
+
+#: includes/class-simple-local-avatars.php:985
+msgid "No local avatar is set. Set up your avatar at Gravatar.com."
+msgstr "Aucun avatar local. Configurez votre avatar sur Gravatar.com."
+
+#: includes/class-simple-local-avatars.php:987
+msgid "You do not have media management permissions. To change your local avatar, contact the blog administrator."
+msgstr "Vous n'avez pas les autorisations nécessaire pour gérer les médias. Pour changer votre avatar local, contacter l'administrateur du blog."
+
+#. Plugin Name of the plugin
+#: simple-local-avatars.php
+msgid "Simple Local Avatars"
+msgstr "Simple Local Avatars"
+
+#: includes/class-simple-local-avatars.php:1158
+msgid "You do not have permission to edit this user."
+msgstr "Vous n&rsquo;avez pas l&rsquo;autorisation de modifier cet utilisateur."
+
+#: includes/class-simple-local-avatars.php:996
+#: includes/class-simple-local-avatars.php:999
+msgid "Rating"
+msgstr "Note"
+
+#. Author URI of the plugin
+#: simple-local-avatars.php
+msgid "https://10up.com"
+msgstr "https://10up.com"
+
+#. Plugin URI of the plugin
+#: simple-local-avatars.php
+msgid "https://10up.com/plugins/simple-local-avatars-wordpress/"
+msgstr "https://10up.com/plugins/simple-local-avatars-wordpress/"
+
+#: includes/class-simple-local-avatars.php:976
+msgid "Choose from Media Library"
+msgstr "Choisir depuis la médiathèque"
+
+#: includes/class-simple-local-avatars.php:834
+msgid "Set as avatar"
+msgstr "Utiliser comme avatar"
+
+#: includes/class-simple-local-avatars.php:617
+msgid "Local Upload Permissions"
+msgstr "Droits de téléversement local"
+
+#: includes/class-simple-local-avatars.php:605
+msgid "Local Avatars Only"
+msgstr "Avatar local uniquement"
+
+#: includes/class-simple-local-avatars.php:1120
+msgid "There was an error uploading the avatar:"
+msgstr "Il y a eu une erreur pendant le téléversement de l’avatar :"
+
+#: includes/class-simple-local-avatars.php:970
+msgid "Choose an image from your computer:"
+msgstr "Choisissez une image depuis votre ordinateur :"
+
+#. translators: Content suitability rating:
+#. https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system
+#: includes/class-simple-local-avatars.php:577
+msgid "G &#8212; Suitable for all audiences"
+msgstr "G &#8212; Visibles par tous et toutes"
+
+#. translators: Content suitability rating:
+#. https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system
+#: includes/class-simple-local-avatars.php:579
+msgid "PG &#8212; Possibly offensive, usually for audiences 13 and above"
+msgstr "PG &#8212; Possiblement offensants, réservés normalement aux personnes de 13 ans et plus"
+
+#. translators: Content suitability rating:
+#. https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system
+#: includes/class-simple-local-avatars.php:581
+msgid "R &#8212; Intended for adult audiences above 17"
+msgstr "R &#8212; Réservés aux personnes de plus de 17 ans"
+
+#. translators: Content suitability rating:
+#. https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system
+#: includes/class-simple-local-avatars.php:583
+msgid "X &#8212; Even more mature than above"
+msgstr "X &#8212; Réservés aux adultes"
+
+#: includes/class-simple-local-avatars.php:1009
+msgid "If the local avatar is inappropriate for this site, Gravatar will be attempted."
+msgstr "Si l‘avatar local est inapproprié pour ce site, Gravatar sera tenté."
+
+#. Description of the plugin
+#: simple-local-avatars.php
+msgid "Adds an avatar upload field to user profiles. Generates requested sizes on demand, just like Gravatar! Simple and lightweight."
+msgstr "Ajoute un champ de téléversement d‘avatar aux profils des comptes. Génère les tailles demandées à la demande, tout comme Gravatar ! Simple et léger."

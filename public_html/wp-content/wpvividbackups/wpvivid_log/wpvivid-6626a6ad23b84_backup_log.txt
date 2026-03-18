@@ -1,0 +1,141 @@
+Log created: 2024-04-22 15:04:29
+Type: backup
+[2024-04-22 15:04:31][notice]Start backing up.
+[2024-04-22 15:04:31][notice]server info fcgi:Off max execution time: 300 wp version:6.5.2 php version:7.4.33 db version:10.5.24 php ini:safe_mode: memory_limit:256M memory_get_usage:89,66 MB memory_get_peak_usage:90,44 MB extensions:PDO not enabled curl enabled zlib enabled   is_multisite:0
+[2024-04-22 15:04:31][notice]Prepare to backup backup_db files.
+[2024-04-22 15:04:39][notice]Start exporting database.
+[2024-04-22 15:04:39][notice]Preparing to dump table wp_wfls_role_counts
+[2024-04-22 15:04:40][notice]Preparing to dump table wp_wp_phpmyadmin_extension__errors_log
+[2024-04-22 15:04:41][notice]Preparing to dump table wp_termmeta
+[2024-04-22 15:04:41][notice]Preparing to dump table wp_wfblocks7
+[2024-04-22 15:04:41][notice]Preparing to dump table wp_tec_occurrences
+[2024-04-22 15:04:42][notice]Preparing to dump table wp_tec_events
+[2024-04-22 15:04:42][notice]Preparing to dump table wp_smush_dir_images
+[2024-04-22 15:04:42][notice]Preparing to dump table wp_wflivetraffichuman
+[2024-04-22 15:04:42][notice]Preparing to dump table wp_wfpendingissues
+[2024-04-22 15:04:42][notice]Preparing to dump table wp_links
+[2024-04-22 15:04:43][notice]Preparing to dump table wp_wfsecurityevents
+[2024-04-22 15:04:43][notice]Preparing to dump table wp_wffilechanges
+[2024-04-22 15:04:43][notice]Preparing to dump table wp_aiowps_permanent_block
+[2024-04-22 15:04:43][notice]Preparing to dump table wp_aiowps_message_store
+[2024-04-22 15:04:43][notice]Preparing to dump table wp_aiowps_login_lockdown
+[2024-04-22 15:04:44][notice]Preparing to dump table wp_wftrafficrates
+[2024-04-22 15:04:44][notice]Preparing to dump table wp_aiowps_global_meta
+[2024-04-22 15:04:44][notice]Preparing to dump table wp_aiowps_events
+[2024-04-22 15:04:44][notice]Preparing to dump table wp_aiowps_debug_log
+[2024-04-22 15:04:45][notice]Preparing to dump table wp_wfwaffailures
+[2024-04-22 15:04:45][notice]Preparing to dump table wp_wfls_2fa_secrets
+[2024-04-22 15:04:46][notice]Preparing to dump table wp_wfhoover
+[2024-04-22 15:04:47][notice]Preparing to dump table wp_wfcrawlers
+[2024-04-22 15:04:47][notice]Preparing to dump table wp_wfblockediplog
+[2024-04-22 15:04:48][notice]Preparing to dump table wp_wfnotifications
+[2024-04-22 15:04:48][notice]Preparing to dump table wp_wfls_settings
+[2024-04-22 15:04:48][notice]Preparing to dump table wp_wfreversecache
+[2024-04-22 15:04:48][notice]Preparing to dump table wp_wflocs
+[2024-04-22 15:04:48][notice]Preparing to dump table wp_actionscheduler_claims
+[2024-04-22 15:04:48][notice]Preparing to dump table wp_actionscheduler_groups
+[2024-04-22 15:04:48][notice]Preparing to dump table wp_terms
+[2024-04-22 15:04:48][notice]Preparing to dump table wp_term_taxonomy
+[2024-04-22 15:04:48][notice]Preparing to dump table wp_actionscheduler_logs
+[2024-04-22 15:04:48][notice]Preparing to dump table wp_wflogins
+[2024-04-22 15:04:48][notice]Preparing to dump table wp_users
+[2024-04-22 15:04:48][notice]Preparing to dump table wp_wfsnipcache
+[2024-04-22 15:04:48][notice]Preparing to dump table wp_commentmeta
+[2024-04-22 15:04:48][notice]Preparing to dump table wp_usermeta
+[2024-04-22 15:04:49][notice]Preparing to dump table wp_wfissues
+[2024-04-22 15:04:49][notice]Preparing to dump table wp_wfhits
+[2024-04-22 15:04:49][notice]Preparing to dump table wp_comments
+[2024-04-22 15:04:49][notice]Preparing to dump table wp_aiowps_logged_in_users
+[2024-04-22 15:04:49][notice]Preparing to dump table wp_actionscheduler_actions
+[2024-04-22 15:04:49][notice]Preparing to dump table wp_term_relationships
+[2024-04-22 15:04:49][notice]Preparing to dump table wp_aiowps_audit_log
+[2024-04-22 15:04:49][notice]Preparing to dump table wp_db7_forms
+[2024-04-22 15:04:49][notice]Preparing to dump table wp_wfstatus
+[2024-04-22 15:04:49][notice]Preparing to dump table wp_postmeta
+[2024-04-22 15:04:50][notice]Preparing to dump table wp_options
+[2024-04-22 15:04:50][notice]Preparing to dump table wp_wfconfig
+[2024-04-22 15:04:50][notice]Preparing to dump table wp_wffilemods
+[2024-04-22 15:04:51][notice]Preparing to dump table wp_posts
+[2024-04-22 15:04:51][notice]Preparing to dump table wp_wfknownfilelist
+[2024-04-22 15:04:52][notice]Exporting database finished.
+[2024-04-22 15:04:52][notice]Start compressing database
+[2024-04-22 15:04:52][notice]Prepare to zip file. file: abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_db.sql
+[2024-04-22 15:04:53][notice]Adding zip files completed.abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_db.part001.zip, filesize: 3,55 MB
+[2024-04-22 15:04:53][notice]Compressing database completed
+[2024-04-22 15:04:53][notice]Backing up backup_db completed.
+[2024-04-22 15:04:53][notice]Prepare to backup backup_themes files.
+[2024-04-22 15:04:54][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_themes.part001.zip index:500
+[2024-04-22 15:04:54][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_themes.part001.zip success. index:500 file size:959,54 KB
+[2024-04-22 15:04:55][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_themes.part001.zip index:1000
+[2024-04-22 15:04:56][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_themes.part001.zip success. index:1000 file size:3,00 MB
+[2024-04-22 15:04:56][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_themes.part001.zip index:1500
+[2024-04-22 15:04:57][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_themes.part001.zip success. index:1500 file size:4,38 MB
+[2024-04-22 15:04:57][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_themes.part001.zip index:2000
+[2024-04-22 15:04:58][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_themes.part001.zip success. index:2000 file size:8,66 MB
+[2024-04-22 15:04:58][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_themes.part001.zip index:2500
+[2024-04-22 15:05:10][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_themes.part001.zip success. index:2500 file size:16,13 MB
+[2024-04-22 15:05:10][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_themes.part001.zip index:3000
+[2024-04-22 15:05:11][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_themes.part001.zip success. index:3000 file size:21,61 MB
+[2024-04-22 15:05:13][notice]Backing up backup_themes completed.
+[2024-04-22 15:05:16][notice]Prepare to backup backup_plugin files.
+[2024-04-22 15:05:19][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip index:500
+[2024-04-22 15:05:21][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip success. index:500 file size:2,60 MB
+[2024-04-22 15:05:21][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip index:1000
+[2024-04-22 15:05:22][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip success. index:1000 file size:5,28 MB
+[2024-04-22 15:05:23][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip index:1500
+[2024-04-22 15:05:23][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip success. index:1500 file size:5,99 MB
+[2024-04-22 15:05:23][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip index:2000
+[2024-04-22 15:05:26][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip success. index:2000 file size:10,40 MB
+[2024-04-22 15:05:26][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip index:2500
+[2024-04-22 15:05:28][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip success. index:2500 file size:11,36 MB
+[2024-04-22 15:05:28][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip index:3000
+[2024-04-22 15:05:30][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip success. index:3000 file size:15,41 MB
+[2024-04-22 15:05:31][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip index:3500
+[2024-04-22 15:05:31][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip success. index:3500 file size:16,53 MB
+[2024-04-22 15:05:32][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip index:4000
+[2024-04-22 15:05:33][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip success. index:4000 file size:19,32 MB
+[2024-04-22 15:05:33][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip index:4500
+[2024-04-22 15:05:33][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip success. index:4500 file size:21,36 MB
+[2024-04-22 15:05:33][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip index:5000
+[2024-04-22 15:05:34][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip success. index:5000 file size:22,33 MB
+[2024-04-22 15:05:34][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip index:5500
+[2024-04-22 15:05:35][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.part001.zip success. index:5500 file size:24,48 MB
+[2024-04-22 15:05:37][notice]Backing up backup_plugin completed.
+[2024-04-22 15:05:39][notice]Prepare to backup backup_uploads files.
+[2024-04-22 15:05:41][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_uploads.part001.zip index:500
+[2024-04-22 15:06:05][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_uploads.part001.zip success. index:500 file size:116,87 MB
+[2024-04-22 15:06:06][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_uploads.part001.zip index:1000
+[2024-04-22 15:06:27][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_uploads.part001.zip success. index:1000 file size:131,29 MB
+[2024-04-22 15:06:29][notice]Backing up backup_uploads completed.
+[2024-04-22 15:06:30][notice]Prepare to backup backup_content files.
+[2024-04-22 15:06:31][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_content.part001.zip index:500
+[2024-04-22 15:06:40][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_content.part001.zip success. index:500 file size:7,45 MB
+[2024-04-22 15:06:40][notice]Backing up backup_content completed.
+[2024-04-22 15:06:41][notice]Prepare to backup backup_core files.
+[2024-04-22 15:06:43][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_core.part001.zip index:500
+[2024-04-22 15:06:58][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_core.part001.zip success. index:500 file size:2,20 MB
+[2024-04-22 15:06:58][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_core.part001.zip index:1000
+[2024-04-22 15:07:03][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_core.part001.zip success. index:1000 file size:3,91 MB
+[2024-04-22 15:07:03][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_core.part001.zip index:1500
+[2024-04-22 15:07:16][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_core.part001.zip success. index:1500 file size:4,26 MB
+[2024-04-22 15:07:17][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_core.part001.zip index:2000
+[2024-04-22 15:07:35][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_core.part001.zip success. index:2000 file size:6,08 MB
+[2024-04-22 15:07:35][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_core.part001.zip index:2500
+[2024-04-22 15:08:01][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_core.part001.zip success. index:2500 file size:13,19 MB
+[2024-04-22 15:08:02][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_core.part001.zip index:3000
+[2024-04-22 15:08:10][notice]Compressing zip file:abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_core.part001.zip success. index:3000 file size:13,85 MB
+[2024-04-22 15:08:11][notice]Backing up backup_core completed.
+[2024-04-22 15:08:13][notice]Prepare to backup backup_merge files.
+[2024-04-22 15:08:14][notice]Prepare to zip file. file: abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_db.zip
+[2024-04-22 15:08:15][notice]Prepare to zip file. file: abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_themes.zip
+[2024-04-22 15:08:16][notice]Adding zip files completed.abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_all.part001.zip, filesize: 21,14 MB
+[2024-04-22 15:08:18][notice]Prepare to zip file. file: abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_plugin.zip
+[2024-04-22 15:08:22][notice]Adding zip files completed.abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_all.part001.zip, filesize: 44,56 MB
+[2024-04-22 15:08:23][notice]Prepare to zip file. file: abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_uploads.zip
+[2024-04-22 15:08:36][notice]Adding zip files completed.abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_all.part001.zip, filesize: 175,81 MB
+[2024-04-22 15:08:37][notice]Prepare to zip file. file: abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_content.zip
+[2024-04-22 15:08:40][notice]Adding zip files completed.abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_all.part001.zip, filesize: 182,95 MB
+[2024-04-22 15:08:40][notice]Prepare to zip file. file: abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_core.zip
+[2024-04-22 15:08:41][notice]Adding zip files completed.abiquifi.org.br_wpvivid-6626a6ad23b84_2024-04-22-15-04_backup_all.part001.zip, filesize: 196,42 MB
+[2024-04-22 15:08:45][notice]Backing up backup_merge completed.
+[2024-04-22 15:08:47][notice]Backup completed.

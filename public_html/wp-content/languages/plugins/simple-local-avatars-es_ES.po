@@ -1,0 +1,284 @@
+# Translation of Plugins - Simple Local Avatars - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Simple Local Avatars - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-08-28 15:09:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Simple Local Avatars - Stable (latest release)\n"
+
+#: includes/class-simple-local-avatars.php:1666
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes permisos suficientes para acceder a esta página."
+
+#: includes/class-simple-local-avatars.php:1343
+msgid "This attachment was not uploaded by this user."
+msgstr "Este archivo adjunto no ha sido subido por este usuario."
+
+#: 10up-lib/wp-compat-validation-tool/src/Validator.php:152
+msgid "%s error:"
+msgstr "%s error:"
+
+#: 10up-lib/wp-compat-validation-tool/src/Validator.php:127
+msgid "The maximum PHP version supported is %s"
+msgstr "La versión máxima de PHP compatible es %s"
+
+#: 10up-lib/wp-compat-validation-tool/src/Validator.php:121
+msgid "The minimum PHP version required is %s"
+msgstr "La versión mínima de PHP requerida es %s"
+
+#: includes/class-simple-local-avatars.php:1338
+msgid "Media ID did not match a valid attachment."
+msgstr "El ID del medio no coincide con un archivo adjunto válido."
+
+#: includes/class-simple-local-avatars.php:1327
+msgid "Request did not contain a valid media_id field."
+msgstr "La solicitud no contenía un campo media_id válido."
+
+#: includes/class-simple-local-avatars.php:1541
+msgid "Note that this avatar needs to be publicly available or a broken image will be shown."
+msgstr "Ten en cuenta que este avatar tiene que estar disponible públicamente o se mostrará una imagen rota."
+
+#. translators: %s: Formatted size.
+#: includes/class-simple-local-avatars.php:1085
+msgid "Max allowed avatar size is %s"
+msgstr "El tamaño máximo permitido del avatar es de %s"
+
+#: includes/class-simple-local-avatars.php:1077
+msgid "Only images can be uploaded as an avatar"
+msgstr "Solo se pueden subir imágenes como avatar"
+
+#. Author of the plugin
+#: simple-local-avatars.php
+msgid "10up"
+msgstr "10up"
+
+#: includes/class-simple-local-avatars.php:492
+msgid "Avatar photo"
+msgstr "Foto del avatar"
+
+#: includes/class-simple-local-avatars.php:140
+msgid "Default Crop"
+msgstr "Recorte por defecto"
+
+#: includes/class-simple-local-avatars.php:1540
+msgid "Choose Default Avatar"
+msgstr "Elige el avatar por defecto"
+
+#: includes/class-simple-local-avatars.php:841
+msgid "Choose default avatar"
+msgstr "Elige el avatar por defecto"
+
+#: includes/class-simple-local-avatars.php:1715
+msgid "Do you want to migrate avatars from WP User Avatar?"
+msgstr "¿Quieres migrar los avatares desde WP User Avatar?"
+
+#. translators: %s Total users
+#: includes/class-simple-local-avatars.php:1482
+msgid "Completed clearing cache for all %s user(s) avatars."
+msgstr "Completado el vaciado de la caché para todos los %s avatares de usuarios."
+
+#. translators: 1: Offset, 2: Total users
+#: includes/class-simple-local-avatars.php:1469
+msgid "Processing %1$s/%2$s users..."
+msgstr "Procesando %1$s/%2$s usuarios..."
+
+#: includes/class-simple-local-avatars.php:840
+msgid "Something went wrong while clearing cache, please try again."
+msgstr "Algo ha ido mal al vaciar la caché. Por favor, inténtalo de nuevo."
+
+#: includes/class-simple-local-avatars.php:918
+msgid "Migrate avatars from WP User Avatar to Simple Local Avatars"
+msgstr "Migrar los avatares de WP User Avatar a Simple Local Avatars"
+
+#: includes/class-simple-local-avatars.php:905
+msgid "Simple Local Avatar settings are currently enforced across all sites on the network."
+msgstr "Actualmente, los ajustes de Simple Local Avatar se fuerzan en todos los sitios de la red."
+
+#: includes/class-simple-local-avatars.php:893
+msgid "Clear cache"
+msgstr "Vaciar la caché"
+
+#: includes/class-simple-local-avatars.php:844
+msgid "Migration in progress."
+msgstr "Migración en progreso."
+
+#: includes/class-simple-local-avatars.php:843
+#: includes/class-simple-local-avatars.php:1723
+msgid "No avatars were migrated from WP User Avatar."
+msgstr "No se ha migrado ningún avatar desde WP User Avatar."
+
+#: includes/class-simple-local-avatars.php:842
+#: includes/class-simple-local-avatars.php:1729
+msgid "Number of avatars successfully migrated from WP User Avatar"
+msgstr "Número de avatares migrados correctamente desde WP User Avatar"
+
+#: includes/class-simple-local-avatars.php:835
+msgid "Select avatar and Crop"
+msgstr "Seleccionar el avatar y recortar"
+
+#: includes/class-simple-local-avatars.php:730
+msgid "Local upload permissions"
+msgstr "Permisos de subida local"
+
+#: includes/class-simple-local-avatars.php:715
+msgid "Local avatars only"
+msgstr "Solo avatares locales"
+
+#: includes/class-simple-local-avatars.php:709
+msgid "Enforce the settings below across all sites"
+msgstr "Forzar los siguientes ajustes en todos los sitios"
+
+#: includes/class-simple-local-avatars.php:708
+msgid "Default to the settings below when creating a new site"
+msgstr "Por defecto, los siguientes ajustes al crear un nuevo sitio"
+
+#: includes/class-simple-local-avatars.php:703
+#: includes/class-simple-local-avatars.php:707
+msgid "Mode"
+msgstr "Modo"
+
+#: includes/class-simple-local-avatars.php:699
+msgid "Simple Local Avatars Settings"
+msgstr "Ajustes de Simple Local Avatars"
+
+#: includes/class-simple-local-avatars.php:666
+msgid "Clear cache of stored avatars"
+msgstr "Vaciar la caché de los avatares almacenados"
+
+#: includes/class-simple-local-avatars.php:660
+msgid "Clear local avatar cache"
+msgstr "Vaciar la caché de los avatares locales"
+
+#: includes/class-simple-local-avatars.php:653
+msgid "Migrate Other Local Avatars"
+msgstr "Migrar otros avatares locales"
+
+#: includes/class-simple-local-avatars.php:638
+#: includes/class-simple-local-avatars.php:752
+msgid "Uploaded avatars will be shared across the entire network, instead of being unique per site"
+msgstr "Los avatares subidos se compartirán en toda la red, en lugar de ser únicos por sitio"
+
+#: includes/class-simple-local-avatars.php:631
+#: includes/class-simple-local-avatars.php:745
+msgid "Shared network avatars"
+msgstr "Avatares compartidos en la red"
+
+#: includes/class-simple-local-avatars.php:235
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/class-simple-local-avatars.php:624
+#: includes/class-simple-local-avatars.php:737
+msgid "Only allow users with file upload capabilities to upload local avatars (Authors and above)"
+msgstr "Solo permitir subir avatares locales a los usuarios con capacidades de subida (autores y superiores)"
+
+#: includes/class-simple-local-avatars.php:612
+#: includes/class-simple-local-avatars.php:722
+msgid "Only allow local avatars (still uses Gravatar for default avatars)"
+msgstr "Solo permitir avatares locales (se seguirá usando Gravatar para los avatares por defecto)"
+
+#. Author URI of the plugin
+#: simple-local-avatars.php
+msgid "https://10up.com"
+msgstr "https://10up.com"
+
+#. Description of the plugin
+#: simple-local-avatars.php
+msgid "Adds an avatar upload field to user profiles. Generates requested sizes on demand, just like Gravatar! Simple and lightweight."
+msgstr "Añade un campo de subida de avatar a los perfiles de usuario. ¡Genera los tamaños solicitados demandados, como Gravatar! Sencillo y ligero."
+
+#. Plugin URI of the plugin
+#: simple-local-avatars.php
+msgid "https://10up.com/plugins/simple-local-avatars-wordpress/"
+msgstr "https://10up.com/plugins/simple-local-avatars-wordpress/"
+
+#. Plugin Name of the plugin
+#: simple-local-avatars.php
+msgid "Simple Local Avatars"
+msgstr "Simple Local Avatars"
+
+#: includes/class-simple-local-avatars.php:1158
+msgid "You do not have permission to edit this user."
+msgstr "No tienes permiso para editar este usuario."
+
+#: includes/class-simple-local-avatars.php:1120
+msgid "There was an error uploading the avatar:"
+msgstr "Ha habido un error al subir el avatar:"
+
+#: includes/class-simple-local-avatars.php:1009
+msgid "If the local avatar is inappropriate for this site, Gravatar will be attempted."
+msgstr "Si el avatar local no es apropiado para este sitio, se intentará con Gravatar."
+
+#: includes/class-simple-local-avatars.php:996
+#: includes/class-simple-local-avatars.php:999
+msgid "Rating"
+msgstr "Valoración"
+
+#: includes/class-simple-local-avatars.php:987
+msgid "You do not have media management permissions. To change your local avatar, contact the blog administrator."
+msgstr "No tienes los permisos necesarios. Para cambiar tu avatar contacta con el administrador del blog."
+
+#: includes/class-simple-local-avatars.php:985
+msgid "No local avatar is set. Set up your avatar at Gravatar.com."
+msgstr "No se ha configurado ningún avatar. Configura tu avatar en Gravatar.com."
+
+#: includes/class-simple-local-avatars.php:979
+msgid "Remove local avatar"
+msgstr "Eliminar el avatar local"
+
+#: includes/class-simple-local-avatars.php:976
+msgid "Choose from Media Library"
+msgstr "Elegir desde la biblioteca de medios"
+
+#: includes/class-simple-local-avatars.php:970
+msgid "Choose an image from your computer:"
+msgstr "Elige una imagen desde tu ordenador:"
+
+#: includes/class-simple-local-avatars.php:934
+msgid "Upload Avatar"
+msgstr "Subir avatar"
+
+#: includes/class-simple-local-avatars.php:930
+msgid "Avatar"
+msgstr "Avatar"
+
+#: includes/class-simple-local-avatars.php:834
+msgid "Set as avatar"
+msgstr "Establecer como avatar"
+
+#: includes/class-simple-local-avatars.php:617
+msgid "Local Upload Permissions"
+msgstr "Permisos de subida local"
+
+#: includes/class-simple-local-avatars.php:605
+msgid "Local Avatars Only"
+msgstr "Solo avatares locales"
+
+#. translators: Content suitability rating:
+#. https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system
+#: includes/class-simple-local-avatars.php:583
+msgid "X &#8212; Even more mature than above"
+msgstr "X &#8212; Incluso más adulto que los anteriores"
+
+#. translators: Content suitability rating:
+#. https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system
+#: includes/class-simple-local-avatars.php:581
+msgid "R &#8212; Intended for adult audiences above 17"
+msgstr "R &#8212; Destinado a un público adulto mayor de 17 años"
+
+#. translators: Content suitability rating:
+#. https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system
+#: includes/class-simple-local-avatars.php:579
+msgid "PG &#8212; Possibly offensive, usually for audiences 13 and above"
+msgstr "PG &#8212; Posiblemente ofensivo, normalmente para mayores de 13 años"
+
+#. translators: Content suitability rating:
+#. https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system
+#: includes/class-simple-local-avatars.php:577
+msgid "G &#8212; Suitable for all audiences"
+msgstr "G &#8212; Para todos los públicos"

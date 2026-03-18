@@ -1,0 +1,24 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# Composer
+vendor/
+
+# WordPress generated/content caches and temp files
+public_html/wp-content/cache/
+public_html/wp-content/uploads/cache/
+public_html/wp-content/upgrade/
+
+# Environment / local config
+.env
+.env.*
+

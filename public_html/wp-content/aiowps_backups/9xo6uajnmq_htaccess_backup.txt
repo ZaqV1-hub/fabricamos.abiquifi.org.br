@@ -1,0 +1,34 @@
+
+RewriteOptions inherit
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+# BEGIN LiteSpeed
+# As diretrizes (linhas) entre "BEGIN LiteSpeed" e "END LiteSpeed" são
+# geradas dinamicamente e só devem ser modificadas através de filtros do WordPress.
+# Quaisquer alterações nas diretivas entre esses marcadores serão sobrescritas.
+<IfModule Litespeed>
+SetEnv noabort 1
+</IfModule>
+# END LiteSpeed
+RewriteCond %{HTTP_HOST} ^abiquifi\.org\.br$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.abiquifi\.org\.br$
+RewriteRule ^IFA\-LATAM\/en\/$ "https\:\/\/www\.abiquifi\.org\.br\/IFA\-LATAM\/en\/en\-home\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^abiquifi\.org\.br$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.abiquifi\.org\.br$
+RewriteRule ^IFA\-LATAM\/es\/$ "https\:\/\/www\.abiquifi\.org\.br\/IFA\-LATAM\/es\/es\-home\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^IFA\-LATAM\/en\/$ "https\:\/\/www\.abiquifi\.org\.br\/IFA\-LATAM\/en\/en\-home\/" [R=301,L]
