@@ -1,0 +1,4003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiocarlida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8624]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiocarlide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[910-86-1]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiocianato de Di-Hidrocodeína]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[3017]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Dihydrocodeine Thiocyanate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[#N/A]]></casnumber>
+		<ncm><![CDATA[2939.11.23]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiocianato de Eritromicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[3497]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Erythromycin Thiocyanate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[7704-67-8]]></casnumber>
+		<ncm><![CDATA[2941.50.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiocianato de Potássio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9865]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Potassium Thiocyanate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[333-20-0]]></casnumber>
+		<ncm><![CDATA[2841.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tioclomarol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8625]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tioclomarol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[22619-35-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiocolchicosídeo]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8626]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thiocolchicoside]]></nomenclaturadciinn>
+		<casnumber><![CDATA[602-41-5]]></casnumber>
+		<ncm><![CDATA[2939.79.40]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tioconazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8627]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tioconazole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[65899-73-2]]></casnumber>
+		<ncm><![CDATA[2934.99.54]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiocresol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thiocresol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[26445-03-4]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tioctilato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tioctilate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[10489-23-3]]></casnumber>
+		<ncm><![CDATA[2930.90.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiodazosina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8628]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiodazosin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[66969-81-1]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiodiglicol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8629]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thiodiglycol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[111-48-8]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tioexamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8630]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thiohexamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[3692-44-2]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiofuradeno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8632]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thiofuradene]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2240-21-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tioglicolato de Antimônio E Sódio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Antimony Sodium Thioglycollate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[539-54-8]]></casnumber>
+		<ncm><![CDATA[2930.90.11]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tioguanina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8633]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tioguanine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[154-42-7]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tioguanina Hemi-Hidratada]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thioguanine Hemihydrate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5580-03-0]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiomergina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiomergine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[57935-49-6]]></casnumber>
+		<ncm><![CDATA[2939.69.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiomersal]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8634]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thiomersal]]></nomenclaturadciinn>
+		<casnumber><![CDATA[54-64-8]]></casnumber>
+		<ncm><![CDATA[2852.10.22]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiomesterona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8635]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiomesterone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2205-73-4]]></casnumber>
+		<ncm><![CDATA[2937.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiomolibdato Diamônio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiomolibdate Diammonium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[15060-55-6]]></casnumber>
+		<ncm><![CDATA[2841.70.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiopental  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8637]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thiopental]]></nomenclaturadciinn>
+		<casnumber><![CDATA[76-75-5]]></casnumber>
+		<ncm><![CDATA[2933.54.00]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiopental Sódico  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8638]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thiopental Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[71-73-8]]></casnumber>
+		<ncm><![CDATA[2933.54.00]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tioperidona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8639]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tioperidone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[52618-67-4]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiopinaco]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8640]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiopinac]]></nomenclaturadciinn>
+		<casnumber><![CDATA[61220-69-7]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiopronina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8641]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiopronin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1953-02-2]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiopropamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8642]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiopropamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[39516-21-7]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiopropazato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8643]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thiopropazate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[84-06-0]]></casnumber>
+		<ncm><![CDATA[2934.30.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tioproperazina  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8644]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thioproperazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[316-81-4]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tioridazina  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8645]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thioridazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[50-52-2]]></casnumber>
+		<ncm><![CDATA[2934.30.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiosalana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8647]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiosalan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[15686-78-9]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiospirona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8648]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiospirone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[87691-91-6]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiossulfato de Cálcio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Calcium Thiosulfate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[10124-41-1]]></casnumber>
+		<ncm><![CDATA[2832.30.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiossulfato de Magnésio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[4734]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Magnesium Thiosulfate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[10124-53-5]]></casnumber>
+		<ncm><![CDATA[2832.30.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiossulfato de Sódio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sodium Thiosulfate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[10102-17-7]]></casnumber>
+		<ncm><![CDATA[2832.30.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiossulfato de Sódio Anidro]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8650]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sodium Thiosulfate Anhydrous]]></nomenclaturadciinn>
+		<casnumber><![CDATA[7772-98-7]]></casnumber>
+		<ncm><![CDATA[2832.30.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiossulfato de Sódio Pentaidratado]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9847]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sodium Thiosulfate Pentahydrate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[10102-17-7]]></casnumber>
+		<ncm><![CDATA[2832.30.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiotepa]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8651]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thiotepa]]></nomenclaturadciinn>
+		<casnumber><![CDATA[52-24-4]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiotetrabarbital  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8652]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thiotetrabarbital]]></nomenclaturadciinn>
+		<casnumber><![CDATA[467-38-9]]></casnumber>
+		<ncm><![CDATA[2933.54.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiotidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8653]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiotidine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[69014-14-8]]></casnumber>
+		<ncm><![CDATA[2934.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiotixeno  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8654]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiotixene]]></nomenclaturadciinn>
+		<casnumber><![CDATA[3313-26-6]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiouréia]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9848]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thiourea]]></nomenclaturadciinn>
+		<casnumber><![CDATA[62-56-6]]></casnumber>
+		<ncm><![CDATA[2930.90.21]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tioxacino]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8655]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tioxacin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[34976-39-1]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tioxamaste]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8656]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tioxamast]]></nomenclaturadciinn>
+		<casnumber><![CDATA[74531-88-7]]></casnumber>
+		<ncm><![CDATA[2934.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tioxaprofeno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8657]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tioxaprofen]]></nomenclaturadciinn>
+		<casnumber><![CDATA[40198-53-6]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tioxidazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8658]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tioxidazole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[61570-90-9]]></casnumber>
+		<ncm><![CDATA[2934.20.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tioxolona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8659]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tioxolone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[4991-65-5]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tipapequinogeno Sovaciveque]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tipapkinogene Sovacivec]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1052105-48-2]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tipelucaste]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tipelukast]]></nomenclaturadciinn>
+		<casnumber><![CDATA[125961-82-2]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tipentosina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8660]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tipentosin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[95588-08-2]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tipepidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8662]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tipepidine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5169-78-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tipifarnibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8664]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tipifarnib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[192185-72-1]]></casnumber>
+		<ncm><![CDATA[2933.79.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tipindol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8665]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tipindole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[7489-66-9]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tipiracila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11539]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tipiracil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[183204-74-2]]></casnumber>
+		<ncm><![CDATA[2933.59.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiplasinina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiplasinin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[393105-53-8]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiplimotida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8666]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiplimotide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[178823-49-9]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tipranavir  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8667]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tipranavir]]></nomenclaturadciinn>
+		<casnumber><![CDATA[174484-41-4]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tipranavir Dissódico  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11201]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tipranavir Disodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[191150-83-1]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tipredano]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8668]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tipredane]]></nomenclaturadciinn>
+		<casnumber><![CDATA[85197-77-9]]></casnumber>
+		<ncm><![CDATA[2937.22.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiprelestate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiprelestat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[820211-82-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiprenolol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8669]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiprenolol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[26481-51-6]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiprinaste]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8671]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiprinast]]></nomenclaturadciinn>
+		<casnumber><![CDATA[83153-39-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiprinaste Meglumina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiprinast Meglumine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[83198-90-7]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiprolisanto]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiprolisant]]></nomenclaturadciinn>
+		<casnumber><![CDATA[362665-56-3]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tipropidil]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8672]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tipropidil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[70895-45-3]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiprostanida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8673]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiprostanide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[67040-53-3]]></casnumber>
+		<ncm><![CDATA[2937.50.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiprotimode]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8674]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiprotimod]]></nomenclaturadciinn>
+		<casnumber><![CDATA[105523-37-3]]></casnumber>
+		<ncm><![CDATA[2934.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiquesida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8675]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiqueside]]></nomenclaturadciinn>
+		<casnumber><![CDATA[99759-19-0]]></casnumber>
+		<ncm><![CDATA[2938.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiquinamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8676]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiquinamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[53400-67-2]]></casnumber>
+		<ncm><![CDATA[2933.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tirabrutinibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tirabrutinib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1351636-18-4]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiracizina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8677]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiracizine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[83275-56-3]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiragolumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[12635]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiragolumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1918185-84-8]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiram]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8678]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thiram]]></nomenclaturadciinn>
+		<casnumber><![CDATA[137-26-8]]></casnumber>
+		<ncm><![CDATA[2930.30.21]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiramina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8679]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tyramine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[51-67-2]]></casnumber>
+		<ncm><![CDATA[2922.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tirapazamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8680]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tirapazamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[27314-97-2]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tirasentive]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tirasentiv]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1005491-05-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiratricol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8681]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiratricol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[51-24-1]]></casnumber>
+		<ncm><![CDATA[2937.90.10]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiratricol Sódico]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8682]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiratricol Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1477-04-9]]></casnumber>
+		<ncm><![CDATA[2937.90.10]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tirbanibulina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tirbanibulin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[897016-82-9]]></casnumber>
+		<ncm><![CDATA[2924.29.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tirilazade]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8683]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tirilazad]]></nomenclaturadciinn>
+		<casnumber><![CDATA[110101-66-1]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tirocidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8685]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tyrocidine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[8011-61-8]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiroctreotida Hinic (99m Tc)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9971]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[99m Tc-Hynic-Tir-Octreotide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[2937.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tirofibana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8686]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tirofiban]]></nomenclaturadciinn>
+		<casnumber><![CDATA[144494-65-5]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiroglobulina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8688]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thyroglobulin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9010-34-8]]></casnumber>
+		<ncm><![CDATA[2937.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiroidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9534]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thyroidin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[8001-24-9]]></casnumber>
+		<ncm><![CDATA[2937.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiromedana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8689]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thyromedan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[15301-96-9]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiropanoato de Sódio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8690]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sodium Tyropanoate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[7246-21-1]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiropramida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8691]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiropramide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[55837-29-1]]></casnumber>
+		<ncm><![CDATA[2924.29.69]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tirosina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8692]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tyrosine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[60-18-4]]></casnumber>
+		<ncm><![CDATA[2922.50.39]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tirosinase]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8693]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tyrosinase]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9002-10-2]]></casnumber>
+		<ncm><![CDATA[3507.90.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tirotricina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8694]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tyrothricin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1404-88-2]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tirotrofina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8695]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thyrotrophin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9002-71-5]]></casnumber>
+		<ncm><![CDATA[2937.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiroxina (125 I)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9756]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thyroxine I 125]]></nomenclaturadciinn>
+		<casnumber><![CDATA[24486-40-6]]></casnumber>
+		<ncm><![CDATA[2844.40.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiroxina (131 I)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9757]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thyroxine I 131]]></nomenclaturadciinn>
+		<casnumber><![CDATA[7019-69-4]]></casnumber>
+		<ncm><![CDATA[2844.40.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tirvalimogeno Teraplasmide]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tirvalimogene Teraplasmid]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1905430-26-3]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tirzepatida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tirzepatide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2023788-19-2]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tisagenlecleucel]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tisagenlecleucel]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tislelizumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[12709]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tislelizumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1858168-59-8]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tisocalcitato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tisocalcitate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[156965-06-9]]></casnumber>
+		<ncm><![CDATA[2918.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tisocromida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8696]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tisocromide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[35423-51-9]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tisopurina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8697]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tisopurine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5334-23-6]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tisoquona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8698]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tisoquone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[40692-37-3]]></casnumber>
+		<ncm><![CDATA[2933.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tisotumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tisotumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1418628-81-5]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tisotumabe Vedotina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tisotumab Vedotin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1418731-10-8]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tivanidazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8699]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tivanidazole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[80680-05-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tivanisirana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tivanisiran]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1848224-71-4]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tivantinibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tivantinib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[905854-02-6]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tiviciclovir]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tiviciclovir]]></nomenclaturadciinn>
+		<casnumber><![CDATA[103024-93-7]]></casnumber>
+		<ncm><![CDATA[2933.59.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tivirapina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tivirapine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[137332-54-8]]></casnumber>
+		<ncm><![CDATA[2933.99.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tivozanibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tivozanib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[475108-18-0]]></casnumber>
+		<ncm><![CDATA[2933.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tixadil]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8700]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tixadil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2949-95-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tixagevimabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[12636]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tixagevimab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2420564-02-7]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tixanox]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8701]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tixanox]]></nomenclaturadciinn>
+		<casnumber><![CDATA[40691-50-7]]></casnumber>
+		<ncm><![CDATA[2932.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tixocortol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8702]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tixocortol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[61951-99-3]]></casnumber>
+		<ncm><![CDATA[2937.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tizabrina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tizabrin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[83573-53-9]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tizanidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8704]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tizanidine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[51322-75-9]]></casnumber>
+		<ncm><![CDATA[2934.99.69]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tizolemida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8706]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tizolemide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[56488-58-5]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tobicilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8707]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tobicillin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[151287-22-8]]></casnumber>
+		<ncm><![CDATA[2941.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Toborinona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8708]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Toborinone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[143343-83-3]]></casnumber>
+		<ncm><![CDATA[2933.79.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tobramicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8709]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tobramycin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[32986-56-4]]></casnumber>
+		<ncm><![CDATA[2941.90.49]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tobuterol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8711]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tobuterol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[75626-99-2]]></casnumber>
+		<ncm><![CDATA[2922.50.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tocainida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8712]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tocainide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[41708-72-9]]></casnumber>
+		<ncm><![CDATA[2924.29.69]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tocanfila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8713]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tocamphyl]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5634-42-4]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Toceranibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Toceranib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[356068-94-5]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tocilizumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9656]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tocilizumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[375823-41-9]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tocladesina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8714]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tocladesine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[41941-56-4]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tocofenoxato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tocofenoxate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[61343-44-0]]></casnumber>
+		<ncm><![CDATA[2936.28.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tocoferila de Tretinoína  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8715]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tretinoin Tocoferil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[40516-48-1]]></casnumber>
+		<ncm><![CDATA[2936.28.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tocofersolana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8720]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tocofersolan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9002-96-4]]></casnumber>
+		<ncm><![CDATA[2936.28.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tocofibrato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8721]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tocofibrate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[50465-39-9]]></casnumber>
+		<ncm><![CDATA[2932.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Todralazina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8722]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Todralazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[14679-73-3]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tofacitinibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10649]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tofacitinib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[477600-75-2]]></casnumber>
+		<ncm><![CDATA[2933.99.59]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tofenacina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8723]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tofenacin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[15301-93-6]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Toferseno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tofersen]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2088232-70-4]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tofetridina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tofetridine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[40173-75-9]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tofimilaste]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8725]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tofimilast]]></nomenclaturadciinn>
+		<casnumber><![CDATA[185954-27-2]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tofisopam]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8726]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tofisopam]]></nomenclaturadciinn>
+		<casnumber><![CDATA[22345-47-7]]></casnumber>
+		<ncm><![CDATA[2933.99.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tofogliflozina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tofogliflozin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[903565-83-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolafentrina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolafentrine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[139308-65-9]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolamolol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8727]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolamolol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[38103-61-6]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolazamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8728]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolazamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1156-19-0]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolazolina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8729]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolazoline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[59-98-3]]></casnumber>
+		<ncm><![CDATA[2933.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolboxano]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8730]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolboxane]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2430-46-8]]></casnumber>
+		<ncm><![CDATA[2931.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolbutamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8731]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolbutamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[64-77-7]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolbutamida Sódica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolbutamide Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[473-41-6]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolcapona  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8732]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolcapone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[134308-13-7]]></casnumber>
+		<ncm><![CDATA[2922.50.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolciclato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8733]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolciclate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[50838-36-3]]></casnumber>
+		<ncm><![CDATA[2930.20.19]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Toldinfós]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8734]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Toldimfos]]></nomenclaturadciinn>
+		<casnumber><![CDATA[57808-64-7]]></casnumber>
+		<ncm><![CDATA[2931.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Toldinfós Sódico]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Toldimfos Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[575-75-7]]></casnumber>
+		<ncm><![CDATA[2931.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolevâmer]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolevamer]]></nomenclaturadciinn>
+		<casnumber><![CDATA[28210-41-5]]></casnumber>
+		<ncm><![CDATA[3911.90.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolevâmer Potássico Sódico]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolevamer Potassium Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[81998-90-5]]></casnumber>
+		<ncm><![CDATA[3911.90.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolevâmer Sódico]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolevamer Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[28038-50-8]]></casnumber>
+		<ncm><![CDATA[3911.90.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolfamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8735]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolfamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[70788-29-3]]></casnumber>
+		<ncm><![CDATA[2929.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolgabida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8736]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolgabide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[86914-11-6]]></casnumber>
+		<ncm><![CDATA[2925.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolicaína]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8737]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolycaine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[3686-58-6]]></casnumber>
+		<ncm><![CDATA[2924.29.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolimidona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8738]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolimidone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[41964-07-2]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolindato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8739]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolindate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[27877-51-6]]></casnumber>
+		<ncm><![CDATA[2930.20.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Toliprolol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8740]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Toliprolol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2933-94-0]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolmesóxido]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8741]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolmesoxide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[38452-29-8]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolmetina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8742]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolmetin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[26171-23-3]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolmetina Sódica Anidra]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8743]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolmetin Sodium Anhydrous]]></nomenclaturadciinn>
+		<casnumber><![CDATA[35711-34-3]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolmetina Sódica Di-Hidratada]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11397]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolmetin Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[64490-92-2]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolnaftato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8744]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolnaftate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2398-96-1]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolnapersina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8745]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolnapersine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[70312-00-4]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolnidamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8746]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolnidamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[50454-68-7]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolonidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8747]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolonidine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[4201-22-3]]></casnumber>
+		<ncm><![CDATA[2933.29.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Toloxatona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8748]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Toloxatone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[29218-27-7]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Toloxiclorinol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8749]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Toloxychlorinol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[6055-48-7]]></casnumber>
+		<ncm><![CDATA[2911.00.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolpadol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8750]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolpadol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[77502-27-3]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolpentamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8751]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolpentamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1027-87-8]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolperisona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8752]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolperisone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[728-88-1]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolpiprazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8754]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolpiprazole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[20326-13-0]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolpirramida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8755]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolpyrramide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5588-38-5]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolpovidona (131 I)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8756]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolpovidone I 131]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9015-62-7]]></casnumber>
+		<ncm><![CDATA[2844.40.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolpronina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8757]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolpronine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[97-57-4]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolpropamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8758]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolpropamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5632-44-0]]></casnumber>
+		<ncm><![CDATA[2921.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolquinzol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8759]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolquinzol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[6187-50-4]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolrestate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8760]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolrestat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[82964-04-3]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolterodina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8761]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolterodine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[124937-51-5]]></casnumber>
+		<ncm><![CDATA[2922.29.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Toltrazurila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8763]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Toltrazuril]]></nomenclaturadciinn>
+		<casnumber><![CDATA[69004-03-1]]></casnumber>
+		<ncm><![CDATA[2933.69.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolufazepam]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8764]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolufazepam]]></nomenclaturadciinn>
+		<casnumber><![CDATA[86273-92-9]]></casnumber>
+		<ncm><![CDATA[2933.99.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tolvaptana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8765]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tolvaptan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[150683-30-0]]></casnumber>
+		<ncm><![CDATA[2933.99.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tomeglovir]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8766]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tomeglovir]]></nomenclaturadciinn>
+		<casnumber><![CDATA[233254-24-5]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tomelucaste]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8767]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tomelukast]]></nomenclaturadciinn>
+		<casnumber><![CDATA[88107-10-2]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tomicorate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tomicorat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1027099-03-1]]></casnumber>
+		<ncm><![CDATA[2933.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tomivosertibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tomivorsetib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1849590-01-7]]></casnumber>
+		<ncm><![CDATA[2933.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tomoglumida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8768]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tomoglumide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[97964-54-0]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tomopeném]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tomopenem]]></nomenclaturadciinn>
+		<casnumber><![CDATA[222400-20-6]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tomoxiprol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8771]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tomoxiprole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[76145-76-1]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tomuzotuximabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tomuzotuximab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1646321-00-7]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tonabacase]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tonabacase]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1788041-31-5]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tonabersate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8772]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tonabersat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[175013-84-0]]></casnumber>
+		<ncm><![CDATA[2932.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tonapofilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tonapofylline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[340021-17-2]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tonazocina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8773]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tonazocine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[71461-18-2]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tonogenconcel]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tonogenconcel]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tonzilamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8774]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thonzylamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[91-85-0]]></casnumber>
+		<ncm><![CDATA[2933.59.49]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Topilutamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Topilutamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[260980-89-0]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Topiramato  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8776]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Topiramate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[97240-79-4]]></casnumber>
+		<ncm><![CDATA[2932.99.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Topiroxolaste]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Topiroxolast]]></nomenclaturadciinn>
+		<casnumber><![CDATA[577778-58-6]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Topixantrona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Topixantrone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[156090-18-5]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Topotecana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8777]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Topotecan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[123948-87-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Toprilidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8779]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Toprilidine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[54063-58-0]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Topsalisina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Topsalysin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[917121-25-6]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Topterona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8780]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Topterone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[60607-35-4]]></casnumber>
+		<ncm><![CDATA[2937.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Toquizina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8781]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Toquizine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[7125-71-5]]></casnumber>
+		<ncm><![CDATA[2939.69.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Toralizumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Toralizumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[252662-47-8]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Torapsel]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Torapsel]]></nomenclaturadciinn>
+		<casnumber><![CDATA[204658-47-9]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Torasemida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8782]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Torasemide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[56211-40-6]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Torbafilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8783]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Torbafylline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[105102-21-4]]></casnumber>
+		<ncm><![CDATA[2939.59.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Torcetrapibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Torcetrapib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[262352-17-0]]></casnumber>
+		<ncm><![CDATA[2933.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Torcitabina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Torcitabine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[40093-94-5]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Toreforanto]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Toreforant]]></nomenclaturadciinn>
+		<casnumber><![CDATA[952494-46-1]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Toremifeno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8784]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Toremifene]]></nomenclaturadciinn>
+		<casnumber><![CDATA[89778-26-7]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Toripalimabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Toripalimab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1924598-82-2]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Toripristona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8786]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Toripristone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[91935-26-1]]></casnumber>
+		<ncm><![CDATA[2937.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosactida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8787]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tosactide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[47931-80-6]]></casnumber>
+		<ncm><![CDATA[2937.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosagestina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tosagestin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[110072-15-6]]></casnumber>
+		<ncm><![CDATA[2937.23.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosatoxumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tosatoxumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1374419-41-6]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosedostate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tosedostat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[238750-77-1]]></casnumber>
+		<ncm><![CDATA[2928.00.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosifeno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8788]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tosifen]]></nomenclaturadciinn>
+		<casnumber><![CDATA[32295-18-4]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Bretílio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8789]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Bretylium Tosilate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[61-75-6]]></casnumber>
+		<ncm><![CDATA[2923.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Cetrimônio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Cetrimonium Tosilate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[138-32-9]]></casnumber>
+		<ncm><![CDATA[2921.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Dactolisibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Dactolisib Tosylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1028385-32-1]]></casnumber>
+		<ncm><![CDATA[2933.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Daledalina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Daledalin Tosilate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[23226-37-1]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Dapaconazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10992]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Dapaconazole Tosylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1394826-04-0]]></casnumber>
+		<ncm><![CDATA[2933.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Denagliptina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Denagliptin Tosilate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[811432-66-3]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Dilmapimode]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Dilmapimod Tosylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[937169-00-1]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Edoxabana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10993]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Edoxaban Tosylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[480449-71-6]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Edoxabana Monoidratado]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10994]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Edoxaban Tosylate Monohydrate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1229194-11-9]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Elubrixina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Elubrixin Tosylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[960495-43-6]]></casnumber>
+		<ncm><![CDATA[2933.59.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Emílio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8790]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Emilium Tosilate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[30716-01-9]]></casnumber>
+		<ncm><![CDATA[2923.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Fluoretilcolina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9964]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Fluoroethylcholine Tosylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[479407-07-3]]></casnumber>
+		<ncm><![CDATA[2923.90.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Improssulfano]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[4851]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Improsulfan Tosilate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[32784-82-0]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Itramina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8791]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Itramin Tosilate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[13445-63-1]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Naldemedina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Naldemedine Tosylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1345728-04-2]]></casnumber>
+		<ncm><![CDATA[2939.19.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Omadaciclina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Omadacycline Tosylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1075240-43-5]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Rebastinibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rebastinib Tosylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1033893-29-6]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Recainam]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7655]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Recainam Tosilate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[74752-08-2]]></casnumber>
+		<ncm><![CDATA[2924.21.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Sorafenibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9536]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sorafenib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[284461-73-0]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Sultamicilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8214]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sultamicillin Tosilate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[83105-70-8]]></casnumber>
+		<ncm><![CDATA[2941.10.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Suplataste]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8792]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Suplatast Tosilate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[94055-76-2]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Talazoparibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11719]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Talazoparib Tosylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1373431-65-2]]></casnumber>
+		<ncm><![CDATA[2933.99.69]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Tebaniclina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tebanicline Tosilate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[198283-74-8]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Tosufloxacino]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tosufloxacin Tosilate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[115964-29-9]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Tretínio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8793]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trethinium Tosilate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1748-43-2]]></casnumber>
+		<ncm><![CDATA[2933.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Troxipirrólio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8794]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Troxypyrrolium Tosilate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[3612-98-4]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Troxônio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8795]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Troxonium Tosilate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[391-70-8]]></casnumber>
+		<ncm><![CDATA[2923.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Varlitinibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Varlitinib Tosylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1146629-86-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato de Xilamidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8796]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Xylamidine Tosilate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[6443-40-9]]></casnumber>
+		<ncm><![CDATA[2925.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilato Do Etibutato de Dasolampanel]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Dasolampanel Etibutas Tosylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[503291-53-0]]></casnumber>
+		<ncm><![CDATA[2933.49.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosilcloramida Sódica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8797]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tosylchloramide Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[127-65-1]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tositumomabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8798]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tositumomab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[208921-02-2]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tositumomabe (131 I)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9758]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tositumomab I 131]]></nomenclaturadciinn>
+		<casnumber><![CDATA[192391-48-3]]></casnumber>
+		<ncm><![CDATA[2844.40.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosufloxacino]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tosufloxacin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[100490-36-6]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosufloxacino Anidro]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8799]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tosufloxacin Anhydrous]]></nomenclaturadciinn>
+		<casnumber><![CDATA[108138-46-1]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tosulur]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8800]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tosulur]]></nomenclaturadciinn>
+		<casnumber><![CDATA[87051-13-6]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Totrombopague]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Totrombopag]]></nomenclaturadciinn>
+		<casnumber><![CDATA[376592-42-6]]></casnumber>
+		<ncm><![CDATA[2933.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Totrombopague Colina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Totrombopag Choline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[851606-62-7]]></casnumber>
+		<ncm><![CDATA[2933.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tovetumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tovetumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1243266-04-7]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Toxina Abobotulínica A]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Abobotulinumtoxin A]]></nomenclaturadciinn>
+		<casnumber><![CDATA[953397-35-8]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Toxina Botulínica A]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9567]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Botulin A]]></nomenclaturadciinn>
+		<casnumber><![CDATA[93384-43-1]]></casnumber>
+		<ncm><![CDATA[3002.49.92]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Toxina Incobotulínica A]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Incobotulinumtoxin A]]></nomenclaturadciinn>
+		<casnumber><![CDATA[93384-43-1]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Toxina Onabotulínica A]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10608]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Onabotulinumtoxin A]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1309378-01-5]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Toxina Rimabotulínica B]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rimabotulinumtoxin B]]></nomenclaturadciinn>
+		<casnumber><![CDATA[93384-44-2]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tozadenanto]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tozadenant]]></nomenclaturadciinn>
+		<casnumber><![CDATA[870070-55-6]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tozalinona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8801]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tozalinone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[655-05-0]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tozasertibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tozasertib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[639089-54-6]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tozuleristida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tozuleristide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1673565-40-6]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trabectedina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9648]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trabectedin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[114899-77-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trabederseno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trabedersen]]></nomenclaturadciinn>
+		<casnumber><![CDATA[925681-61-4]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trabodenosona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trabodenoson]]></nomenclaturadciinn>
+		<casnumber><![CDATA[871108-05-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Traboxopina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8802]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Traboxopine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[103624-59-5]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tracazolato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8803]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tracazolate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[41094-88-6]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tradecamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tradecamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[132787-19-0]]></casnumber>
+		<ncm><![CDATA[2924.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tradipitanto]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tradipitant]]></nomenclaturadciinn>
+		<casnumber><![CDATA[622370-35-8]]></casnumber>
+		<ncm><![CDATA[2933.99.69]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trafermina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8804]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trafermin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[131094-16-1]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tralonida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8805]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tralonide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[21365-49-1]]></casnumber>
+		<ncm><![CDATA[2937.22.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Traloquinumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tralokinumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1044515-88-9]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tramadol  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8806]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tramadol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[27203-92-5]]></casnumber>
+		<ncm><![CDATA[2922.50.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tramazolina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8808]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tramazoline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1082-57-1]]></casnumber>
+		<ncm><![CDATA[2933.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trametinibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10675]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trametinib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[871700-17-3]]></casnumber>
+		<ncm><![CDATA[2924.29.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trametinibe Dimetilsulfóxido]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10664]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trametinib Dimethyl Sulfoxide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1187431-43-1]]></casnumber>
+		<ncm><![CDATA[2924.29.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tramiprosato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tramiprosate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[3687-18-1]]></casnumber>
+		<ncm><![CDATA[2921.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trandolapril]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8810]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trandolapril]]></nomenclaturadciinn>
+		<casnumber><![CDATA[87679-37-6]]></casnumber>
+		<ncm><![CDATA[2933.99.19]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trandolaprilate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8811]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trandolaprilat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[87679-71-8]]></casnumber>
+		<ncm><![CDATA[2933.99.19]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tranilaste]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8812]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tranilast]]></nomenclaturadciinn>
+		<casnumber><![CDATA[53902-12-8]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tranilcipromina  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8813]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tranylcypromine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[155-09-9]]></casnumber>
+		<ncm><![CDATA[2921.49.39]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Transcainida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8815]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Transcainide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[88296-62-2]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Transcrocetina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Transcrocetin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[27876-94-4]]></casnumber>
+		<ncm><![CDATA[3204.19.11]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Transferrina Aldifitox]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Transferrin Aldifitox]]></nomenclaturadciinn>
+		<casnumber><![CDATA[721946-42-5]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trapencaína]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8816]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trapencaine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[104485-01-0]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trapidil]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8817]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trapidil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[15421-84-8]]></casnumber>
+		<ncm><![CDATA[2933.59.49]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trastuzumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8818]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trastuzumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[180288-69-1]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trastuzumabe Deruxtecana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[12392]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trastuzumab Deruxtecan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1826843-81-5]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trastuzumabe Duocarmazina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trastuzumab Duocarmazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1642152-40-6]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trastuzumabe Entansina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10695]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trastuzumab Emtansine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1018448-65-1]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Travoprosta]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8819]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Travoprost]]></nomenclaturadciinn>
+		<casnumber><![CDATA[157283-68-6]]></casnumber>
+		<ncm><![CDATA[2918.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Traxanox]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8820]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Traxanox]]></nomenclaturadciinn>
+		<casnumber><![CDATA[58712-69-9]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Traxanox Sódico]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Traxanox Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[70502-82-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Traxoprodil]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8821]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Traxoprodil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[134234-12-1]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trazitilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8822]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trazitiline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[26070-23-5]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trazodona  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8823]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trazodone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[19794-93-5]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trazoloprida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8825]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trazolopride]]></nomenclaturadciinn>
+		<casnumber><![CDATA[86365-92-6]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trealose]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10078]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trehalose]]></nomenclaturadciinn>
+		<casnumber><![CDATA[6138-23-4]]></casnumber>
+		<ncm><![CDATA[2940.00.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trealose Anidra]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10077]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trehalose Anhydrous]]></nomenclaturadciinn>
+		<casnumber><![CDATA[99-20-7]]></casnumber>
+		<ncm><![CDATA[2940.00.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trebananibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trebananib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[894356-79-7]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trebenzomina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8826]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trebenzomine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[23915-73-3]]></casnumber>
+		<ncm><![CDATA[2932.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trecadrina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8827]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trecadrine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[90845-56-0]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trecetilida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8828]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trecetilide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[180918-68-7]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trecovirseno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8829]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trecovirsen]]></nomenclaturadciinn>
+		<casnumber><![CDATA[148998-94-1]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trecovirseno Sódico]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trecovirsen Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[170274-79-0]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trefentanila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8830]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trefentanil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[120656-74-8]]></casnumber>
+		<ncm><![CDATA[2933.39.89]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tregalizumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tregalizumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1207446-68-1]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trelagliptina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trelagliptine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[865759-25-7]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trelanserina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trelanserin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[189003-92-7]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trelnarizina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8831]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trelnarizine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[123205-52-7]]></casnumber>
+		<ncm><![CDATA[2933.59.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Treloxinato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8832]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Treloxinate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[30910-27-1]]></casnumber>
+		<ncm><![CDATA[2932.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tremacanra]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8833]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tremacamra]]></nomenclaturadciinn>
+		<casnumber><![CDATA[155576-45-7]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trembolona  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8834]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trenbolone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[10161-33-8]]></casnumber>
+		<ncm><![CDATA[2937.29.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tremelimumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11202]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tremelimumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[745013-59-6]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trempamotida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trempamotide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1018833-44-7]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trengestona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8836]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trengestone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5192-84-7]]></casnumber>
+		<ncm><![CDATA[2937.23.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trenizina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8837]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trenizine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[82190-93-0]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Treonina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8838]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Threonine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[72-19-5]]></casnumber>
+		<ncm><![CDATA[2922.50.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Treossulfano]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8839]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Treosulfan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[299-75-2]]></casnumber>
+		<ncm><![CDATA[2905.49.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trepibutona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8840]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trepibutone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[41826-92-0]]></casnumber>
+		<ncm><![CDATA[2918.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trepipam]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8841]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trepipam]]></nomenclaturadciinn>
+		<casnumber><![CDATA[56030-50-3]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Treprostinila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9589]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Treprostinil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[81846-19-7]]></casnumber>
+		<ncm><![CDATA[2937.50.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Treprostinila Diolamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Treprostinil Diolamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[830354-48-8]]></casnumber>
+		<ncm><![CDATA[2937.50.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Treprostinila Sódica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9590]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Treprostinil Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[289480-64-4]]></casnumber>
+		<ncm><![CDATA[2937.50.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Treptilamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8842]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Treptilamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[58313-74-9]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trequinsina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8843]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trequinsin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[79855-88-2]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tresperimo]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8844]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tresperimus]]></nomenclaturadciinn>
+		<casnumber><![CDATA[160677-67-8]]></casnumber>
+		<ncm><![CDATA[2925.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trestolona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8845]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trestolone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[3764-87-2]]></casnumber>
+		<ncm><![CDATA[2937.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tretamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8847]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tretamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[51-18-3]]></casnumber>
+		<ncm><![CDATA[2933.69.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tretazicar]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tretazicar]]></nomenclaturadciinn>
+		<casnumber><![CDATA[21919-05-1]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tretinoína  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8848]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tretinoin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[302-79-4]]></casnumber>
+		<ncm><![CDATA[2936.21.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tretoquinol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8849]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tretoquinol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[30418-38-3]]></casnumber>
+		<ncm><![CDATA[2933.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trevogrumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trevogrumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1429201-24-0]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triacetato de Azauridina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Azauridine Triacetate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2169-64-4]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triacetato de Estriol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Estriol Triacetate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[2937.23.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triacetato de Uridina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Uridine Triacetate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[4105-38-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triacetina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8850]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triacetin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[102-76-1]]></casnumber>
+		<ncm><![CDATA[2915.39.21]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triafungina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8851]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triafungin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[55242-77-8]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triampizina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8852]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triampyzine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[6503-95-3]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triancinolona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8853]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triamcinolone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[124-94-7]]></casnumber>
+		<ncm><![CDATA[2937.22.29]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triancinolona Acetonida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8854]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triamcinolone Acetonide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[76-25-5]]></casnumber>
+		<ncm><![CDATA[2937.22.21]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triancinolona Benetonida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8857]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triamcinolone Benetonide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[31002-79-6]]></casnumber>
+		<ncm><![CDATA[2937.22.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triancinolona Furetonida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8858]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triamcinolone Furetonide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[4989-94-0]]></casnumber>
+		<ncm><![CDATA[2937.22.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triancinolona Hexacetonida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8856]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triamcinolone Hexacetonide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5611-51-8]]></casnumber>
+		<ncm><![CDATA[2937.22.29]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triantereno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8859]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triamterene]]></nomenclaturadciinn>
+		<casnumber><![CDATA[396-01-0]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triaziquona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8860]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triaziquone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[68-76-8]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triazolam  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8861]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triazolam]]></nomenclaturadciinn>
+		<casnumber><![CDATA[28911-01-5]]></casnumber>
+		<ncm><![CDATA[2933.91.83]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tribendilol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8862]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tribendilol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[96258-13-8]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tribenosídeo]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8863]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tribenoside]]></nomenclaturadciinn>
+		<casnumber><![CDATA[10310-32-4]]></casnumber>
+		<ncm><![CDATA[2940.00.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tribronsalana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8864]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tribromsalan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[87-10-5]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tribuzona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8865]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tribuzone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[13221-27-7]]></casnumber>
+		<ncm><![CDATA[2933.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tricaprilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tricaprilin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[538-23-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triciribina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8866]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triciribine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[35943-35-2]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triclabendazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8868]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triclabendazole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[68786-66-3]]></casnumber>
+		<ncm><![CDATA[2933.99.59]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triclacetamol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8869]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triclacetamol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[6340-87-0]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triclazato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8870]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triclazate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[7009-76-9]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triclocarbana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8871]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triclocarban]]></nomenclaturadciinn>
+		<casnumber><![CDATA[101-20-2]]></casnumber>
+		<ncm><![CDATA[2924.21.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triclodazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8872]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triclodazol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[56-28-0]]></casnumber>
+		<ncm><![CDATA[2933.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triclofenol Piperazina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8873]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triclofenol-Piperazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5714-82-9]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triclofilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8874]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triclofylline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[17243-70-8]]></casnumber>
+		<ncm><![CDATA[2939.59.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triclofós  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8875]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triclofos]]></nomenclaturadciinn>
+		<casnumber><![CDATA[306-52-5]]></casnumber>
+		<ncm><![CDATA[2919.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triclofós Sódico  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8876]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triclofos Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[7246-20-0]]></casnumber>
+		<ncm><![CDATA[2919.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triclonida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8877]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triclonide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[26849-57-0]]></casnumber>
+		<ncm><![CDATA[2937.22.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tricloreto de Gálio (67 GA)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Gallium Trichloride (GA 67)]]></nomenclaturadciinn>
+		<casnumber><![CDATA[13450-90-3]]></casnumber>
+		<ncm><![CDATA[2827.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tricloridrato de Difluanazina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Difluanazine Trihydrochloride]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5522-33-8]]></casnumber>
+		<ncm><![CDATA[2933.59.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tricloridrato de Di-Hidroestreptomicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Dihydroestreptomicin Trihydrochloride]]></nomenclaturadciinn>
+		<casnumber><![CDATA[6533-54-6]]></casnumber>
+		<ncm><![CDATA[2941.20.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tricloridrato de Gusperimo]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Gusperimus Trihydrochloride]]></nomenclaturadciinn>
+		<casnumber><![CDATA[85468-01-5]]></casnumber>
+		<ncm><![CDATA[2925.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tricloridrato de Ledoxantrona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Ledoxantrone Trihydrochloride]]></nomenclaturadciinn>
+		<casnumber><![CDATA[119221-49-7]]></casnumber>
+		<ncm><![CDATA[2922.50.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tricloridrato de Lupitidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Lupitidine Trihydrochloride]]></nomenclaturadciinn>
+		<casnumber><![CDATA[72716-75-7]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tricloridrato de Volasertibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Volasertib Trihydrochloride]]></nomenclaturadciinn>
+		<casnumber><![CDATA[946161-17-7]]></casnumber>
+		<ncm><![CDATA[2924.29.59]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tricloridrato de Zosuquidar]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Zosuquidar Trihydrochloride]]></nomenclaturadciinn>
+		<casnumber><![CDATA[167465-36-3]]></casnumber>
+		<ncm><![CDATA[2933.59.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triclormetiazida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8878]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trichlormethiazide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[133-67-5]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triclormetina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8879]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trichlormethine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[555-77-1]]></casnumber>
+		<ncm><![CDATA[2921.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tricloroetileno  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8880]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trichloroethylene]]></nomenclaturadciinn>
+		<casnumber><![CDATA[79-01-6]]></casnumber>
+		<ncm><![CDATA[2903.22.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triclosana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8881]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triclosan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[3380-34-5]]></casnumber>
+		<ncm><![CDATA[2909.50.11]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tricosactídeo]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tricosactide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[20282-58-0]]></casnumber>
+		<ncm><![CDATA[2937.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tridecactida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tridecactide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[22006-64-0]]></casnumber>
+		<ncm><![CDATA[2937.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tridolgosir]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8882]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tridolgosir]]></nomenclaturadciinn>
+		<casnumber><![CDATA[72741-87-8]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trientina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8883]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trientine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[112-24-3]]></casnumber>
+		<ncm><![CDATA[2921.29.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triestearato de Sorbitana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8885]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sorbitan Tristearate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[26658-19-5]]></casnumber>
+		<ncm><![CDATA[2932.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trietiliodeto de Galamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8886]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Gallamine Triethiodide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[65-29-2]]></casnumber>
+		<ncm><![CDATA[2923.90.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triexifenidil  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8887]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trihexyphenidyl]]></nomenclaturadciinn>
+		<casnumber><![CDATA[144-11-6]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trifaroteno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trifarotene]]></nomenclaturadciinn>
+		<casnumber><![CDATA[895542-09-3]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trifenagrel]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8889]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trifenagrel]]></nomenclaturadciinn>
+		<casnumber><![CDATA[84203-09-8]]></casnumber>
+		<ncm><![CDATA[2933.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trifenatato de Vilanterol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10676]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Vilanterol Trifenatate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[503070-58-4]]></casnumber>
+		<ncm><![CDATA[2908.19.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trifezolaco]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8890]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trifezolac]]></nomenclaturadciinn>
+		<casnumber><![CDATA[32710-91-1]]></casnumber>
+		<ncm><![CDATA[2933.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triflocina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8891]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triflocin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[13422-16-7]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triflubazam]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8892]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triflubazam]]></nomenclaturadciinn>
+		<casnumber><![CDATA[22365-40-8]]></casnumber>
+		<ncm><![CDATA[2933.79.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triflumidato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8893]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triflumidate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[24243-89-8]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trifluomeprazina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8894]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trifluomeprazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2622-37-9]]></casnumber>
+		<ncm><![CDATA[2934.30.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trifluoperazina  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8895]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trifluoperazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[117-89-5]]></casnumber>
+		<ncm><![CDATA[2934.30.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trifluoroacetato de Eledoisina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Eledoisin Trifluoroacetate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[10129-92-7]]></casnumber>
+		<ncm><![CDATA[2933.79.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trifluoroacetato de Lamifibana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Lamifiban Trifluoroacetate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[144412-50-0]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trifluoroacetato de Tigapotida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tigapotide Trifluoroacetate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[848084-84-4]]></casnumber>
+		<ncm><![CDATA[2922.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trifluoroacetato de Tropantiol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[12465]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tropantiol Trifluoroacetate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trifluperidol  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8897]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trifluperidol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[749-13-3]]></casnumber>
+		<ncm><![CDATA[2933.39.19]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triflupromazina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8899]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triflupromazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[146-54-3]]></casnumber>
+		<ncm><![CDATA[2934.30.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trifluridina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8901]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trifluridine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[70-00-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triflusal]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8902]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triflusal]]></nomenclaturadciinn>
+		<casnumber><![CDATA[322-79-2]]></casnumber>
+		<ncm><![CDATA[2918.29.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trifosfato de Adenosina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Adenosine Triphosphate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[56-65-5]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trifosfato Dissódico de Uridina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9338]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Disodium Uridine Triphosphate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[36051-69-1]]></casnumber>
+		<ncm><![CDATA[2934.99.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trifosfato Trissódico de Uridina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9627]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Uridine 5'-(Trisodium Hydrogen Triphosphate)]]></nomenclaturadciinn>
+		<casnumber><![CDATA[19817-92-6]]></casnumber>
+		<ncm><![CDATA[2934.99.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trifosmina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8903]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trifosmin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[83622-85-9]]></casnumber>
+		<ncm><![CDATA[2931.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trigevolol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8904]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trigevolol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[76812-98-1]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tri-Iodeto de Esparteína]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sparteine Triiodide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[74664-12-3]]></casnumber>
+		<ncm><![CDATA[2939.80.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trilaciclibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trilaciclib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1374743-00-6]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triletida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8905]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triletide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[62087-96-1]]></casnumber>
+		<ncm><![CDATA[2933.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trilostano]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8906]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trilostane]]></nomenclaturadciinn>
+		<casnumber><![CDATA[13647-35-3]]></casnumber>
+		<ncm><![CDATA[2937.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trimazosina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8907]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trimazosin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[35795-16-5]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trimebutina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8909]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trimebutine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[39133-31-8]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trimecaína]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8911]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trimecaine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[616-68-2]]></casnumber>
+		<ncm><![CDATA[2924.29.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trimegestona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8912]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trimegestone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[74513-62-5]]></casnumber>
+		<ncm><![CDATA[2937.23.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trimeperidina  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8913]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trimeperidine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[64-39-1]]></casnumber>
+		<ncm><![CDATA[2933.33.93]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trimetadiona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8915]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trimethadione]]></nomenclaturadciinn>
+		<casnumber><![CDATA[127-48-0]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trimetamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8916]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trimetamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5789-72-0]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trimetazidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8917]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trimetazidine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5011-34-7]]></casnumber>
+		<ncm><![CDATA[2933.59.19]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trimetobenzamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8919]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trimethobenzamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[138-56-7]]></casnumber>
+		<ncm><![CDATA[2924.29.59]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trimetoprima]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8921]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trimethoprim]]></nomenclaturadciinn>
+		<casnumber><![CDATA[738-70-5]]></casnumber>
+		<ncm><![CDATA[2933.59.41]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trimetoxibenzaldeido]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8923]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[2,3,4 Trimethoxybenzaldehide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[54061-90-4]]></casnumber>
+		<ncm><![CDATA[2912.49.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trimetozina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8924]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trimetozine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[635-41-6]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trimetrexato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8925]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trimetrexate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[52128-35-5]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trimexilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8926]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trimexiline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[58757-61-2]]></casnumber>
+		<ncm><![CDATA[2921.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trimipramina  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8927]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trimipramine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[739-71-9]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trimoprostila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8929]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trimoprostil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[69900-72-7]]></casnumber>
+		<ncm><![CDATA[2937.50.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trimoxamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8930]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trimoxamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[15686-23-4]]></casnumber>
+		<ncm><![CDATA[2922.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trioleato de Sorbitana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8932]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sorbitan Trioleate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[26266-58-0]]></casnumber>
+		<ncm><![CDATA[2932.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trioleina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9866]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Glycerol Trioleate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[122-32-7]]></casnumber>
+		<ncm><![CDATA[2916.15.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trioleína (125 I)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10079]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triolein I 125]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[2844.40.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trioleína (131 I)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10080]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triolein I 131]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[2844.40.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trióxido de Arsênio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9609]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Arsenic Trioxide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1327-53-3]]></casnumber>
+		<ncm><![CDATA[2825.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trióxido de Gadolínio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9512]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Gadolinium (III) Oxide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[12064-62-9]]></casnumber>
+		<ncm><![CDATA[2846.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trioxifeno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8933]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trioxifene]]></nomenclaturadciinn>
+		<casnumber><![CDATA[63619-84-1]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trioxisaleno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8935]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trioxsalen]]></nomenclaturadciinn>
+		<casnumber><![CDATA[3902-71-4]]></casnumber>
+		<ncm><![CDATA[2932.20.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tripalmitina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8936]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tripalmitin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[555-44-2]]></casnumber>
+		<ncm><![CDATA[2915.70.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tripamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8937]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tripamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[73803-48-2]]></casnumber>
+		<ncm><![CDATA[2935.00.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triparanol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8938]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triparanol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[78-41-1]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triparsamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8939]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tryparsamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[554-72-3]]></casnumber>
+		<ncm><![CDATA[2931.90.59]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tripelenamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8940]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tripelennamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[91-81-6]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triprolidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8944]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triprolidine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[486-12-4]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tripsina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8946]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trypsin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9002-07-7]]></casnumber>
+		<ncm><![CDATA[3507.90.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triptofano]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8947]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tryptophan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[73-22-3]]></casnumber>
+		<ncm><![CDATA[2933.99.19]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Triptorrelina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8949]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Triptorelin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[57773-63-4]]></casnumber>
+		<ncm><![CDATA[2937.90.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trissilicato de Magnésio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9849]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Magnesium Trisilicate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[39365-87-2]]></casnumber>
+		<ncm><![CDATA[2839.90.10]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trissilicato de Magnésio Anidro]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8952]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Magnesium Trisilicate Anhydrous]]></nomenclaturadciinn>
+		<casnumber><![CDATA[14987-04-3]]></casnumber>
+		<ncm><![CDATA[2839.90.10]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trissulfeto de Antimonio Coloidal (99m Tc)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10081]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Technetium Tc 99m Antimony Trisulfide Colloid]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[2844.40.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tritiozina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8953]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tritiozine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[35619-65-9]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tritoqualina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8954]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tritoqualine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[14504-73-5]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trixolano]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8955]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trixolane]]></nomenclaturadciinn>
+		<casnumber><![CDATA[47420-28-0]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trizoxima]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8956]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trizoxime]]></nomenclaturadciinn>
+		<casnumber><![CDATA[35710-57-7]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trocimina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8957]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trocimine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[14368-24-2]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trocloseno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Troclosene]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2782-57-2]]></casnumber>
+		<ncm><![CDATA[2933.69.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trocloseno Potássico]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8958]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Troclosene Potassium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2244-21-5]]></casnumber>
+		<ncm><![CDATA[2933.69.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trocloseno Sódico]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Troclosene Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2893-78-9]]></casnumber>
+		<ncm><![CDATA[2933.69.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trodusquemina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trodusquemine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[186139-09-3]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trofinetida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trofinetide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[853400-76-7]]></casnumber>
+		<ncm><![CDATA[2922.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trofosfamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8959]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trofosfamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[22089-22-1]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Troglitazona  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8960]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Troglitazone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[97322-87-7]]></casnumber>
+		<ncm><![CDATA[2934.10.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trolamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8961]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trolamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[102-71-6]]></casnumber>
+		<ncm><![CDATA[2922.15.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Troleandomicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8964]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Troleandomycin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2751-09-9]]></casnumber>
+		<ncm><![CDATA[2941.90.59]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trolnitrato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8965]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trolnitrate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[7077-34-1]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tromantadina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8967]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tromantadine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[53783-83-8]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trombina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8969]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thrombin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9002-04-4]]></casnumber>
+		<ncm><![CDATA[3507.90.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tromboplastina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8970]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Thromboplastin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9002-05-5]]></casnumber>
+		<ncm><![CDATA[3507.90.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trometamol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8971]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trometamol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[77-86-1]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trometamol de Dinoprosta]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[3091]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Dinoprost Tromethamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[38562-01-5]]></casnumber>
+		<ncm><![CDATA[2937.50.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tropabazato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tropabazate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[64294-94-6]]></casnumber>
+		<ncm><![CDATA[2939.80.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tropanserina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8972]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tropanserin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[85181-40-4]]></casnumber>
+		<ncm><![CDATA[2939.80.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tropantiol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11660]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tropantiol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[189950-11-6]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tropantiol (99m Tc)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[12471]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Technetium Tc 99m Tropantiol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[184677-53-0]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tropaprida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8974]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tropapride]]></nomenclaturadciinn>
+		<casnumber><![CDATA[76352-13-1]]></casnumber>
+		<ncm><![CDATA[2939.80.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tropatepina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8975]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tropatepine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[27574-24-9]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tropicamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8978]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tropicamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1508-75-4]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tropifexor]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tropifexor]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1383816-29-2]]></casnumber>
+		<ncm><![CDATA[2934.20.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tropiglina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8979]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tropigline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[533-08-4]]></casnumber>
+		<ncm><![CDATA[2939.80.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tropirina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8980]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tropirine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[19410-02-7]]></casnumber>
+		<ncm><![CDATA[2939.80.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tropisetrona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8981]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tropisetron]]></nomenclaturadciinn>
+		<casnumber><![CDATA[89565-68-4]]></casnumber>
+		<ncm><![CDATA[2939.80.00]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tropodifeno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8983]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tropodifene]]></nomenclaturadciinn>
+		<casnumber><![CDATA[15790-02-0]]></casnumber>
+		<ncm><![CDATA[2939.80.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Troquidazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8984]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Troquidazole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[108001-60-1]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trospectomicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8985]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trospectomycin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[88669-04-9]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trovafloxacino]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8987]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trovafloxacin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[147059-72-1]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Trovirdina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trovirdine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[149488-17-5]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Troxacitabina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8989]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Troxacitabine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[145918-75-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Troxerrutina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8990]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Troxerutin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[7085-55-4]]></casnumber>
+		<ncm><![CDATA[2938.10.00]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Troxipida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8991]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Troxipide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[30751-05-4]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Troxolamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8992]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Troxolamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[97546-74-2]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tuaminoeptano]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8993]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tuaminoheptane]]></nomenclaturadciinn>
+		<casnumber><![CDATA[123-82-0]]></casnumber>
+		<ncm><![CDATA[2921.19.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tuberactinomicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tuberactinomycin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[11075-36-8]]></casnumber>
+		<ncm><![CDATA[2941.90.89]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tubulozol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8995]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tubulozole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[84697-22-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tucaresol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8997]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tucaresol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[84290-27-7]]></casnumber>
+		<ncm><![CDATA[2918.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tucatinibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tucatinib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[937263-43-9]]></casnumber>
+		<ncm><![CDATA[2933.99.69]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tucidinostate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tucidinostat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1616493-44-7]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tuclazepam]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8998]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tuclazepam]]></nomenclaturadciinn>
+		<casnumber><![CDATA[51037-88-8]]></casnumber>
+		<ncm><![CDATA[2933.99.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tucotuzumabe Celmoleucina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tucozumab Celmoleukin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[339986-90-2]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tulatromicina A]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tulathromycin A]]></nomenclaturadciinn>
+		<casnumber><![CDATA[217500-96-4]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Tulatromicina B]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tulathromycin B]]></nomenclaturadciinn>
+		<casnumber><![CDATA[280755-12-6]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+</data>

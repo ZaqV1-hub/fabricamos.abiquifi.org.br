@@ -1,0 +1,4003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Petrolato Branco]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9104]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[White Petrolatum]]></nomenclaturadciinn>
+		<casnumber><![CDATA[308069-07-0]]></casnumber>
+		<ncm><![CDATA[2712.10.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Petrolato Líquido]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9388]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Liquid Petrolatum]]></nomenclaturadciinn>
+		<casnumber><![CDATA[8012-95-1]]></casnumber>
+		<ncm><![CDATA[2712.10.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pevonedistate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pevonedistat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[905579-51-3]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pexacerfonte]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pexacerfont]]></nomenclaturadciinn>
+		<casnumber><![CDATA[459856-18-9]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pexantel]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7010]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pexantel]]></nomenclaturadciinn>
+		<casnumber><![CDATA[10001-13-5]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pexastimogeno Devacirepeveco]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pexastimogene Devacirepvec]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1058624-46-6]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pexelizumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7011]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pexelizumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[219685-93-5]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pexidartinibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pexidartinib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1029044-16-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pexiganana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7012]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pexiganan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[147664-63-9]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pexmetinibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pexmetinib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[945614-12-0]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pibaxizina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7013]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pibaxizine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[82227-39-2]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pibecarbe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7014]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pibecarb]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2522-81-8]]></casnumber>
+		<ncm><![CDATA[2918.30.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piberalina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7015]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piberaline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[39640-15-8]]></casnumber>
+		<ncm><![CDATA[2933.59.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piboserode]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7016]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piboserod]]></nomenclaturadciinn>
+		<casnumber><![CDATA[152811-62-6]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pibrentasvir]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11509]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pibrentasvir]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1353900-92-1]]></casnumber>
+		<ncm><![CDATA[2924.29.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pibrozelesina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7017]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pibrozelesin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[154889-68-6]]></casnumber>
+		<ncm><![CDATA[2933.59.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pibutidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7018]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pibutidine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[103922-33-4]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picadex]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Picadex]]></nomenclaturadciinn>
+		<casnumber><![CDATA[99-00-3]]></casnumber>
+		<ncm><![CDATA[2933.59.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picafibrato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7019]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Picafibrate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[57548-79-5]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picartamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7020]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Picartamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[76732-75-7]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picenadol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7021]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Picenadol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[79201-85-7]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picetoprofeno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7022]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piketoprofen]]></nomenclaturadciinn>
+		<casnumber><![CDATA[60576-13-8]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picilorex]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7023]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Picilorex]]></nomenclaturadciinn>
+		<casnumber><![CDATA[62510-56-9]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piclamilaste]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7024]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piclamilast]]></nomenclaturadciinn>
+		<casnumber><![CDATA[144035-83-6]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piclidenosona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piclidenoson]]></nomenclaturadciinn>
+		<casnumber><![CDATA[152918-18-8]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piclonidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7025]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piclonidine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[72467-44-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piclopastina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7026]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piclopastine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[55837-13-3]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picloxidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7027]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Picloxydine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5636-92-0]]></casnumber>
+		<ncm><![CDATA[2933.59.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piclozotana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piclozotan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[182415-09-4]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picobenzida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7028]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Picobenzide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[51832-87-2]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picodralazina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7029]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Picodralazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[17692-43-2]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picofosfato de Sódio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7030]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Picofosfate Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[36175-05-0]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picolamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7031]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Picolamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[3731-52-0]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picolinato de Cromo]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9882]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Chromium Picolinate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[14639-25-9]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piconol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7032]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piconol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[586-98-1]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picoperina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7033]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Picoperine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[21755-66-8]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picoplatina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Picoplatin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[181630-15-9]]></casnumber>
+		<ncm><![CDATA[2843.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picoprazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7034]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Picoprazole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[78090-11-6]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picossulfato de Sódio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7035]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sodium Picosulfate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[10040-45-6]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picossulfato de Sódio Monoidratado]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10986]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sodium Picosulfate Monohydrate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1307301-38-7]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picotrina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7036]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Picotrin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[64063-57-6]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picotrina Diolamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Picotrine Diolamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[64063-83-8]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picrato de Butambeno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[1579]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Butamben Picrate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[577-48-0]]></casnumber>
+		<ncm><![CDATA[2922.49.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picrato de Prata]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Silver Picrate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[146-84-9]]></casnumber>
+		<ncm><![CDATA[2843.29.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picrotoxina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7037]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Picrotoxin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[124-87-8]]></casnumber>
+		<ncm><![CDATA[2932.20.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pictilisibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pictilisib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[957054-30-7]]></casnumber>
+		<ncm><![CDATA[2933.59.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picumaste]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7038]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Picumast]]></nomenclaturadciinn>
+		<casnumber><![CDATA[39577-19-0]]></casnumber>
+		<ncm><![CDATA[2934.99.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Picumeterol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7039]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Picumeterol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[130641-36-0]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pidilizumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pidilizumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1036730-42-3]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pidobenzona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7041]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pidobenzone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[138506-45-3]]></casnumber>
+		<ncm><![CDATA[2933.79.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pidolacetamol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7042]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pidolacetamol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[114485-92-6]]></casnumber>
+		<ncm><![CDATA[2933.79.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pidolato de Arginina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[871]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Arginine Pyroglutamate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[64855-91-0]]></casnumber>
+		<ncm><![CDATA[2933.79.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pidolato de Magnésio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9635]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Magnesium Pidolate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[62003-27-4]]></casnumber>
+		<ncm><![CDATA[2933.79.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pidolato de Piridoxina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9467]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyridoxine Pidolate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[74536-44-0]]></casnumber>
+		<ncm><![CDATA[2936.25.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pidolato de Sódio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[325]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sodium Pidolate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[28874-51-3]]></casnumber>
+		<ncm><![CDATA[2933.79.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pidotimode]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7043]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pidotimod]]></nomenclaturadciinn>
+		<casnumber><![CDATA[121808-62-6]]></casnumber>
+		<ncm><![CDATA[2934.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pifarnina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7044]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pifarnine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[56208-01-6]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pifenato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7045]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pifenate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[15686-87-0]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pifexol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pifexole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[27199-40-2]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piflutixol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piflutixol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[54341-02-5]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pifonaquina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7046]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pifonakin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[112721-39-8]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pifoxima]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7047]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pifoxime]]></nomenclaturadciinn>
+		<casnumber><![CDATA[31224-92-7]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pilaralisibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pilaralisib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[934526-89-3]]></casnumber>
+		<ncm><![CDATA[2924.29.69]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pildralazina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7048]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pildralazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[64000-73-3]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pilocarpina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7049]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pilocarpine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[92-13-7]]></casnumber>
+		<ncm><![CDATA[2939.79.31]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pilsicainida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7052]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pilsicainide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[88069-67-4]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pimagedina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7053]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pimagedine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[79-17-4]]></casnumber>
+		<ncm><![CDATA[2928.00.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pimasertibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pimasertib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1236699-92-5]]></casnumber>
+		<ncm><![CDATA[2934.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pimavanserina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pimavanserin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[706779-91-1]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pimeclona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7054]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pimeclone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[534-84-9]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pimecrólimo]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7055]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pimecrólimus]]></nomenclaturadciinn>
+		<casnumber><![CDATA[137071-32-0]]></casnumber>
+		<ncm><![CDATA[2941.90.59]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pimefilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7056]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pimefylline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[10001-43-1]]></casnumber>
+		<ncm><![CDATA[2939.59.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pimelautida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7057]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pimelautide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[78512-63-7]]></casnumber>
+		<ncm><![CDATA[2924.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pimetacina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7058]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pimetacin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[79992-71-5]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pimetina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7059]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pimetine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[3565-03-5]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pimetixeno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7060]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pimethixene]]></nomenclaturadciinn>
+		<casnumber><![CDATA[314-03-4]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pimetremida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7062]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pimetremide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[578-89-2]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pimilprosta]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7063]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pimilprost]]></nomenclaturadciinn>
+		<casnumber><![CDATA[139403-31-9]]></casnumber>
+		<ncm><![CDATA[2918.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piminodina  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7064]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piminodine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[13495-09-5]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pimobendana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7070]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pimobendan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[74150-27-9]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pimodivir]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pimodivir]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1629869-44-8]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pimonidazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7071]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pimonidazole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[70132-50-2]]></casnumber>
+		<ncm><![CDATA[2933.39.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pimozida  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7072]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pimozide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2062-78-4]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pinacidil]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pinacidil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[85371-64-8]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pinacidil Anidro]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7073]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pinacidil Anhydrous]]></nomenclaturadciinn>
+		<casnumber><![CDATA[60560-33-0]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pinadolina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7074]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pinadoline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[38955-22-5]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pinafida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7075]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pinafide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[54824-20-3]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pinatuzumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pinatuzumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d.]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pinatuzumabe Vedotina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pinatuzumab Vedotin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1313706-14-7]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pinazepam  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7076]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pinazepam]]></nomenclaturadciinn>
+		<casnumber><![CDATA[52463-83-9]]></casnumber>
+		<ncm><![CDATA[2933.91.71]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pincainida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7077]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pincainide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[83471-41-4]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pindolol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7078]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pindolol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[13523-86-9]]></casnumber>
+		<ncm><![CDATA[2933.99.13]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pinocalanto]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7079]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pinokalant]]></nomenclaturadciinn>
+		<casnumber><![CDATA[149759-26-2]]></casnumber>
+		<ncm><![CDATA[2933.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pinolcaína]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7080]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pinolcaine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[28240-18-8]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pinometostate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pinometostat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1380288-87-8]]></casnumber>
+		<ncm><![CDATA[2921.59.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pinoxepina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7081]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pinoxepin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[14008-66-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pintumomabe (99m Tc)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8337]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Technetium Tc 99m Pintumomab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[157476-76-1]]></casnumber>
+		<ncm><![CDATA[2844.40.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pioglitazona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7082]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pioglitazone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[111025-46-8]]></casnumber>
+		<ncm><![CDATA[2934.10.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pipaciclina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7084]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pipacycline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1110-80-1]]></casnumber>
+		<ncm><![CDATA[2941.30.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pipamazina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7085]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pipamazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[84-04-8]]></casnumber>
+		<ncm><![CDATA[2934.30.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pipamperona  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7086]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pipamperone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1893-33-0]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pipazetato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7087]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pipazetate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2167-85-3]]></casnumber>
+		<ncm><![CDATA[2934.99.49]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pipebuzona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7089]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pipebuzone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[27315-91-9]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pipendoxifeno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7090]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pipendoxifene]]></nomenclaturadciinn>
+		<casnumber><![CDATA[198480-55-6]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pipenzolato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7091]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pipenzolate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[13473-38-6]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pipequalina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7093]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pipequaline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[77472-98-1]]></casnumber>
+		<ncm><![CDATA[2933.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piperacetazina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7094]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piperacetazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[3819-00-9]]></casnumber>
+		<ncm><![CDATA[2934.30.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piperacilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[12366]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piperacillin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[66258-76-2]]></casnumber>
+		<ncm><![CDATA[2941.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piperacilina Anidra]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7095]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piperacillin Anhydrous]]></nomenclaturadciinn>
+		<casnumber><![CDATA[61477-96-1]]></casnumber>
+		<ncm><![CDATA[2941.10.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piperacilina Sódica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7096]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piperacillin Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[59703-84-3]]></casnumber>
+		<ncm><![CDATA[2941.10.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piperamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7097]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piperamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[299-48-9]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piperaquina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9957]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piperaquine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[4085-31-8]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piperazina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7099]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piperazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[110-85-0]]></casnumber>
+		<ncm><![CDATA[2933.59.19]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piperazina Hexahidratada]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9518]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piperazine Hexahydrate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[142-63-2]]></casnumber>
+		<ncm><![CDATA[2933.59.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piperidolato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7106]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piperidolate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[82-98-4]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piperilona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7108]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piperylone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2531-04-6]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piperocaína]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7109]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piperocaine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[136-82-3]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piperonal]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7110]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piperonal]]></nomenclaturadciinn>
+		<casnumber><![CDATA[120-57-0]]></casnumber>
+		<ncm><![CDATA[2912.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piperoxano]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7111]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piperoxan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[59-39-2]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pipetanato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7112]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pipethanate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[4546-39-8]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pipobromana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7113]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pipobroman]]></nomenclaturadciinn>
+		<casnumber><![CDATA[54-91-1]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pipoctanona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7114]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pipoctanone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[18841-58-2]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pipofezina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7115]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pipofezine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[24886-52-0]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pipossulfano]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7116]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piposulfan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2608-24-4]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pipotiazina  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7117]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pipotiazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[39860-99-6]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pipoxizina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7119]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pipoxizine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[55837-21-3]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pipoxolana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7120]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pipoxolan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[23744-24-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pipradimadol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7122]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pipradimadol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[68797-29-5]]></casnumber>
+		<ncm><![CDATA[2933.39.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pipradrol  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7123]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pipradrol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[467-60-7]]></casnumber>
+		<ncm><![CDATA[2933.33.83]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pipramadol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pipramadol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[55313-67-2]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pipratecol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7125]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pipratecol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[15534-05-1]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piprinidrinato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7126]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piprinhydrinate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[606-90-6]]></casnumber>
+		<ncm><![CDATA[2939.59.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piprofurol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7127]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piprofurol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[40680-87-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piprozolina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7128]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piprozolin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[17243-64-0]]></casnumber>
+		<ncm><![CDATA[2934.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piquindona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7129]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piquindone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[78541-97-6]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piquizila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7131]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piquizil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[21560-58-7]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piracetam]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7133]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piracetam]]></nomenclaturadciinn>
+		<casnumber><![CDATA[7491-74-9]]></casnumber>
+		<ncm><![CDATA[2933.79.10]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piragliatina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piragliatin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[625114-41-2]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirandamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7134]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirandamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[42408-79-7]]></casnumber>
+		<ncm><![CDATA[2932.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirantel]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7136]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyrantel]]></nomenclaturadciinn>
+		<casnumber><![CDATA[15686-83-6]]></casnumber>
+		<ncm><![CDATA[2934.99.69]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirarrubicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7139]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirarubicin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[72496-41-4]]></casnumber>
+		<ncm><![CDATA[2941.90.89]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piraxelato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7140]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piraxelate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[82209-39-0]]></casnumber>
+		<ncm><![CDATA[2933.79.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirazinamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7141]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyrazinamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[98-96-4]]></casnumber>
+		<ncm><![CDATA[2933.99.11]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirazmonam]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7142]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirazmonam]]></nomenclaturadciinn>
+		<casnumber><![CDATA[108319-07-9]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirazmonam Sódico]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirazmonam Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[104393-00-2]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirazofurina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7143]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirazofurin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[30868-30-5]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirazolaco]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7144]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirazolac]]></nomenclaturadciinn>
+		<casnumber><![CDATA[71002-09-0]]></casnumber>
+		<ncm><![CDATA[2933.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirbenicilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7145]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirbenicillin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[55975-92-3]]></casnumber>
+		<ncm><![CDATA[2941.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirbenicilina Sódica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirbenicillin Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[55162-26-0]]></casnumber>
+		<ncm><![CDATA[2941.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirbuterol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7146]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirbuterol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[38677-81-5]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piremperona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7148]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirenperone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[75444-65-4]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirenoxina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7149]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirenoxine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1043-21-6]]></casnumber>
+		<ncm><![CDATA[2934.99.19]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirenoxina Sódica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7150]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirenoxine Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[51410-30-1]]></casnumber>
+		<ncm><![CDATA[2934.99.12]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirenzepina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7151]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirenzepine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[28797-61-7]]></casnumber>
+		<ncm><![CDATA[2933.59.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirepolol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7153]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirepolol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[69479-26-1]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piretanida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7154]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piretanide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[55837-27-9]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirfenidona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7155]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirfenidone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[53179-13-8]]></casnumber>
+		<ncm><![CDATA[2933.79.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piribedil]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7156]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piribedil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[3605-01-4]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piricarbato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7157]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyricarbate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1882-26-4]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piridarona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyridarone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[7035-04-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piridicilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7158]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piridicillin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[69414-41-1]]></casnumber>
+		<ncm><![CDATA[2941.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piridicilina Sódica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piridicillin Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[69402-03-5]]></casnumber>
+		<ncm><![CDATA[2941.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piridocaína]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7159]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piridocaine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[87-21-8]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piridofilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7160]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyridofylline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[53403-97-7]]></casnumber>
+		<ncm><![CDATA[2939.59.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piridostigmina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7161]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyridostigmine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[155-97-5]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piridoxal]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7163]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyridoxal]]></nomenclaturadciinn>
+		<casnumber><![CDATA[66-72-8]]></casnumber>
+		<ncm><![CDATA[2936.25.10]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piridoxilato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7165]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piridoxilate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[24340-35-0]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piridoxina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7166]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyridoxine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[65-23-6]]></casnumber>
+		<ncm><![CDATA[2936.25.10]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piridronato de Sódio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piridronate Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[100188-33-8]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirifibrato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7169]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirifibrate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[55285-45-5]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirimetamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7170]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyrimethamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[58-14-0]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirimitato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7172]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyrimitate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5221-49-8]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirinidazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7173]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirinidazole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[55432-15-0]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirinixila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7174]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirinixil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[65089-17-0]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirinolina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7175]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyrinoline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1740-22-3]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piriprosta]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7176]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piriprost]]></nomenclaturadciinn>
+		<casnumber><![CDATA[79672-88-1]]></casnumber>
+		<ncm><![CDATA[2937.50.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piriprosta Potássica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piriprost Potassium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[88851-62-1]]></casnumber>
+		<ncm><![CDATA[2937.50.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piriqualona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7177]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piriqualone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1897-89-8]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirissudanol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7178]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirisudanol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[33605-94-6]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piritildiona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7179]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyrithyldione]]></nomenclaturadciinn>
+		<casnumber><![CDATA[77-04-3]]></casnumber>
+		<ncm><![CDATA[2933.79.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piritinol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7180]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyritinol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1098-97-1]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piritiona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7182]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyrithione]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1121-30-8]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piritiona Sódica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7185]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyrithione Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[15922-78-8]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piritiona Zíncica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7183]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyrithione Zinc]]></nomenclaturadciinn>
+		<casnumber><![CDATA[13463-41-7]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piritramida  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7186]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piritramide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[302-41-0]]></casnumber>
+		<ncm><![CDATA[2933.33.91]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piritrexim]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7187]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piritrexim]]></nomenclaturadciinn>
+		<casnumber><![CDATA[72732-56-0]]></casnumber>
+		<ncm><![CDATA[2933.59.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirlimicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7189]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirlimycin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[79548-73-5]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirlindol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7191]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirlindole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[60762-57-4]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirmagrel]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7192]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirmagrel]]></nomenclaturadciinn>
+		<casnumber><![CDATA[85691-74-3]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirmenol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7193]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirmenol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[68252-19-7]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirnabina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7195]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirnabin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[68298-00-0]]></casnumber>
+		<ncm><![CDATA[2932.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirocatecol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9835]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyrocatechol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[120-80-9]]></casnumber>
+		<ncm><![CDATA[2907.29.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piroctona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7196]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piroctone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[50650-76-5]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piroctona Olamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piroctone Olamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[68890-66-4]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirodavir]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7197]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirodavir]]></nomenclaturadciinn>
+		<casnumber><![CDATA[124436-59-5]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirodomaste]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7198]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirodomast]]></nomenclaturadciinn>
+		<casnumber><![CDATA[108310-20-9]]></casnumber>
+		<ncm><![CDATA[2933.79.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piroeptina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7199]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piroheptine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[16378-21-5]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirofendano]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyrophendane]]></nomenclaturadciinn>
+		<casnumber><![CDATA[7009-69-0]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirofosfato de Sódio (99m Tc)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10069]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Technetium Tc 99m Pyrophosphate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d.]]></casnumber>
+		<ncm><![CDATA[2844.40.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirofosfato Dicálcico]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9869]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Dicalcium Pyrophosphate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[7790-76-3]]></casnumber>
+		<ncm><![CDATA[2835.39.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirofosfato Ferroso]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7201]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Ferrous Pyrophosphate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[16037-88-0]]></casnumber>
+		<ncm><![CDATA[2835.29.10]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirofosfato Tetrassódico]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9870]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tetrasodium Pyrophosphate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[7722-88-5]]></casnumber>
+		<ncm><![CDATA[2835.39.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirogalol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyrogallol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[87-66-1]]></casnumber>
+		<ncm><![CDATA[2907.29.00]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piroglirida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7202]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirogliride]]></nomenclaturadciinn>
+		<casnumber><![CDATA[62625-18-7]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirolato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7204]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirolate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[55149-05-8]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirolazamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7205]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirolazamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[39186-49-7]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piromelatina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piromelatine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[946846-83-9]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pironaridina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9958]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyronaridine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[74847-35-1]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirovalerona  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7206]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyrovalerone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[3563-49-3]]></casnumber>
+		<ncm><![CDATA[2933.91.72]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piroxamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7208]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyroxamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[7009-68-9]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piroxantrona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7209]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piroxantrone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[91441-23-5]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piroxicam]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7211]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piroxicam]]></nomenclaturadciinn>
+		<casnumber><![CDATA[36322-90-4]]></casnumber>
+		<ncm><![CDATA[2935.90.23]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piroxicam Betadex]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9322]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piroxicam Betadex]]></nomenclaturadciinn>
+		<casnumber><![CDATA[96684-40-1]]></casnumber>
+		<ncm><![CDATA[2935.90.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piroxicam Olamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7213]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piroxicam Olamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[85056-47-9]]></casnumber>
+		<ncm><![CDATA[2935.90.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piroxicilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7214]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piroxicillin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[82509-56-6]]></casnumber>
+		<ncm><![CDATA[2941.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piroxilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7215]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyroxylin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9004-70-0]]></casnumber>
+		<ncm><![CDATA[3912.20.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Piroximona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7216]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Piroximone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[84490-12-0]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirozadil]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7217]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirozadil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[54110-25-7]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirprofeno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7218]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirprofen]]></nomenclaturadciinn>
+		<casnumber><![CDATA[31793-07-4]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirquinozol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7219]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirquinozol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[65950-99-4]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirrobutamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyrrobutamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[91-82-7]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirrocaína]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7220]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyrrocaine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2210-77-7]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirrolifeno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7222]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyrrolifene]]></nomenclaturadciinn>
+		<casnumber><![CDATA[15686-97-2]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirrolnitrina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7223]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pyrrolnitrin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1018-71-9]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirsidomina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7224]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirsidomine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[132722-74-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pirtenidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7225]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pirtenidine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[103923-27-9]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pitamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7226]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pytamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[15301-88-9]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pitavastatina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7227]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pitavastatin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[147511-69-1]]></casnumber>
+		<ncm><![CDATA[2933.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pitavastatina Cálcica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10070]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pitavastatin Calcium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[147526-32-7]]></casnumber>
+		<ncm><![CDATA[2933.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pitenodil]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7228]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pitenodil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[59840-71-0]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pitofenona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7229]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pitofenone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[54063-52-4]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pitolisanto]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pitolisant]]></nomenclaturadciinn>
+		<casnumber><![CDATA[362665-56-3]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pitraquinra]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7231]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pitrakinra]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d.]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pituxato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7232]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pituxate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[39123-11-0]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pivagabina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pivagabine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[69542-93-4]]></casnumber>
+		<ncm><![CDATA[2924.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pivalato de Clocortolona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[2260]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Clocortolone Pivalate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[34097-16-0]]></casnumber>
+		<ncm><![CDATA[2937.22.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pivalato de Desoxicortona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[2801]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Desoxycortone Pivalate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[808-48-0]]></casnumber>
+		<ncm><![CDATA[2937.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pivalato de Dexametasona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[2825]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Dexamethasone Pivalate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1926-94-9]]></casnumber>
+		<ncm><![CDATA[2937.22.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pivalato de Diflucortolona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[3002]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Diflucortolone Pivalate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[15845-96-2]]></casnumber>
+		<ncm><![CDATA[2937.22.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pivalato de Estradiol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[3607]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Estradiol Pivalate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1323-51-9]]></casnumber>
+		<ncm><![CDATA[2937.23.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pivalato de Etilefrina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[3680]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Etilefrine Pivalate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[85750-39-6]]></casnumber>
+		<ncm><![CDATA[2922.50.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pivalato de Flumetasona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[4140]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Flumetasone Pivalate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2002-29-1]]></casnumber>
+		<ncm><![CDATA[2937.22.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pivalato de Fluocortolona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[4164]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Fluocortolone Pivalate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[29205-06-9]]></casnumber>
+		<ncm><![CDATA[2937.22.39]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pivalato de Lorazepam  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[5419]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Lorazepam Pivalate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d.]]></casnumber>
+		<ncm><![CDATA[2933.91.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pivalato de Prednisolona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prednisolone Pivalate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1107-99-9]]></casnumber>
+		<ncm><![CDATA[2937.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pivalato de Tixocortol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8703]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tixocortol Pivalate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[55560-96-8]]></casnumber>
+		<ncm><![CDATA[2937.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pivalilbenzidrazina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pivalylbenzhydrazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[306-19-4]]></casnumber>
+		<ncm><![CDATA[2928.00.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pivampicilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7233]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pivampicillin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[33817-20-8]]></casnumber>
+		<ncm><![CDATA[2941.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pivcefalexina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pivcefalexin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[63836-75-9]]></casnumber>
+		<ncm><![CDATA[2941.90.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pivenfrina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7236]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pivenfrine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[67577-23-5]]></casnumber>
+		<ncm><![CDATA[2922.50.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pivmecilinam]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7237]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pivmecillinam]]></nomenclaturadciinn>
+		<casnumber><![CDATA[32886-97-8]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pivopril]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7238]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pivopril]]></nomenclaturadciinn>
+		<casnumber><![CDATA[81045-50-3]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pivoxazepam]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7239]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pivoxazepam]]></nomenclaturadciinn>
+		<casnumber><![CDATA[55299-10-0]]></casnumber>
+		<ncm><![CDATA[2933.99.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pixantrona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9959]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pixantrone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[144510-96-3]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pixatimode]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pixatimod]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1144617-49-1]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pizotifeno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7240]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pizotifen]]></nomenclaturadciinn>
+		<casnumber><![CDATA[15574-96-6]]></casnumber>
+		<ncm><![CDATA[2934.99.49]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Placulumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Placulumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[945781-29-3]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Plafibrida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7242]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Plafibride]]></nomenclaturadciinn>
+		<casnumber><![CDATA[63394-05-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Plasminogênio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9474]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Plasminogen]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9001-91-6]]></casnumber>
+		<ncm><![CDATA[3002.12.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Plaunotol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7243]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Plaunotol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[64218-02-6]]></casnumber>
+		<ncm><![CDATA[2905.39.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Plauracina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7244]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Plauracin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[62107-94-2]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Plazomicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Plazomicin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1154757-24-0]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Plecanatida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Plecanatide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[467426-54-6]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pleconarila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7245]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pleconaril]]></nomenclaturadciinn>
+		<casnumber><![CDATA[153168-05-9]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Plerixafor]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9714]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Plerixafor]]></nomenclaturadciinn>
+		<casnumber><![CDATA[110078-46-1]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pleuromulina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7246]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pleuromulin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[125-65-5]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Plevitrexede]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Plevitrexed]]></nomenclaturadciinn>
+		<casnumber><![CDATA[153537-73-6]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Plicamicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7247]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Plicamycin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[18378-89-7]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Plinabulina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Plinabulin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[714272-27-2]]></casnumber>
+		<ncm><![CDATA[2933.59.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Plitidepsina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Plitidepsin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[137219-37-5]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Plocabulina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Plocabulin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[960210-99-5]]></casnumber>
+		<ncm><![CDATA[2924.29.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Plomestano]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7248]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Plomestane]]></nomenclaturadciinn>
+		<casnumber><![CDATA[77016-85-4]]></casnumber>
+		<ncm><![CDATA[2937.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Plonmarlimabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Plonmarlimab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2377482-36-3]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Plovâmer]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Plovamer]]></nomenclaturadciinn>
+		<casnumber><![CDATA[507277-44-3]]></casnumber>
+		<ncm><![CDATA[3913.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Plozalizumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Plozalizumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1610761-46-0]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Plusonermina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7249]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Plusonermine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d.]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pobilucaste]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7250]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pobilukast]]></nomenclaturadciinn>
+		<casnumber><![CDATA[107023-41-6]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pobilucaste Edamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pobilukast Edamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[137232-03-2]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pocapavir]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pocapavir]]></nomenclaturadciinn>
+		<casnumber><![CDATA[146949-21-5]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Podilfeno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7251]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Podilfen]]></nomenclaturadciinn>
+		<casnumber><![CDATA[13409-53-5]]></casnumber>
+		<ncm><![CDATA[2934.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Podofilotoxina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9579]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Podophyllotoxin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[518-28-5]]></casnumber>
+		<ncm><![CDATA[2932.20.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polacrilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7252]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polacrilin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[50602-21-6]]></casnumber>
+		<ncm><![CDATA[3914.00.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polacrilina Potássica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11709]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polacrilin Potassium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[65405-55-2]]></casnumber>
+		<ncm><![CDATA[3914.00.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polaprezinco]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7253]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polaprezinc]]></nomenclaturadciinn>
+		<casnumber><![CDATA[107667-60-7]]></casnumber>
+		<ncm><![CDATA[3824.99.89]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polatuzumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polatuzumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d.]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polatuzumabe Vedotina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11706]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polatuzumab Vedotin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1313206-42-6]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Poldina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Poldine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[596-50-9]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Poliacrilamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7254]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polyacrylamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9003-05-8]]></casnumber>
+		<ncm><![CDATA[3906.90.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polibenzarsol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7255]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polybenzarsol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[54531-52-1]]></casnumber>
+		<ncm><![CDATA[3907.10.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Policapram]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7256]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Policapram]]></nomenclaturadciinn>
+		<casnumber><![CDATA[25038-54-4]]></casnumber>
+		<ncm><![CDATA[3908.10.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Policarbofila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7257]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polycarbophil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9003-97-8]]></casnumber>
+		<ncm><![CDATA[3906.90.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Policresuleno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7258]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Policresulen]]></nomenclaturadciinn>
+		<casnumber><![CDATA[101418-00-2]]></casnumber>
+		<ncm><![CDATA[3909.40.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polidexida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polidexide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9064-92-0]]></casnumber>
+		<ncm><![CDATA[3914.00.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polidextrose]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11335]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polydextrose]]></nomenclaturadciinn>
+		<casnumber><![CDATA[68424-94-4]]></casnumber>
+		<ncm><![CDATA[3913.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polidocanol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7259]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polidocanol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[3055-99-0]]></casnumber>
+		<ncm><![CDATA[3913.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Poliestirenossulfonato de Cálcio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7260]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Calcium Polystyrene Sulfonate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[37286-92-3]]></casnumber>
+		<ncm><![CDATA[3914.00.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Poliestirenossulfonato de Sódio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9475]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sodium Polystyrene Sulfonate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9003-59-2]]></casnumber>
+		<ncm><![CDATA[3914.00.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polietadeno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7261]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polyetadene]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9003-23-0]]></casnumber>
+		<ncm><![CDATA[3907.30.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Poliexanida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7262]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polihexanide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[32289-58-0]]></casnumber>
+		<ncm><![CDATA[3911.90.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polifeprosana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7263]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polifeprosan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[90409-78-2]]></casnumber>
+		<ncm><![CDATA[3911.90.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Poligalacturonato de Quinidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7576]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Quinidine Polygalacturonate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[27555-34-6]]></casnumber>
+		<ncm><![CDATA[2939.20.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Poligelina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7264]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polygeline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9015-56-9]]></casnumber>
+		<ncm><![CDATA[3913.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Poligenana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7265]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Poligenan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[53973-98-1]]></casnumber>
+		<ncm><![CDATA[3913.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Poliglecaprona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7266]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Poliglecaprone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[41706-81-4]]></casnumber>
+		<ncm><![CDATA[3907.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Poliglusam]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7267]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Poliglusam]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9012-76-4]]></casnumber>
+		<ncm><![CDATA[3913.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Poli-Isopreno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9519]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polysoprene]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9003-31-0]]></casnumber>
+		<ncm><![CDATA[4002.60.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polimixina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10071]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polimixin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1406-11-7]]></casnumber>
+		<ncm><![CDATA[2941.90.81]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polimixina B]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7268]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polymyxin B]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1404-26-8]]></casnumber>
+		<ncm><![CDATA[2941.90.81]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polinoxilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7270]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polynoxylin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9011-05-6]]></casnumber>
+		<ncm><![CDATA[3909.10.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Poliplatileno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9960]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[N.D.]]></nomenclaturadciinn>
+		<casnumber><![CDATA[188735-95-7]]></casnumber>
+		<ncm><![CDATA[n.d.]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polissaponina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7271]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polisaponin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[8063-80-7]]></casnumber>
+		<ncm><![CDATA[2938.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polissorbato 20]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7272]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polysorbate 20]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9005-64-5]]></casnumber>
+		<ncm><![CDATA[3402.42.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polissorbato 40]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7273]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polysorbate 40]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9005-66-7]]></casnumber>
+		<ncm><![CDATA[3402.42.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polissorbato 60]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7274]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polysorbate 60]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9005-67-8]]></casnumber>
+		<ncm><![CDATA[3402.42.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polissorbato 80]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7275]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polysorbate 80]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9005-65-6]]></casnumber>
+		<ncm><![CDATA[3402.42.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polissulfato de Escina Sódica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[3511]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Aescin Polysulphate Sodium ]]></nomenclaturadciinn>
+		<casnumber><![CDATA[20977-05-3]]></casnumber>
+		<ncm><![CDATA[2938.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polissulfato de Mucopolissacarídeo]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7276]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Mucopolysaccharide Polysulfate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n,d,]]></casnumber>
+		<ncm><![CDATA[3913.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polissulfato Sódico de Pentosana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7277]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pentosan Polysulfate Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[140207-93-8]]></casnumber>
+		<ncm><![CDATA[3913.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Politefe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7278]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Politef]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9002-84-0]]></casnumber>
+		<ncm><![CDATA[3904.61.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Politiazida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7279]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polythiazide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[346-18-9]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Polmacoxibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Polmacoxib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[301692-76-2]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Poloxaleno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7280]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Poloxalene]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9003-11-6]]></casnumber>
+		<ncm><![CDATA[3402.42.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Poloxâmer]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7281]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Poloxamer 188 CRS]]></nomenclaturadciinn>
+		<casnumber><![CDATA[106392-12-5]]></casnumber>
+		<ncm><![CDATA[3402.42.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pomaglumetade Metionila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pomaglumetad Methionil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[956385-05-0]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pomaglumetade Metionila Anidro]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pomaglumetad Methionil Anhydrous]]></nomenclaturadciinn>
+		<casnumber><![CDATA[635318-55-7]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pomalidomida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11510]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pomalidomide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[19171-19-8]]></casnumber>
+		<ncm><![CDATA[2925.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pomisartana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pomisartan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[144702-17-0]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Ponalrestate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7282]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Ponalrestat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[72702-95-5]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Ponatinibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11581]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Ponatinib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[943319-70-8]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Ponazurila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7283]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Ponazuril]]></nomenclaturadciinn>
+		<casnumber><![CDATA[69004-04-2]]></casnumber>
+		<ncm><![CDATA[2933.69.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Ponesimode]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Ponesimod]]></nomenclaturadciinn>
+		<casnumber><![CDATA[854107-55-4]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Ponezumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Ponezumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1178862-65-1]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Ponfibrato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7284]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Ponfibrate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[53341-49-4]]></casnumber>
+		<ncm><![CDATA[2932.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Porfímer Sódico]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7285]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Porfimer Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[87806-31-3]]></casnumber>
+		<ncm><![CDATA[3824.99.89]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Porfiromicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7286]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Porfiromycin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[801-52-5]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Porgaviximabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Porgaviximab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1792982-55-8]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Posaconazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7287]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Posaconazole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[171228-49-2]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Posaraproste]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Posaraprost]]></nomenclaturadciinn>
+		<casnumber><![CDATA[172740-14-6]]></casnumber>
+		<ncm><![CDATA[2937.50.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Posatirrelina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Posatirelin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[78664-73-0]]></casnumber>
+		<ncm><![CDATA[2937.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Poseltinibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Poseltinib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1353552-97-2]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Posizolide]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Posizolid]]></nomenclaturadciinn>
+		<casnumber><![CDATA[252260-06-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Posquina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7288]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Poskine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[585-14-8]]></casnumber>
+		<ncm><![CDATA[2939.80.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Povidona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7289]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Povidone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9003-39-8]]></casnumber>
+		<ncm><![CDATA[3905.99.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Povidona (125 I)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10072]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Povidone I 125]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d.]]></casnumber>
+		<ncm><![CDATA[2844.40.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Povidona (131 I)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10073]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Povidone I 131]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d.]]></casnumber>
+		<ncm><![CDATA[2844.40.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pozaniclina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pozanicline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[161417-03-4]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pozelimabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pozelimab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2096328-94-6]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Poziotinibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Poziotinib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1092364-38-9]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pracinostate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pracinostat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[929016-96-6]]></casnumber>
+		<ncm><![CDATA[2933.99.59]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Praconase]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Praconase]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2098615-90-6]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Practolol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7290]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Practolol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[6673-35-4]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pradefovir]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pradefovir]]></nomenclaturadciinn>
+		<casnumber><![CDATA[625095-60-5]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prademageno Zamiceracel]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prademagene Zamikeracel]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d.]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pradigastate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pradigastat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[956136-95-1]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pradigastate Sódico]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pradigastat Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[956136-98-4]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pradimotida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pradimotide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[908587-83-7]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pradofloxacino]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7291]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pradofloxacin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[195532-12-8]]></casnumber>
+		<ncm><![CDATA[2933.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prajmálio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7292]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prajmalium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[35080-11-6]]></casnumber>
+		<ncm><![CDATA[2939.80.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pralatrexato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10922]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pralatrexate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[146464-95-1]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Praliciguate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Praliciguat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1628730-49-3]]></casnumber>
+		<ncm><![CDATA[2933.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pralidoxima]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9587]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pralidoxime]]></nomenclaturadciinn>
+		<casnumber><![CDATA[6735-59-7]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pralmorrelina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7294]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pralmorelin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[158861-67-7]]></casnumber>
+		<ncm><![CDATA[2937.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pralnacasana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7295]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pralnacasan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[192755-52-5]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pramiconazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pramiconazole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[219923-85-0]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pramipexol  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7296]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pramipexole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[104632-26-0]]></casnumber>
+		<ncm><![CDATA[2934.20.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pramiracetam]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7298]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pramiracetam]]></nomenclaturadciinn>
+		<casnumber><![CDATA[68497-62-1]]></casnumber>
+		<ncm><![CDATA[2933.79.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pramiverina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7301]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pramiverine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[14334-40-8]]></casnumber>
+		<ncm><![CDATA[2921.49.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pramocaína]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7303]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pramocaine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[140-65-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prampina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7305]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prampine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[7009-65-6]]></casnumber>
+		<ncm><![CDATA[2939.80.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pranazepida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pranazepide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[150408-73-4]]></casnumber>
+		<ncm><![CDATA[2933.99.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pranidipino]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pranidipine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[99522-79-9]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pranlintida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7306]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pramlintide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[151126-32-8]]></casnumber>
+		<ncm><![CDATA[2937.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pranlucaste]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7307]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pranlukast]]></nomenclaturadciinn>
+		<casnumber><![CDATA[103177-37-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pranoprofeno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7308]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pranoprofen]]></nomenclaturadciinn>
+		<casnumber><![CDATA[52549-17-4]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pranosal]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7309]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pranosal]]></nomenclaturadciinn>
+		<casnumber><![CDATA[17716-89-1]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prasinezumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prasinezumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1960462-19-4]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prasterona  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7310]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prasterone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[53-43-0]]></casnumber>
+		<ncm><![CDATA[2937.29.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prasugrel]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prasugrel]]></nomenclaturadciinn>
+		<casnumber><![CDATA[150322-43-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pratosartana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7312]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pratosartan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[153804-05-8]]></casnumber>
+		<ncm><![CDATA[2933.99.59]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pravadolina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7313]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pravadoline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[92623-83-1]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pravastatina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7315]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pravastatin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[81093-37-0]]></casnumber>
+		<ncm><![CDATA[2918.19.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pravastatina Sódica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7316]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pravastatin Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[81131-70-6]]></casnumber>
+		<ncm><![CDATA[2918.19.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Praxadina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7317]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Praxadine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[4023-00-1]]></casnumber>
+		<ncm><![CDATA[2933.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prazarelix]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7318]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prazarelix]]></nomenclaturadciinn>
+		<casnumber><![CDATA[134457-28-6]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prazepam  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7319]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prazepam]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2955-38-6]]></casnumber>
+		<ncm><![CDATA[2933.91.73]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prazepina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7320]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prazepine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[73-07-4]]></casnumber>
+		<ncm><![CDATA[2933.99.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Praziquantel]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7321]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Praziquantel]]></nomenclaturadciinn>
+		<casnumber><![CDATA[55268-74-1]]></casnumber>
+		<ncm><![CDATA[2933.59.12]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prazitona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7322]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prazitone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2409-26-9]]></casnumber>
+		<ncm><![CDATA[2933.54.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prazocilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7323]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prazocillin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[15949-72-1]]></casnumber>
+		<ncm><![CDATA[2941.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prazosina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7324]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prazosin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[19216-56-9]]></casnumber>
+		<ncm><![CDATA[2934.99.39]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Preclamol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7326]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Preclamol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[85966-89-8]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prednazato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7327]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prednazate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5714-75-0]]></casnumber>
+		<ncm><![CDATA[2937.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prednazolina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7328]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prednazoline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[6693-90-9]]></casnumber>
+		<ncm><![CDATA[2933.29.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prednicarbato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7329]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prednicarbate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[73771-04-7]]></casnumber>
+		<ncm><![CDATA[2937.29.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prednilideno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7330]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prednylidene]]></nomenclaturadciinn>
+		<casnumber><![CDATA[599-33-7]]></casnumber>
+		<ncm><![CDATA[2937.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prednimustina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7331]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prednimustine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[29069-24-7]]></casnumber>
+		<ncm><![CDATA[2937.22.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prednisolamato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7332]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prednisolamate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5626-34-6]]></casnumber>
+		<ncm><![CDATA[2937.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prednisolona Anidra]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7333]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prednisolone Anhydrous]]></nomenclaturadciinn>
+		<casnumber><![CDATA[50-24-8]]></casnumber>
+		<ncm><![CDATA[2937.21.40]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prednisolona Sesqui-Hidratada]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11189]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prednisolone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[52438-85-4]]></casnumber>
+		<ncm><![CDATA[2937.21.40]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prednisona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7341]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prednisone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[53-03-2]]></casnumber>
+		<ncm><![CDATA[2937.21.30]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prefenamato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prefenamate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[57775-28-7]]></casnumber>
+		<ncm><![CDATA[2922.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pregabalina  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7343]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pregabalin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[148553-50-8]]></casnumber>
+		<ncm><![CDATA[2922.49.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pregnenolona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7344]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pregnenolone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[145-13-1]]></casnumber>
+		<ncm><![CDATA[2937.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Preladenanto]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Preladenant]]></nomenclaturadciinn>
+		<casnumber><![CDATA[377727-87-2]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Premafloxacino]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7345]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Premafloxacin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[143383-65-7]]></casnumber>
+		<ncm><![CDATA[2933.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Premazepam]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7346]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Premazepam]]></nomenclaturadciinn>
+		<casnumber><![CDATA[57435-86-6]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prenalterol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7347]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prenalterol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[57526-81-5]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prenilamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7349]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prenylamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[390-64-7]]></casnumber>
+		<ncm><![CDATA[2921.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prenisteína]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7351]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prenisteine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5287-46-7]]></casnumber>
+		<ncm><![CDATA[2930.90.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prenoverina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7352]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prenoverine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[65236-29-5]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prenoxidiazina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7353]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prenoxidiazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[47543-65-7]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Presatovir]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Presatovir]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1353625-73-6]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pretiadil]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7354]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pretiadil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[30840-27-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pretomanida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pretomanid]]></nomenclaturadciinn>
+		<casnumber><![CDATA[187235-37-6]]></casnumber>
+		<ncm><![CDATA[2934.99.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prexasertibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prexasertib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1234015-52-1]]></casnumber>
+		<ncm><![CDATA[2926.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prexigeberseno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prexigebersen]]></nomenclaturadciinn>
+		<casnumber><![CDATA[202484-91-1]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prezalumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prezalumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1523164-68-2]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prezatida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prezatide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[49557-75-7]]></casnumber>
+		<ncm><![CDATA[2933.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prezatida Cobre]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prezatide Copper]]></nomenclaturadciinn>
+		<casnumber><![CDATA[89030-95-5]]></casnumber>
+		<ncm><![CDATA[2933.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pribecaína]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7355]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pribecaine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[55837-22-4]]></casnumber>
+		<ncm><![CDATA[2933.39.89]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pridefina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7356]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pridefine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5370-41-2]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prideperona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7357]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prideperone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[95374-52-0]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pridinol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7358]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pridinol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[511-45-5]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pridopidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pridopidine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[346688-38-8]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prifelona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7360]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prifelone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[69425-13-4]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prifurolina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7361]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prifuroline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[70833-07-7]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Priliximabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7362]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Priliximab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[147191-91-1]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prilocaína]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7363]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prilocaine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[721-50-6]]></casnumber>
+		<ncm><![CDATA[2924.29.63]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Primaperona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7365]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Primaperone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1219-35-8]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Primaquina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7366]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Primaquine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[90-34-6]]></casnumber>
+		<ncm><![CDATA[2933.49.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Primicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7369]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Primycin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[47917-41-9]]></casnumber>
+		<ncm><![CDATA[2941.90.59]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Primidolol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7370]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Primidolol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[67227-55-8]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Primidona  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7371]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Primidone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[125-33-7]]></casnumber>
+		<ncm><![CDATA[2933.79.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prinaberel]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prinaberel]]></nomenclaturadciinn>
+		<casnumber><![CDATA[524684-52-4]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prinomastate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7372]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prinomastat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[192329-42-3]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prinomida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7373]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prinomide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[77639-66-8]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prinomida Trometamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prinomide Tromethamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[109636-76-2]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prinoxodana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7374]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prinoxodan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[111786-07-3]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Priralfinamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Priralfinamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[133865-88-0]]></casnumber>
+		<ncm><![CDATA[2924.29.69]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prisotinol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7375]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prisotinol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[78997-40-7]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pristinamicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7376]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pristinamycin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[270076-60-3]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pritelivir]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pritelivir]]></nomenclaturadciinn>
+		<casnumber><![CDATA[348066-71-5]]></casnumber>
+		<ncm><![CDATA[2924.29.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pritoxaximabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pritoxaximab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1351470-16-0]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pritumumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pritumumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[499212-74-7]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prizidilol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7377]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prizidilol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[59010-44-5]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Proadifeno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7378]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Proadifen]]></nomenclaturadciinn>
+		<casnumber><![CDATA[302-33-0]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Probarbital  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11190]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Probarbital]]></nomenclaturadciinn>
+		<casnumber><![CDATA[76-76-6]]></casnumber>
+		<ncm><![CDATA[2933.54.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Probarbital Sódico  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7379]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Probarbital Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[143-82-8]]></casnumber>
+		<ncm><![CDATA[2933.54.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Probenato de Pivampicilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7235]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pivampicillin Probenate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[42190-91-0]]></casnumber>
+		<ncm><![CDATA[2941.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Probenecida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7380]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Probenecid]]></nomenclaturadciinn>
+		<casnumber><![CDATA[57-66-9]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Probucol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7381]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Probucol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[23288-49-5]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Procaína]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7382]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Procaine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[59-46-1]]></casnumber>
+		<ncm><![CDATA[2922.49.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Procainamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7384]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Procainamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[51-06-9]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Procarbazina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7387]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Procarbazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[671-16-9]]></casnumber>
+		<ncm><![CDATA[2928.00.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Procaterol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7389]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Procaterol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[72332-33-3]]></casnumber>
+		<ncm><![CDATA[2933.79.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prociclidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7391]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Procyclidine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[77-37-2]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Procimato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7392]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Procymate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[13931-64-1]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Procinolol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7393]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Procinolol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[27325-36-6]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Procinonida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7394]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Procinonide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[58497-00-0]]></casnumber>
+		<ncm><![CDATA[2937.22.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Proclonol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7395]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Proclonol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[14088-71-2]]></casnumber>
+		<ncm><![CDATA[2906.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Proclorperazina  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7396]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prochlorperazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[58-38-8]]></casnumber>
+		<ncm><![CDATA[2934.30.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Procodazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7399]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Procodazole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[23249-97-0]]></casnumber>
+		<ncm><![CDATA[2933.99.59]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prodilidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7400]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prodilidine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[3734-17-6]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prodipino]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prodipine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[31314-38-2]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Proeptazina  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7401]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Proheptazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[77-14-5]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Profadol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7405]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Profadol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[428-37-5]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Profenamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7407]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Profenamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[522-00-9]]></casnumber>
+		<ncm><![CDATA[2934.30.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Profexalona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7408]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Profexalone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[34740-13-1]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Proflavina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7409]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Proflavine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[92-62-6]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Proflazepam]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7411]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Proflazepam]]></nomenclaturadciinn>
+		<casnumber><![CDATA[52829-30-8]]></casnumber>
+		<ncm><![CDATA[2933.99.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Progabida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7412]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Progabide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[62666-20-0]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Progesterona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7413]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Progesterone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[57-83-0]]></casnumber>
+		<ncm><![CDATA[2937.23.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Proglumetacina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7415]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Proglumetacin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[57132-53-3]]></casnumber>
+		<ncm><![CDATA[2933.59.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Proglumida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7416]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Proglumide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[6620-60-6]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Proguanil]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7417]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Proguanil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[500-92-5]]></casnumber>
+		<ncm><![CDATA[2925.29.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prolactina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prolactin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9002-62-4]]></casnumber>
+		<ncm><![CDATA[2937.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prolgolimabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prolgolimab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2093956-19-3]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Proligestona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7419]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Proligestone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[23873-85-0]]></casnumber>
+		<ncm><![CDATA[2937.23.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prolina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7420]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Proline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[147-85-3]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prolintano  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7421]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Prolintane]]></nomenclaturadciinn>
+		<casnumber><![CDATA[493-92-5]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Promazina  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7423]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Promazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[58-40-2]]></casnumber>
+		<ncm><![CDATA[2934.30.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Promegestona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7426]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Promegestone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[34184-77-5]]></casnumber>
+		<ncm><![CDATA[2937.23.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Promelase]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7427]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Promelase]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9074-07-1]]></casnumber>
+		<ncm><![CDATA[3507.90.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Promestrieno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7428]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Promestriene]]></nomenclaturadciinn>
+		<casnumber><![CDATA[39219-28-8]]></casnumber>
+		<ncm><![CDATA[2909.30.29]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Prometazina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7429]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Promethazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[60-87-7]]></casnumber>
+		<ncm><![CDATA[2934.30.30]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Promolato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7433]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Promolate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[3615-74-5]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Promoxolano]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7434]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Promoxolane]]></nomenclaturadciinn>
+		<casnumber><![CDATA[470-43-9]]></casnumber>
+		<ncm><![CDATA[2932.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Pronetalol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7435]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Pronetalol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[54-80-8]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Propacetamol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7436]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Propacetamol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[66532-85-2]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Propafenona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7437]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Propafenone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[54063-53-5]]></casnumber>
+		<ncm><![CDATA[2922.19.79]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Propagermânio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7439]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Propagermanium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[126595-07-1]]></casnumber>
+		<ncm><![CDATA[2931.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Propamidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7440]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Propamidine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[104-32-5]]></casnumber>
+		<ncm><![CDATA[2925.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Propanidida  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7441]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Propanidid]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1421-14-3]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Propano]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9521]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Propane]]></nomenclaturadciinn>
+		<casnumber><![CDATA[74-98-6]]></casnumber>
+		<ncm><![CDATA[2711.12.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Propanocaína]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7442]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Propanocaine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[493-76-5]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Propantelina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7443]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Propantheline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[298-50-0]]></casnumber>
+		<ncm><![CDATA[2932.99.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Propatilnitrato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7444]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Propatylnitrate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2921-92-8]]></casnumber>
+		<ncm><![CDATA[2920.90.31]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Propazolamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7445]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Propazolamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[98-75-9]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Propenidazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7446]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Propenidazol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[76448-31-2]]></casnumber>
+		<ncm><![CDATA[2933.29.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Propentofilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7447]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Propentofylline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[55242-55-2]]></casnumber>
+		<ncm><![CDATA[2939.59.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+</data>

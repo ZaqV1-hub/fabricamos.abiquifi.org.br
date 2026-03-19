@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Abacavir  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[1]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Abacavir]]></nomenclaturadciinn>
+		<casnumber><![CDATA[136470-78-5]]></casnumber>
+		<ncm><![CDATA[2922.50.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+		<nomedaempresa><![CDATA[Fabricante  A | Fabricante  D | Fabricante  C]]></nomedaempresa>
+		<razosocialopcional><![CDATA[Nome Razão A | N/D | Nome Razão C]]></razosocialopcional>
+		<website><![CDATA[www.FabricanteA.com.br | www.FabricanteD.com.br | www.FabricanteC.com.br -  ]]></website>
+		<cidade><![CDATA[São Paulo | Camaçari | Valinhos]]></cidade>
+		<uf><![CDATA[SP | SP | SP]]></uf>
+		<pas><![CDATA[Brasil | Brasil | Brasil ]]></pas>
+		<associadoounoassociada><![CDATA[sim | sim | não]]></associadoounoassociada>
+		<plataforma><![CDATA[Biológico | Extração Vegetal | Sintético]]></plataforma>
+		<europeancommunitynumber><![CDATA[N/A | 999-58-5 | 300-859-4]]></europeancommunitynumber>
+		<classeteraputica><![CDATA[Hormônios | Antidiabéticos | Sintético]]></classeteraputica>
+		<contato><![CDATA[João | Daniela | Pedro]]></contato>
+		<departamentonumber><![CDATA[Exportação | Comércio Exterior | Trade]]></departamentonumber>
+		<email><![CDATA[joao@fabricantea.com.br | vendas@fabricanted.com.br | trade@fabricanted.com.br]]></email>
+		<telefone><![CDATA[44 99999 5585 | 47 99999 5585 | 11 99999 5585 ]]></telefone>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sulfato de Abacavir  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[2]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Abacavir Sulfate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[188062-50-2]]></casnumber>
+		<ncm><![CDATA[2922.50.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+		<nomedaempresa><![CDATA[Fabricante  A | Fabricante  D]]></nomedaempresa>
+		<razosocialopcional><![CDATA[Nome Razão A | N/D]]></razosocialopcional>
+		<website><![CDATA[www.FabricanteA.com.br | www.FabricanteD.com.br]]></website>
+		<cidade><![CDATA[São Paulo | Camaçari]]></cidade>
+		<uf><![CDATA[SP | SP | SP]]></uf>
+		<pas><![CDATA[Brasil | Brasil ]]></pas>
+		<associadoounoassociada><![CDATA[sim | não]]></associadoounoassociada>
+		<plataforma><![CDATA[Biológico | Extração Vegetal]]></plataforma>
+		<europeancommunitynumber><![CDATA[N/A | 999-58-5 | 300-859-4]]></europeancommunitynumber>
+		<classeteraputica><![CDATA[Hormônios | Antidiabéticos | ]]></classeteraputica>
+		<contato><![CDATA[João | Daniela]]></contato>
+		<departamentonumber><![CDATA[Exportação | Comércio Exterior]]></departamentonumber>
+		<email><![CDATA[joao@fabricantea.com.br | vendas@fabricanted.com.br]]></email>
+		<telefone><![CDATA[44 99999 5585 | 47 99999 5585]]></telefone>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Abamectina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[3]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Abamectin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[65195-55-3]]></casnumber>
+		<ncm><![CDATA[2932.20.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+		<nomedaempresa><![CDATA[Fabricante  C]]></nomedaempresa>
+		<razosocialopcional><![CDATA[N/A]]></razosocialopcional>
+		<website><![CDATA[www.FabricanteC.com.br]]></website>
+		<cidade><![CDATA[Valinhos]]></cidade>
+		<uf><![CDATA[SP]]></uf>
+		<pas><![CDATA[Brasil]]></pas>
+		<associadoounoassociada><![CDATA[não]]></associadoounoassociada>
+		<plataforma><![CDATA[Sintético]]></plataforma>
+		<europeancommunitynumber><![CDATA[300-859-4]]></europeancommunitynumber>
+		<classeteraputica><![CDATA[N/A]]></classeteraputica>
+		<contato><![CDATA[Pedro]]></contato>
+		<departamentonumber><![CDATA[Trade]]></departamentonumber>
+		<email><![CDATA[exports@fabricantec.com]]></email>
+		<telefone><![CDATA[46 99999 5585]]></telefone>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Abanoquila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[4]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Abanoquil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[90402-40-7]]></casnumber>
+		<ncm><![CDATA[2933.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+		<nomedaempresa><![CDATA[Fabricante  A | Fabricante  D | Fabricante  C]]></nomedaempresa>
+		<razosocialopcional><![CDATA[Nome Razão A | N/D | Nome Razão C]]></razosocialopcional>
+		<website><![CDATA[www.FabricanteA.com.br | www.FabricanteD.com.br | www.FabricanteC.com.br -  ]]></website>
+		<cidade><![CDATA[São Paulo | Camaçari | Valinhos]]></cidade>
+		<uf><![CDATA[SP | SP | SP]]></uf>
+		<pas><![CDATA[Brasil | Brasil | Brasil ]]></pas>
+		<associadoounoassociada><![CDATA[sim | sim | não]]></associadoounoassociada>
+		<plataforma><![CDATA[Biológico | Extração Vegetal | Sintético]]></plataforma>
+		<europeancommunitynumber><![CDATA[N/A | 999-58-5 | 300-859-4]]></europeancommunitynumber>
+		<classeteraputica><![CDATA[Hormônios | Antidiabéticos | Sintético]]></classeteraputica>
+		<contato><![CDATA[João | Daniela | Pedro]]></contato>
+		<departamentonumber><![CDATA[Exportação | Comércio Exterior | Trade]]></departamentonumber>
+		<email><![CDATA[joao@fabricantea.com.br | vendas@fabricanted.com.br | trade@fabricanted.com.br]]></email>
+		<telefone><![CDATA[44 99999 5585 | 47 99999 5585 | 11 99999 5585 ]]></telefone>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Abaperidona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[6]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Abaperidone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[183849-43-6]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+		<nomedaempresa><![CDATA[Fabricante  E]]></nomedaempresa>
+		<razosocialopcional><![CDATA[Fantasia E]]></razosocialopcional>
+		<website><![CDATA[www.FabricanteD.com.br]]></website>
+		<cidade><![CDATA[Duque de Caxias]]></cidade>
+		<uf><![CDATA[RJ]]></uf>
+		<pas><![CDATA[Brasil]]></pas>
+		<associadoounoassociada><![CDATA[não]]></associadoounoassociada>
+		<plataforma><![CDATA[Extração Animal ]]></plataforma>
+		<europeancommunitynumber><![CDATA[N/A]]></europeancommunitynumber>
+		<classeteraputica><![CDATA[N/A]]></classeteraputica>
+		<contato><![CDATA[N/A]]></contato>
+		<departamentonumber><![CDATA[Comex]]></departamentonumber>
+		<email><![CDATA[export@fabricantee.com.br]]></email>
+		<telefone><![CDATA[48 99999 5585]]></telefone>
+	</node>
+</data>

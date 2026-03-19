@@ -1,0 +1,4003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rosa Bengala Dissódica (125 I)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10074]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rose Bengal Disodium I 125]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d.]]></casnumber>
+		<ncm><![CDATA[2844.40.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rosa Bengala Dissódica (131 I)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7808]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rose Bengal Disodium I 131]]></nomenclaturadciinn>
+		<casnumber><![CDATA[15251-14-6]]></casnumber>
+		<ncm><![CDATA[2844.40.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rosabulina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rosabulin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[501948-05-6]]></casnumber>
+		<ncm><![CDATA[2934.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rosanolixizumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rosanolixizumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1584645-37-3]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rosaprostol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7809]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rosaprostol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[56695-65-9]]></casnumber>
+		<ncm><![CDATA[2937.50.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rosaramicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7810]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rosaramycin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[35834-26-5]]></casnumber>
+		<ncm><![CDATA[2941.90.59]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rosiglitazona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7812]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rosiglitazone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[122320-73-4]]></casnumber>
+		<ncm><![CDATA[2934.10.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rosiptor]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rosiptor]]></nomenclaturadciinn>
+		<casnumber><![CDATA[782487-28-9]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rosmantuzumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rosmantuzumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1684393-04-1]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rosomidinar]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rosomidnar]]></nomenclaturadciinn>
+		<casnumber><![CDATA[871597-03-4]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rosonabanto]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rosonabant]]></nomenclaturadciinn>
+		<casnumber><![CDATA[861151-12-4]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rosoxacino]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7814]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rosoxacin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[40034-42-2]]></casnumber>
+		<ncm><![CDATA[2933.49.12]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rostafuroxina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rostafuroxin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[156722-18-8]]></casnumber>
+		<ncm><![CDATA[2932.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rostaporfina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7815]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rostaporfin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[284041-10-7]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rosterolona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7816]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rosterolone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[79243-67-7]]></casnumber>
+		<ncm><![CDATA[2937.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rosuvastatina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7817]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rosuvastatin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[287714-41-4]]></casnumber>
+		<ncm><![CDATA[2935.90.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rosuvastatina Cálcica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7818]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rosuvastatin Calcium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[147098-20-2]]></casnumber>
+		<ncm><![CDATA[2935.90.19]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rotamicilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7819]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rotamicillin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[55530-41-1]]></casnumber>
+		<ncm><![CDATA[2941.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rotigaptida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rotigaptide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[355151-12-1]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rotigotina  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7820]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rotigotine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[99755-59-6]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rotoxamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7821]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rotoxamine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5560-77-0]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rotraxato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7822]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rotraxate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[92071-51-7]]></casnumber>
+		<ncm><![CDATA[2922.50.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rovafovir Etalafenamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rovasfovir Etalafenamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[912809-27-9]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rovalpituzumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11590]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rovalpituzumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1613313-01-1]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rovalpituzumabe Tesirina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11589]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rovalpituzumab Tesirine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1613313-09-9]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rovatirrelina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rovatirelin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[204386-76-5]]></casnumber>
+		<ncm><![CDATA[2937.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rovazolaco]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rovazolac]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1454288-88-0]]></casnumber>
+		<ncm><![CDATA[2933.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rovelizumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7823]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rovelizumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[197099-66-4]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Roxadimato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7824]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Roxadimate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[58882-17-0]]></casnumber>
+		<ncm><![CDATA[2922.50.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Roxadustate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11717]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Roxadustat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[808118-40-3]]></casnumber>
+		<ncm><![CDATA[2922.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Roxarsona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7825]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Roxarsone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[121-19-7]]></casnumber>
+		<ncm><![CDATA[2931.90.59]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Roxatidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7826]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Roxatidine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[78273-80-0]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Roxibolona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7828]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Roxibolone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[60023-92-9]]></casnumber>
+		<ncm><![CDATA[2937.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Roxifibana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7829]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Roxifiban]]></nomenclaturadciinn>
+		<casnumber><![CDATA[170902-47-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Roxindol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7830]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Roxindol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[112192-04-8]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Roxitromicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7831]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Roxithromycin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[80214-83-1]]></casnumber>
+		<ncm><![CDATA[2941.50.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Roxoperona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7832]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Roxoperone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2804-00-4]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rozrolimupabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rozrolimupab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[909402-77-3]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rubitecana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7833]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rubitecan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[91421-42-0]]></casnumber>
+		<ncm><![CDATA[2939.80.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Ruboxistaurina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7834]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Ruboxistaurin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[169939-94-0]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rucaparibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rucaparib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[283173-50-2]]></casnumber>
+		<ncm><![CDATA[2933.99.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Ruclosporina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Ruclosporin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[882569-97-3]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rufinamida  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10693]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rufinamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[106308-44-5]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rufloxacino]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7835]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rufloxacin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[101363-10-4]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rufocromomicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7836]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rufocromomycin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[3930-19-6]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rupatadina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7837]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rupatadine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[158876-82-5]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rupintrivir]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rupintrivir]]></nomenclaturadciinn>
+		<casnumber><![CDATA[223537-30-2]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Ruplizumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7839]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Ruplizumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[220651-94-5]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rusalatida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rusalatide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[497221-38-2]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rusasvir]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rusasvir]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1613081-64-3]]></casnumber>
+		<ncm><![CDATA[2924.29.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rutamicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7840]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rutamycin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1404-59-7]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Rutosídeo]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7841]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Rutoside]]></nomenclaturadciinn>
+		<casnumber><![CDATA[153-18-4]]></casnumber>
+		<ncm><![CDATA[2938.10.00]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Ruvazona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7842]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Ruvazone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[20228-27-7]]></casnumber>
+		<ncm><![CDATA[2928.00.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Ruxolitinibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10674]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Ruxolitinib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[941678-49.-5]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Ruxotemitida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Ruxotemitide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1345407-05-7]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Ruzadolano]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7843]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Ruzadolane]]></nomenclaturadciinn>
+		<casnumber><![CDATA[115762-17-9]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sabarubicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sabarubicin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[211100-13-9]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sabatolimabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sabatolimab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2252262-24-9]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sabcomelina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7844]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sabcomeline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[159912-53-5]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sabeluzol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7845]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sabeluzole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[104383-17-7]]></casnumber>
+		<ncm><![CDATA[2934.20.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sabiporida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7846]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sabiporide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[324758-66-9]]></casnumber>
+		<ncm><![CDATA[2933.59.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sacarato de Cálcio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7847]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Calcium Saccharate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5793-88-4]]></casnumber>
+		<ncm><![CDATA[2918.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sacarato de Hidróxido Férrico]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9524]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Ferric Saccharate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[75050-77-0]]></casnumber>
+		<ncm><![CDATA[2940.00.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sacarato de Óxido de Ferro]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7848]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Ferric Oxide, Saccharated]]></nomenclaturadciinn>
+		<casnumber><![CDATA[8047-67-4]]></casnumber>
+		<ncm><![CDATA[2918.19.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sacarina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7850]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saccharin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[81-07-2]]></casnumber>
+		<ncm><![CDATA[2925.11.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sacarina Cálcica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9837]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saccharin Calcium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[6381-91-5]]></casnumber>
+		<ncm><![CDATA[2925.11.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sacarina Cálcica Anidra]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7852]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saccharin Calcium Anhydrous]]></nomenclaturadciinn>
+		<casnumber><![CDATA[6485-34-3]]></casnumber>
+		<ncm><![CDATA[2925.11.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sacarina Sódica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7853]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saccharin Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[6155-57-3]]></casnumber>
+		<ncm><![CDATA[2925.11.00]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sacarina Sódica Anidra]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7851]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saccharin Sodium Anhydrous]]></nomenclaturadciinn>
+		<casnumber><![CDATA[128-44-9]]></casnumber>
+		<ncm><![CDATA[2925.11.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sacarose]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7854]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sucrose]]></nomenclaturadciinn>
+		<casnumber><![CDATA[57-50-1]]></casnumber>
+		<ncm><![CDATA[1701.99.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Saccharomyces Boulardii]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11649]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saccharomyces Boulardii]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d.]]></casnumber>
+		<ncm><![CDATA[2102.10.10]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sacituzumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sacituzumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1796566-95-4]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sacituzumabe Govitecana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[12611]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sacituzumab Govitecan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1491917-83-9]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sacrosidase]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sacrosidase]]></nomenclaturadciinn>
+		<casnumber><![CDATA[85897-35-4]]></casnumber>
+		<ncm><![CDATA[3507.90.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sacubitril]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11227]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sacubitril]]></nomenclaturadciinn>
+		<casnumber><![CDATA[149709-62-6]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sacubitril Valsartana Sódica Hidratada]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11228]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sacubitril Sodium Valsartan Hydrate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[936623-90-4]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sacubitrilato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sacubitrilat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[149709-44-4]]></casnumber>
+		<ncm><![CDATA[2918.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Safinamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7855]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Safinamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[133865-89-1]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Safingol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7856]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Safingol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[15639-50-6]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Safironila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Safironil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[134377-69-8]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Safotibanto]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Safotibant]]></nomenclaturadciinn>
+		<casnumber><![CDATA[633698-99-4]]></casnumber>
+		<ncm><![CDATA[2924.29.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Safrol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7857]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Safrole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[94-59-7]]></casnumber>
+		<ncm><![CDATA[2932.94.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sagandipino]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7858]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sagandipine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[126294-30-2]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sagopilona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sagopilone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[305841-29-6]]></casnumber>
+		<ncm><![CDATA[2934.20.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salacetamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7859]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salacetamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[487-48-9]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salafibrato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7860]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salafibrate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[64496-66-8]]></casnumber>
+		<ncm><![CDATA[2918.22.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salantel]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7861]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salantel]]></nomenclaturadciinn>
+		<casnumber><![CDATA[36093-47-7]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salazodina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7862]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salazodine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[22933-72-8]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salazossulfadimidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7863]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salazosulfadimidine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2315-08-4]]></casnumber>
+		<ncm><![CDATA[2935.90.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salazossulfamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7864]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salazosulfamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[139-56-0]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salazossulfatiazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7865]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salazosulfathiazole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[515-58-2]]></casnumber>
+		<ncm><![CDATA[2935.90.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salbutamol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7866]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salbutamol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[18559-94-9]]></casnumber>
+		<ncm><![CDATA[2922.50.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salcaprozato de Sódio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salcaprozate Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[203787-91-1]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salclobuzato de Sódio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salclobuzate Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[387825-07-2]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salcolex]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7868]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salcolex]]></nomenclaturadciinn>
+		<casnumber><![CDATA[28038-04-2]]></casnumber>
+		<ncm><![CDATA[2923.10.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salcolex Anidro]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salcolex Anhydrous]]></nomenclaturadciinn>
+		<casnumber><![CDATA[54194-00-2]]></casnumber>
+		<ncm><![CDATA[2923.10.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Saletamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7869]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saletamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[46803-81-0]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salfluverina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7870]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salfluverine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[587-49-5]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7871]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salicylamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[65-45-2]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilanilida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salicylanilide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[87-17-2]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato Básico de Alumínio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[341]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Aluminum Salicylate, Basic]]></nomenclaturadciinn>
+		<casnumber><![CDATA[15479-57-9]]></casnumber>
+		<ncm><![CDATA[#N/A]]></ncm>
+		<nve><![CDATA[#N/A]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato Cálcico de Teobromina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Theobromine Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[8065-51-8]]></casnumber>
+		<ncm><![CDATA[2939.99.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato Cálcico de Teofilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8399]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Theophylline Salicylate Calcium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[37287-41-5]]></casnumber>
+		<ncm><![CDATA[2939.59.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Aminopirina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Aminopyrine Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[603-57-6]]></casnumber>
+		<ncm><![CDATA[2933.11.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Amônio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Ammonium Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[528-94-9]]></casnumber>
+		<ncm><![CDATA[2918.21.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Bamipina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[1027]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Bamipine Hydrochloride]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1229-69-2]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Bismuto Monobásico]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[342]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Bismuth Salicylate, Basic]]></nomenclaturadciinn>
+		<casnumber><![CDATA[14882-18-9]]></casnumber>
+		<ncm><![CDATA[2918.21.20]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Carbazocromo]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[1721]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Carbazochrome Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[13051-01-9]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Codeína  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[2561]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Codeine Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[6020-73-1]]></casnumber>
+		<ncm><![CDATA[2939.11.22]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Colina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[2587]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Choline Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2016-36-6]]></casnumber>
+		<ncm><![CDATA[2923.90.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Dietilamônio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9477]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Diethylammonium Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[4419-92-5]]></casnumber>
+		<ncm><![CDATA[2921.19.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Eseridina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Eseridine Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5995-96-0]]></casnumber>
+		<ncm><![CDATA[2939.80.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Etilenoglicol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7872]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[2-Hydroxyethyl Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[87-28-5]]></casnumber>
+		<ncm><![CDATA[2918.23.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Fenazona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Phenazone Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[520-07-0]]></casnumber>
+		<ncm><![CDATA[2933.11.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Fenila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[343]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Phenyl Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[118-55-8]]></casnumber>
+		<ncm><![CDATA[2918.23.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Fenocol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Phenocoll Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[140-47-6]]></casnumber>
+		<ncm><![CDATA[2924.29.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Fisostigmina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[4059]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Physostigmine Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[57-64-7]]></casnumber>
+		<ncm><![CDATA[2939.80.00]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Imidazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7873]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Imidazole Salicilate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[36364-49-5]]></casnumber>
+		<ncm><![CDATA[2933.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Magnésio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Magnesium Salicilate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[18917-95-8]]></casnumber>
+		<ncm><![CDATA[2918.21.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Magnésio Anidro]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Magnesium Salicylate Anhydrous]]></nomenclaturadciinn>
+		<casnumber><![CDATA[18917-89-0]]></casnumber>
+		<ncm><![CDATA[2918.21.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Meglumina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[5602]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Meglumine Salycilate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[23277-50-1]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Mentila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9544]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Menthyl Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[89-46-3]]></casnumber>
+		<ncm><![CDATA[2918.23.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Metila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[344]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Methyl Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[119-36-8]]></casnumber>
+		<ncm><![CDATA[2918.23.00]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Morfolina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Morpholine Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[147-90-0]]></casnumber>
+		<ncm><![CDATA[2934.99.11]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Nicotina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Nicotine Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[29790-52-1]]></casnumber>
+		<ncm><![CDATA[2939.80.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Ramifenazona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7626]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Ramifenazone Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d.]]></casnumber>
+		<ncm><![CDATA[2933.11.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Sódio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[345]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sodium Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[54-21-7]]></casnumber>
+		<ncm><![CDATA[2918.21.20]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Trolamina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8963]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Trolamine Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2174-16-5]]></casnumber>
+		<ncm><![CDATA[2922.13.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato de Zinco]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Zinc Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[16283-36-6]]></casnumber>
+		<ncm><![CDATA[2918.21.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato Mercúrico]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Mercuric Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5970-32-1]]></casnumber>
+		<ncm><![CDATA[2918.21.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicilato Sódico de Teobromina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Theobromine Sodium Salicylate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[8048-31-5]]></casnumber>
+		<ncm><![CDATA[2939.79.20]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salicin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[138-52-3]]></casnumber>
+		<ncm><![CDATA[2938.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salinazida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7874]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salinazid]]></nomenclaturadciinn>
+		<casnumber><![CDATA[495-84-1]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salinomicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7875]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salinomycin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[53003-10-4]]></casnumber>
+		<ncm><![CDATA[2941.90.79]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salinomicina Sódica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salinomycin Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[55721-31-8]]></casnumber>
+		<ncm><![CDATA[2941.90.79]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salirasibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salirasib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[162520-00-5]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salmefamol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7876]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salmefamol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[18910-65-1]]></casnumber>
+		<ncm><![CDATA[2922.50.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salmeterol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7877]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salmeterol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[89365-50-4]]></casnumber>
+		<ncm><![CDATA[2922.50.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salmisteína]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7879]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salmisteine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[89767-59-9]]></casnumber>
+		<ncm><![CDATA[2930.90.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salnacedina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7880]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salnacedin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[87573-01-1]]></casnumber>
+		<ncm><![CDATA[2930.90.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salprotosídeo]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7881]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saltoproside]]></nomenclaturadciinn>
+		<casnumber><![CDATA[33779-37-2]]></casnumber>
+		<ncm><![CDATA[2940.00.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salsalato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7882]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salsalate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[552-94-3]]></casnumber>
+		<ncm><![CDATA[2918.23.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Salverina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7883]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Salverine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[6376-26-7]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Samalizumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Samalizumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1073059-33-2]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Samatasvir]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Samatasvir]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1312547-19-5]]></casnumber>
+		<ncm><![CDATA[2924.29.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sameridina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sameridine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[143257-97-0]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Samidorfano]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Samidorphan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[852626-89-2]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Samixogrel]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7885]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Samixogrel]]></nomenclaturadciinn>
+		<casnumber><![CDATA[133276-80-9]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sampatrilate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sampatrilat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[129981-36-8]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sampirtina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7886]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sampirtine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[115911-28-9]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sanciclina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7887]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sancycline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[808-26-4]]></casnumber>
+		<ncm><![CDATA[2941.30.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sanfetriném]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7888]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sanfetrinem]]></nomenclaturadciinn>
+		<casnumber><![CDATA[156769-21-0]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sanfetriném Cilexetila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sanfetrinem Cilexetil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[141646-08-4]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sanfetriném Sódico]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sanfetrinem Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[141611-76-9]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sanrotamabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Samrotamab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2052591-32-7]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sanrotamabe Vedotina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Samrotamab Vedotin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2052649-42-8]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Santonina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Santonin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[481-06-1]]></casnumber>
+		<ncm><![CDATA[2932.20.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sapacitabina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sapacitabine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[151823-14-2]]></casnumber>
+		<ncm><![CDATA[2934.99.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sapanisertibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sapanisertib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1224844-38-5]]></casnumber>
+		<ncm><![CDATA[2921.59.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Saperconazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7889]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saperconazole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[110588-57-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sapitinibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sapitinib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[848942-61-0]]></casnumber>
+		<ncm><![CDATA[2924.29.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Saprisartana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7890]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saprisartan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[146623-69-0]]></casnumber>
+		<ncm><![CDATA[2935.00.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Saprisartana Potássica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saprisartan Potassium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[146613-90-3]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sapropterina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7891]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sapropterin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[62989-33-7]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Saquinavir]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7892]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saquinavir]]></nomenclaturadciinn>
+		<casnumber><![CDATA[127779-20-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Saracalim]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7894]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sarakalim]]></nomenclaturadciinn>
+		<casnumber><![CDATA[148430-28-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Saracatinibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saracatinib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[379231-04-6]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sarafloxacino]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7895]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sarafloxacin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[98105-99-8]]></casnumber>
+		<ncm><![CDATA[2933.59.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Saralasina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7897]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saralasin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[34273-10-4]]></casnumber>
+		<ncm><![CDATA[2937.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sarcolisina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sarcolysin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[531-76-0]]></casnumber>
+		<ncm><![CDATA[2922.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sardomozida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7900]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sardomozide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[149400-88-4]]></casnumber>
+		<ncm><![CDATA[2928.00.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sareciclina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sarecycline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1035654-66-0]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Saredutanto]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11192]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saredutant]]></nomenclaturadciinn>
+		<casnumber><![CDATA[142001-63-6]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sargramostim]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7901]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sargramostim]]></nomenclaturadciinn>
+		<casnumber><![CDATA[123774-72-1]]></casnumber>
+		<ncm><![CDATA[3001.20.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sarilumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11408]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sarilumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1189541-98-7]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Saripidém]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saripidem]]></nomenclaturadciinn>
+		<casnumber><![CDATA[103844-86-6]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sarizotana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7902]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sarizotan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[351862-32-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sarmazenil]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7903]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sarmazenil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[78771-13-8]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sarmoxicilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7904]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sarmoxicillin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[67337-44-4]]></casnumber>
+		<ncm><![CDATA[2941.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Saroglitazar]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saroglitazar]]></nomenclaturadciinn>
+		<casnumber><![CDATA[495399-09-2]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sarolâner]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sarolaner]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1398609-39-6]]></casnumber>
+		<ncm><![CDATA[2933.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sarpicilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7905]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sarpicillin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[40966-79-8]]></casnumber>
+		<ncm><![CDATA[2941.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sarpogrelato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7906]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sarprogrelate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[125926-17-2]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sarsagenina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sarsagenin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[126-19-2]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Saruplase]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7907]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saruplase]]></nomenclaturadciinn>
+		<casnumber><![CDATA[99149-95-8]]></casnumber>
+		<ncm><![CDATA[3507.90.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Satavaptana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Satavaptan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[185913-78-4]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Saterinona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7908]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saterinone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[102669-89-6]]></casnumber>
+		<ncm><![CDATA[2933.79.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Satigrel]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Satigrel]]></nomenclaturadciinn>
+		<casnumber><![CDATA[111753-73-2]]></casnumber>
+		<ncm><![CDATA[2926.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Satoreotida Tetraxetana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Satoreotide Tetraxetan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1039726-31-2]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Satoreotida Trizoxetana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Satoreotide Trizoxetan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1638746-88-9]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Satorestida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Satorestide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1801415-23-5]]></casnumber>
+		<ncm><![CDATA[2922.50.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Satralizumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[12369]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Satralizumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1535963-91-7]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Satranidazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7909]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Satranidazole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[56302-13-7]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Satraplatina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7910]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Satraplatin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[129580-63-8]]></casnumber>
+		<ncm><![CDATA[2843.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Satumomabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7911]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Satumomab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[144058-40-2]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Satumomabe Pendetida (111 In)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9801]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Indium In 111 Satumomab Pendetide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[138955-27-8]]></casnumber>
+		<ncm><![CDATA[2844.40.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Saviprazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7912]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saviprazole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[121617-11-6]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Savolitinibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Savolitinib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1313725-88-0]]></casnumber>
+		<ncm><![CDATA[2934.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Savoxepina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7913]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Savoxepin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[79262-46-7]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Saxagliptina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9646]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saxagliptine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[945667-22-1]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Saxagliptina Anidra]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9645]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Saxagliptine Anhydrous]]></nomenclaturadciinn>
+		<casnumber><![CDATA[361442-04-8]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sebacato de Dinalbufina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Dinalbuphine Sebacate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[311768-81-7]]></casnumber>
+		<ncm><![CDATA[2939.19.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sebriplatina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7914]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sebriplatin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[110172-45-7]]></casnumber>
+		<ncm><![CDATA[2843.90.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Secalciferol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7915]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Secalciferol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[55721-11-4]]></casnumber>
+		<ncm><![CDATA[2936.29.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Seclazona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7917]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Seclazone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[29050-11-1]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Seclidenstate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Seclidenstat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1423715-37-0]]></casnumber>
+		<ncm><![CDATA[2933.59.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Secnidazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7918]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Secnidazole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[3366-95-8]]></casnumber>
+		<ncm><![CDATA[2933.29.19]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Secobarbital  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7919]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Secobarbital]]></nomenclaturadciinn>
+		<casnumber><![CDATA[76-73-3]]></casnumber>
+		<ncm><![CDATA[2933.53.72]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Secobarbital Sódico  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7920]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Secobarbital Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[309-43-3]]></casnumber>
+		<ncm><![CDATA[2933.53.72]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Secoverina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7921]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Secoverine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[57558-44-8]]></casnumber>
+		<ncm><![CDATA[2922.50.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Secretina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7922]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Secretin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1393-25-5]]></casnumber>
+		<ncm><![CDATA[2937.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Secretina Humana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Secretin Human]]></nomenclaturadciinn>
+		<casnumber><![CDATA[108153-74-8]]></casnumber>
+		<ncm><![CDATA[2937.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Secuquinumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11125]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Secukinumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1229022-83-6]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Securinina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7923]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Securinine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5610-40-2]]></casnumber>
+		<ncm><![CDATA[2939.80.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sedecamicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7924]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sedecamycin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[23477-98-7]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Seganserina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7925]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Seganserin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[87729-89-3]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Segesterona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Segesterone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[7690-08-6]]></casnumber>
+		<ncm><![CDATA[2937.23.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Seglitida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7926]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Seglitide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[81377-02-8]]></casnumber>
+		<ncm><![CDATA[2937.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Seladelpar]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Seladelpar]]></nomenclaturadciinn>
+		<casnumber><![CDATA[851528-79-5]]></casnumber>
+		<ncm><![CDATA[2915.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Selamectina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7928]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Selamectine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[165108-07-6]]></casnumber>
+		<ncm><![CDATA[2932.20.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Selatogrel]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Selatogrel]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1159500-34-1]]></casnumber>
+		<ncm><![CDATA[2933.59.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Selegilina  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7929]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Selegiline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[14611-51-9]]></casnumber>
+		<ncm><![CDATA[2921.49.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Selenato de Sódio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9478]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sodium Selenate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[13410-01-0]]></casnumber>
+		<ncm><![CDATA[2842.90.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Selenito de Sódio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9525]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sodium Selenite]]></nomenclaturadciinn>
+		<casnumber><![CDATA[10102-18-8]]></casnumber>
+		<ncm><![CDATA[2842.90.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Selenito de Sódio Pentaidratado]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9671]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sodium Selenite Pentahydrate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[26970-82-1 ]]></casnumber>
+		<ncm><![CDATA[2842.90.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Selenometionina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7931]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Selenomethionine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1464-42-2]]></casnumber>
+		<ncm><![CDATA[2931.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Selenometionina (75 Se)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9752]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Selenomethionine Se 75]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1187-56-0]]></casnumber>
+		<ncm><![CDATA[2844.40.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Selepressina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Selepressin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[876296-47-8]]></casnumber>
+		<ncm><![CDATA[2937.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Seletalisibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Seletalisib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1362850-20-1]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Seletracetam]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Seletracetam]]></nomenclaturadciinn>
+		<casnumber><![CDATA[357336-74-4]]></casnumber>
+		<ncm><![CDATA[2933.79.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Selexipague]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11229]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Selexipag]]></nomenclaturadciinn>
+		<casnumber><![CDATA[475086-01-2]]></casnumber>
+		<ncm><![CDATA[2924.29.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Selfotel]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7932]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Selfotel]]></nomenclaturadciinn>
+		<casnumber><![CDATA[110347-85-8]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Selicilibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Selicilib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[186692-46-6]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Selicrelumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Selicrelumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1622140-49-1]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Selinexor]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Selinexor]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1393477-72-9]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Selisistate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Selisistat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[49843-98-3]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Selodenosona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Selodenoson]]></nomenclaturadciinn>
+		<casnumber><![CDATA[110299-05-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Selonsertibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Selonsertib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1448428-04-3]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Selpercatinibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[12671]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Selpercatinib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2152628-33-4]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Selprazina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7933]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Selprazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[103997-59-7]]></casnumber>
+		<ncm><![CDATA[2933.79.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Seltorexanto]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Seltorexant]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1293281-49-8]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Selumetinibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Selumetinib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[606143-52-6]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Selurampanel]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Selurampanel]]></nomenclaturadciinn>
+		<casnumber><![CDATA[912574-69-7]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Semagacestate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Semagacestat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[425386-60-3]]></casnumber>
+		<ncm><![CDATA[2933.79.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Semaglutida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11578]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Semaglutide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[910463-68-2]]></casnumber>
+		<ncm><![CDATA[2937.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Semapimode]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Semapimod]]></nomenclaturadciinn>
+		<casnumber><![CDATA[352513-83-8]]></casnumber>
+		<ncm><![CDATA[2928.00.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sematilida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7934]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sematilide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[101526-83-4]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Semaxanibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7936]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Semaxanib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[194413-58-6]]></casnumber>
+		<ncm><![CDATA[2933.79.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sembragilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sembragiline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[676479-06-4]]></casnumber>
+		<ncm><![CDATA[2924.29.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Semorfona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Semorphone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[88939-40-6]]></casnumber>
+		<ncm><![CDATA[2939.19.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Semotiadil]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7937]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Semotiadil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[116476-13-2]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Semparatida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7938]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Semparatide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[154906-40-8]]></casnumber>
+		<ncm><![CDATA[2933.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Semuloparina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10930]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Semuloparin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d.]]></casnumber>
+		<ncm><![CDATA[3001.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Semuloparina Sódica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10625]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Semuloparin Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9041-08-1]]></casnumber>
+		<ncm><![CDATA[3001.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Semustina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7939]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Semustine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[13909-09-6]]></casnumber>
+		<ncm><![CDATA[2929.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Senazodana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7940]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Senazodan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[98326-32-0]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Senduramicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7941]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Semduramicin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[113378-31-7]]></casnumber>
+		<ncm><![CDATA[2941.90.79]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Senduramicina Sódica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Semduramicin Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[119068-77-8]]></casnumber>
+		<ncm><![CDATA[2941.90.79]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Senicapoque]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Senicapoc]]></nomenclaturadciinn>
+		<casnumber><![CDATA[289656-45-7]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Senosídeo A]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9686]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sennoside A]]></nomenclaturadciinn>
+		<casnumber><![CDATA[81-27-6]]></casnumber>
+		<ncm><![CDATA[2938.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Senosídeo B]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9687]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sennoside B]]></nomenclaturadciinn>
+		<casnumber><![CDATA[128-57-4]]></casnumber>
+		<ncm><![CDATA[2938.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Senrebotase]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Senrebotase]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1290102-81-6]]></casnumber>
+		<ncm><![CDATA[3507.90.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Seocalcitol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7942]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Seocalcitol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[134404-52-7]]></casnumber>
+		<ncm><![CDATA[2906.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sepantrônio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sepantronium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[753440-91-4]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sepetaprosta]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sepetaprost]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1262873-06-2]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sepimostate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sepimostat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[103926-64-3]]></casnumber>
+		<ncm><![CDATA[2933.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sepranolona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sepranolone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[516-55-2]]></casnumber>
+		<ncm><![CDATA[2937.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Seprilose]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7943]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Seprilose]]></nomenclaturadciinn>
+		<casnumber><![CDATA[133692-55-4]]></casnumber>
+		<ncm><![CDATA[2940.00.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Seproxetina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7944]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Seproxetine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[126924-38-7]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sequifenadina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7945]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sequifenadine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[57734-69-7]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Serabelisibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Serabelisib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1268454-23-4]]></casnumber>
+		<ncm><![CDATA[2933.99.59]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Seractida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7946]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Seractide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[12279-41-3]]></casnumber>
+		<ncm><![CDATA[2937.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Seratrodaste]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7948]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Seratrodast]]></nomenclaturadciinn>
+		<casnumber><![CDATA[112665-43-7]]></casnumber>
+		<ncm><![CDATA[2918.30.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Serazapina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7949]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Serazapine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[115313-22-9]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Serdemetana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Serdemetan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[881202-45-5]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Serelaxina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10814]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Serelaxin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[99489-94-8]]></casnumber>
+		<ncm><![CDATA[2937.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Serfibrato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7951]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Serfibrate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[54657-98-6]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sergliflozina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sergliflozin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[408504-26-7]]></casnumber>
+		<ncm><![CDATA[2940.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sergolexol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7952]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sergolexole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[108674-86-8]]></casnumber>
+		<ncm><![CDATA[2939.69.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Seribantumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Seribantumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1334296-12-6]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Seridopidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Seridopidine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[883631-51-4]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Serina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7954]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Serine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[56-45-1]]></casnumber>
+		<ncm><![CDATA[2922.50.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Serlopitanto]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Serlopitant]]></nomenclaturadciinn>
+		<casnumber><![CDATA[860642-69-9]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sermetacina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7956]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sermetacin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[57645-05-3]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sermorrelina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7957]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sermorelin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[86168-78-7]]></casnumber>
+		<ncm><![CDATA[2937.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Serplulimabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Serplulimab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2231029-82-4]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Serrapeptase]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7959]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Serrapeptase]]></nomenclaturadciinn>
+		<casnumber><![CDATA[37312-62-2]]></casnumber>
+		<ncm><![CDATA[3507.90.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sertaconazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7960]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sertaconazole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[99592-32-2]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sertindol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7962]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sertindole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[106516-24-9]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sertralina  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7963]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sertraline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[79617-96-2]]></casnumber>
+		<ncm><![CDATA[2921.49.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sesquifumarato de Tedisamila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Tedisamil Sesquifumarate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[150501-62-5]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sesquioleato de Sorbitana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7965]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sorbitan Sesquioleate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[8007-43-0]]></casnumber>
+		<ncm><![CDATA[3402.42.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sesquióxido de Molibdênio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7966]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Molybdenum Sesquioxide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1313-29-7]]></casnumber>
+		<ncm><![CDATA[2825.70.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sestamibi (99m Tc)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8338]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Technetium Tc 99m Sestamibi]]></nomenclaturadciinn>
+		<casnumber><![CDATA[109581-73-9]]></casnumber>
+		<ncm><![CDATA[2844.40.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Setafrastate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Setafrastat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1399715-48-0]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Setastina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7967]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Setastine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[64294-95-7]]></casnumber>
+		<ncm><![CDATA[2933.99.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Setazindol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7968]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Setazindol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[56481-43-7]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Setileutona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Setileuton]]></nomenclaturadciinn>
+		<casnumber><![CDATA[910656-27-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Setipafanto]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7969]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Setipafant]]></nomenclaturadciinn>
+		<casnumber><![CDATA[132418-35-0]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Setipipranto]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Setipiprant]]></nomenclaturadciinn>
+		<casnumber><![CDATA[866460-33-5]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Setiptilina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7970]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Setiptiline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[57262-94-9]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Setmelanotida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Setmelanotide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[920014-72-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Setogepram]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Setogepram]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1002101-19-0]]></casnumber>
+		<ncm><![CDATA[2915.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Setoperona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7971]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Setoperone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[86487-64-1]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Setoxaximabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Setoxaximab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1351470-17-1]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Setrobuvir]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Setrobuvir]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1071517-39-9]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Setrusumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Setrusumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1847394-95-9]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sevelâmer]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7972]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sevelamer]]></nomenclaturadciinn>
+		<casnumber><![CDATA[52757-95-6]]></casnumber>
+		<ncm><![CDATA[3911.90.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sevirumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7974]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sevirumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[138660-96-5]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Seviteronel]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Seviteronel]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1610537-15-9]]></casnumber>
+		<ncm><![CDATA[2933.99.69]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sevoflurano  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7975]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sevoflurane]]></nomenclaturadciinn>
+		<casnumber><![CDATA[28523-86-6]]></casnumber>
+		<ncm><![CDATA[2909.19.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sevopramida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7976]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sevopramide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[57227-17-5]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sevuparina Sódica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10931]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sevuparin Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9041-08-1]]></casnumber>
+		<ncm><![CDATA[3001.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sezolamida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7977]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sezolamide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[123308-22-5]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Siagosídeo]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7979]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Siagoside]]></nomenclaturadciinn>
+		<casnumber><![CDATA[100345-64-0]]></casnumber>
+		<ncm><![CDATA[2938.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sibenadete]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7980]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sibenadet]]></nomenclaturadciinn>
+		<casnumber><![CDATA[154189-40-9]]></casnumber>
+		<ncm><![CDATA[2934.20.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sibopirdina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7981]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sibopirdine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[122955-18-4]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Siboroxima (99m Tc)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8339]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Technetium Tc 99m Siboroxime]]></nomenclaturadciinn>
+		<casnumber><![CDATA[106417-28-1]]></casnumber>
+		<ncm><![CDATA[2844.40.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sibrafibana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7982]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sibrafiban]]></nomenclaturadciinn>
+		<casnumber><![CDATA[172927-65-0]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sibrotuzumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7983]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sibrotuzumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[216669-97-5]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sibutramina  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7984]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sibutramine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[106650-56-0]]></casnumber>
+		<ncm><![CDATA[2921.19.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sicanina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7986]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Siccanin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[22733-60-4]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sifalimumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sifalimumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1006877-41-3]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sifaprazina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7987]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sifaprazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[131635-06-8]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Siguazodana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7988]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Siguazodan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[115344-47-3]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Silandrona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7989]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Silandrone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5055-42-5]]></casnumber>
+		<ncm><![CDATA[2937.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sildenafila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7990]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sildenafil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[139755-83-2]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Silibinina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7992]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Silibinin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[22888-70-6]]></casnumber>
+		<ncm><![CDATA[2932.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Silicato de Alumínio E Magnésio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7993]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Aluminum Magnesium Silicate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[12511-31-8]]></casnumber>
+		<ncm><![CDATA[2842.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Silicato de Alumínio E Sódio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7994]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sodium Aluminosilicate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[73987-94-7]]></casnumber>
+		<ncm><![CDATA[2842.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Silicato de Cálcio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7995]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Calcium Silicate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1344-95-2]]></casnumber>
+		<ncm><![CDATA[2839.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Silicato de Magnésio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7996]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Magnesium Metasilicate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[13776-74-4]]></casnumber>
+		<ncm><![CDATA[2839.11.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Silicona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7997]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Silicon]]></nomenclaturadciinn>
+		<casnumber><![CDATA[7440-21-3]]></casnumber>
+		<ncm><![CDATA[2804.61.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Silicristina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7998]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Silicristin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[33889-69-9]]></casnumber>
+		<ncm><![CDATA[2932.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Silidianina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[7999]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Silidianin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[29782-68-1]]></casnumber>
+		<ncm><![CDATA[2932.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Silimarina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8000]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Silymarin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[65666-07-1]]></casnumber>
+		<ncm><![CDATA[1302.19.60]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Silmitasertibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Silmitasertib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1009820-21-6]]></casnumber>
+		<ncm><![CDATA[2918.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Silodosina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8001]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Silodosine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[160970-54-7]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Silperisona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8002]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Silperisone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[140944-31-6]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Siltenzepina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8003]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Siltenzepine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[98374-54-0]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Silteplase]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8004]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Silteplase]]></nomenclaturadciinn>
+		<casnumber><![CDATA[131081-40-8]]></casnumber>
+		<ncm><![CDATA[3507.90.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Siltuximabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11008]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Siltuximab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[541502-14-1]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Simaldrato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8005]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Simaldrate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[12408-47-8]]></casnumber>
+		<ncm><![CDATA[2842.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Simendana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Simendan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[131741-08-7]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Simenepague]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Simenepag]]></nomenclaturadciinn>
+		<casnumber><![CDATA[910562-15-1]]></casnumber>
+		<ncm><![CDATA[2918.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Simenepague Isopropila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Simenepag Isopropyl]]></nomenclaturadciinn>
+		<casnumber><![CDATA[910562-13-9]]></casnumber>
+		<ncm><![CDATA[2918.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Simeprevir]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10815]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Simeprevir]]></nomenclaturadciinn>
+		<casnumber><![CDATA[923604-59-5]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Simeprevir Sódico]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11272]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Simeprevir Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1241946-89-3]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Simeticona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8006]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Simeticone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[8050-81-5]]></casnumber>
+		<ncm><![CDATA[3910.00.12]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Simetina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8007]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Symetine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[15599-45-8]]></casnumber>
+		<ncm><![CDATA[2922.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Simetrida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8009]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Simetride]]></nomenclaturadciinn>
+		<casnumber><![CDATA[154-82-5]]></casnumber>
+		<ncm><![CDATA[2933.59.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Simotaxel]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Simotaxel]]></nomenclaturadciinn>
+		<casnumber><![CDATA[791635-59-1]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sinapultida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8010]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sinapultide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[138531-07-4]]></casnumber>
+		<ncm><![CDATA[2924.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sincalida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8011]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sincalide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[25126-32-3]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sincloseno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8012]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Symclosene]]></nomenclaturadciinn>
+		<casnumber><![CDATA[87-90-1]]></casnumber>
+		<ncm><![CDATA[2933.69.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sinefungina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8013]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sinefungin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[58944-73-3]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sinfibrato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8014]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Simfibrate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[14929-11-4]]></casnumber>
+		<ncm><![CDATA[2918.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sinitrodil]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sinitrodil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[143248-63-9]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sintilimabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sintilimab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2072873-06-2]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sintrazeno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8015]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Simtrazene]]></nomenclaturadciinn>
+		<casnumber><![CDATA[5579-27-1]]></casnumber>
+		<ncm><![CDATA[2928.00.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sintuzumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Simtuzumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1318075-13-6]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sinvastatina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8016]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Simvastatin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[79902-63-9]]></casnumber>
+		<ncm><![CDATA[2932.20.00]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sipatrigina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sipatrigine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[130800-90-7]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Siplizumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Siplizumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[288392-69-8]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sipoglitazar]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sipoglitazar]]></nomenclaturadciinn>
+		<casnumber><![CDATA[342026-92-0]]></casnumber>
+		<ncm><![CDATA[2934.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Siponimode]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11718]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Siponimod]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1230487-00-9]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Siramesina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8017]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Siramesin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[147817-50-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Siratiazém]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Siratiazem]]></nomenclaturadciinn>
+		<casnumber><![CDATA[138778-28-6]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Siremadina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Siremadin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1448867-41-1]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sirólimo]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8018]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sirólimus]]></nomenclaturadciinn>
+		<casnumber><![CDATA[53123-88-9]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sirosingopina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8019]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Syrosingopine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[84-36-6]]></casnumber>
+		<ncm><![CDATA[2939.80.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sirtratumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sirtratumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1824663-62-2]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sirtratumabe Vedotina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sirtratumab Vedotin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1824663-83-3]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sirucumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11588]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sirukumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1194585-53-9]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sisapronila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sisapronil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[856225-89-3]]></casnumber>
+		<ncm><![CDATA[2926.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sisomicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8020]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sisomicin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[32385-11-8]]></casnumber>
+		<ncm><![CDATA[2941.90.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sitafloxacino]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sitafloxacin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[163253-35-8]]></casnumber>
+		<ncm><![CDATA[2933.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sitafloxacino Anidro]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8022]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sitafloxacin Anhydrous]]></nomenclaturadciinn>
+		<casnumber><![CDATA[127254-12-0]]></casnumber>
+		<ncm><![CDATA[2933.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sitagliptina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sitagliptin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[486460-32-6]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sitalidona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8023]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sitalidone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[108894-39-9]]></casnumber>
+		<ncm><![CDATA[2935.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sitamaquina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8024]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sitamaquine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[57695-04-2]]></casnumber>
+		<ncm><![CDATA[2933.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sitaxentana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8025]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sitaxentan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[184036-34-8]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sitaxentana Sódica]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sitaxentan Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[210421-74-2]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sitimageno Ceradenoveque]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sitimagene Ceradenovec]]></nomenclaturadciinn>
+		<casnumber><![CDATA[898830-54-1]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sitofibrato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sitofibrate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[55902-94-8]]></casnumber>
+		<ncm><![CDATA[2918.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sitoglusida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8026]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sitogluside]]></nomenclaturadciinn>
+		<casnumber><![CDATA[474-58-8]]></casnumber>
+		<ncm><![CDATA[2938.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sitravatinibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sitravatinib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1123837-84-2]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sivelestate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8027]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sivelestat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[127373-66-4]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sivelestate Sódico]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sivelestat Sodium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[201677-61-4]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sivifeno]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sivifen]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2675-35-6]]></casnumber>
+		<ncm><![CDATA[2928.00.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sizofirana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8028]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sizofiran]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9050-67-3]]></casnumber>
+		<ncm><![CDATA[3913.90.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sobetiroma]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sobetirome]]></nomenclaturadciinn>
+		<casnumber><![CDATA[211110-63-3]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soblidotina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8029]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Soblidotin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[149606-27-9]]></casnumber>
+		<ncm><![CDATA[2933.99.49]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sobrerol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8030]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sobrerol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[498-71-5]]></casnumber>
+		<ncm><![CDATA[2906.19.90]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sobuzoxano]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8031]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sobuzoxane]]></nomenclaturadciinn>
+		<casnumber><![CDATA[98631-95-9]]></casnumber>
+		<ncm><![CDATA[2933.59.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Socazolimabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Socazolimab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2305043-30-3]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sodelglitazar]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sodelglitazar]]></nomenclaturadciinn>
+		<casnumber><![CDATA[447406-78-2]]></casnumber>
+		<ncm><![CDATA[2934.10.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sofalcona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8032]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sofalcone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[64506-49-6]]></casnumber>
+		<ncm><![CDATA[2918.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sofigatrana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sofigatran]]></nomenclaturadciinn>
+		<casnumber><![CDATA[187602-11-5]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sofiniclina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sofinicline]]></nomenclaturadciinn>
+		<casnumber><![CDATA[799279-80-4]]></casnumber>
+		<ncm><![CDATA[2933.39.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sofituzumabe Vedotina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sofituzumab Vedotin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1418200-58-4]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sofosbuvir]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10988]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sofosbuvir]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1190307-88-0]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Solabregona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Solabregon]]></nomenclaturadciinn>
+		<casnumber><![CDATA[252920-94-8]]></casnumber>
+		<ncm><![CDATA[2922.50.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Solanezumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Solanezumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[955085-14-0]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Solassulfona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8033]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Solasulfone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[133-65-3]]></casnumber>
+		<ncm><![CDATA[2930.90.79]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Solcitinibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Solcitinib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1206163-45-2]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Solifenacina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8034]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Solifenacin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[242478-37-1]]></casnumber>
+		<ncm><![CDATA[2933.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Solimastate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8035]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Solimastat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[226072-63-5]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Solipertina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8036]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Solypertine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[4448-96-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Solitomabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Solitomab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1005198-65-1]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Solitromicina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Solithromycin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[760981-83-7]]></casnumber>
+		<ncm><![CDATA[2941.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Solnatida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Solnatide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[259206-53-6]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Solpecainol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8038]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Solpecainol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[68567-30-6]]></casnumber>
+		<ncm><![CDATA[2922.19.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Solrianfetol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Solriamfetol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[178429-62-4]]></casnumber>
+		<ncm><![CDATA[2924.29.39]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Somagrebove]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8039]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Somagrebove]]></nomenclaturadciinn>
+		<casnumber><![CDATA[96353-48-9]]></casnumber>
+		<ncm><![CDATA[2937.11.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Somalapor]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8040]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Somalapor]]></nomenclaturadciinn>
+		<casnumber><![CDATA[106282-98-8]]></casnumber>
+		<ncm><![CDATA[2937.11.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Somantadina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8041]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Somantadine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[79594-24-4]]></casnumber>
+		<ncm><![CDATA[2921.30.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Somapacitana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Somapacitan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1338578-34-9]]></casnumber>
+		<ncm><![CDATA[2937.11.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Somatorrelina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8043]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Somatorelin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[83930-13-6]]></casnumber>
+		<ncm><![CDATA[2937.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Somatosalm]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Somatosalm]]></nomenclaturadciinn>
+		<casnumber><![CDATA[123212-08-8]]></casnumber>
+		<ncm><![CDATA[2937.11.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Somatostatina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8044]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Somatostatin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[38916-34-6]]></casnumber>
+		<ncm><![CDATA[2937.11.00]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Somatotropina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Somatotropin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[9002-72-6]]></casnumber>
+		<ncm><![CDATA[2937.11.00]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Somatrém]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8046]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Somatrem]]></nomenclaturadciinn>
+		<casnumber><![CDATA[82030-87-3]]></casnumber>
+		<ncm><![CDATA[2937.11.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Somatrogona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Somatrogon]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1663481-09-1]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Somatropina  ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8047]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Somatropin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[12629-01-5]]></casnumber>
+		<ncm><![CDATA[2937.11.00]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Somatropina Pegol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Somatropin Pegol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[108884-67-3]]></casnumber>
+		<ncm><![CDATA[2937.11.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Somavaratana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Somavaratan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1448335-08-7]]></casnumber>
+		<ncm><![CDATA[2937.11.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Somavubove]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8048]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Somavubove]]></nomenclaturadciinn>
+		<casnumber><![CDATA[126752-39-4]]></casnumber>
+		<ncm><![CDATA[2937.11.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Somenopor]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8049]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Somenopor]]></nomenclaturadciinn>
+		<casnumber><![CDATA[119693-74-2]]></casnumber>
+		<ncm><![CDATA[2937.11.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sometribove]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8050]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sometribove]]></nomenclaturadciinn>
+		<casnumber><![CDATA[102744-97-8]]></casnumber>
+		<ncm><![CDATA[2937.11.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sometripor]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8051]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sometripor]]></nomenclaturadciinn>
+		<casnumber><![CDATA[102733-72-2]]></casnumber>
+		<ncm><![CDATA[2937.11.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Somidobove]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8052]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Somidobove]]></nomenclaturadciinn>
+		<casnumber><![CDATA[89383-13-1]]></casnumber>
+		<ncm><![CDATA[2937.11.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soneclosana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8053]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Soneclosan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[3380-30-1]]></casnumber>
+		<ncm><![CDATA[2909.50.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sonedenosona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sonedenoson]]></nomenclaturadciinn>
+		<casnumber><![CDATA[131865-88-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sonepiprazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8054]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sonepiprazole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[170858-33-0]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sonermina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sonermin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[144916-42-7]]></casnumber>
+		<ncm><![CDATA[2937.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sonfasepor]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8055]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Somfasepor]]></nomenclaturadciinn>
+		<casnumber><![CDATA[129566-95-6]]></casnumber>
+		<ncm><![CDATA[2937.11.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sonidegibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sonidegib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[956697-53-3]]></casnumber>
+		<ncm><![CDATA[2924.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sonolisibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sonolisib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[502632-66-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sontuzumabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sontuzumab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[372075-37-1]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sopitazina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8056]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sopitazine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[23492-69-5]]></casnumber>
+		<ncm><![CDATA[2934.30.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sopromidina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8057]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sopromidine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[79313-75-0]]></casnumber>
+		<ncm><![CDATA[2933.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soquinolol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8058]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Soquinolol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[61563-18-6]]></casnumber>
+		<ncm><![CDATA[2933.49.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sorafenibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sorafenib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[284461-73-0]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soraprazana]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Soraprazan]]></nomenclaturadciinn>
+		<casnumber><![CDATA[261944-46-1]]></casnumber>
+		<ncm><![CDATA[2933.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sorbato de Potássio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9808]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Potassium Sorbate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[24634-61-5]]></casnumber>
+		<ncm><![CDATA[2916.19.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sorbinicato]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8059]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sorbinicate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[6184-06-1]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sorbinila]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8060]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sorbinil]]></nomenclaturadciinn>
+		<casnumber><![CDATA[68367-52-2]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sorbitol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8061]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sorbitol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[50-70-4]]></casnumber>
+		<ncm><![CDATA[2905.44.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soretolida]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Soretolide]]></nomenclaturadciinn>
+		<casnumber><![CDATA[130403-08-6]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sorivudina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8062]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sorivudine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[77181-69-2]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sornidipino]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8063]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sornidipine]]></nomenclaturadciinn>
+		<casnumber><![CDATA[95105-77-4]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Antiaracnídico (Loxosceles, Phoneutria E Tityus)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9972]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Anti-Arachnid Serum (Loxosceles, Phoneutria E Tityus)]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d.]]></casnumber>
+		<ncm><![CDATA[3002.12.11]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Antiaracnídico (Phoneutria)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[4863]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Anti-Arachnid Serum (Phoneutria)]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.11]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Antibotrópico (Pentavalente) ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9973]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Antibothropic Serum (Pentavalent)]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.16]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Antibotrópico (Pentavalente) E Anticrotálico ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9974]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Antibothropic-Crotalic Serum]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.16]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Antibotrópico (Pentavalente) E Antilaquético ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9975]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Antibothropic-Laquetic Serum]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.16]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Antibotrópico (Pentavalente), Anticrotálico E Antilaquético ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9976]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Antibothropic-Crotalic-Laquetic Serum]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.16]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Antibotulínico (Trivalente) ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9977]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Botulism Antitoxin (Trivalent)]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.16]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Anticrotálico ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9978]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Anticrotalic Serum]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.11]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Antidiftérico ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9979]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Antidiphtheric Serum]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.15]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Antielapídico]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[4862]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Antielapidic Serum]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.11]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Antielapídico (Bivalente) ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9980]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Antielapidic Serum (Bivalent)]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.16]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Antiescorpiônico]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9981]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Anti-Scorpion Serum]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.11]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Antilonômico ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9982]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Antilonomic Serum]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.11]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Antiloxoscélico (Trivalente) ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9983]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Anti-Loxoscelic (Trivalent)]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.16]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Antirrábico ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9984]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Anti-Rabies Serum]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Anti-SARS-Cov-2]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[12534]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Anti-SARS-Cov-2 Serum]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Antitetânico ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9985]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Antitetanic Serum]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.12]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Antitimócito (Coelho) ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9986]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Anti-Thymocyte Globulin (Rabbit)]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Antitimócito (Equino) ]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9987]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Anti-Thymocyte Globulin (Equine)]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Reagente de Tipagem Sanguínea Anti-A Para Uso Humano]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10906]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Anti-A Blood Typing Reagent]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Reagente de Tipagem Sanguínea Anti-A,B Para Uso Humano]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10907]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Anti-A,B Blood Typing Reagent]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Reagente de Tipagem Sanguínea Anti-B Para Uso Humano]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10908]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Anti-B Blood Typing Reagent]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soro Reagente de Tipagem Sanguínea Anti-Rh (Anti-D, Anti-C, Anti-E, Anti-C, Anti-E E Anti-Cw) Para Uso Humano]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10909]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Anti-Rh Typing Blood Reagent]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[3002.12.19]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sotagliflozina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[11585]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sotagliflozin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1018899-04-1]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sotalol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8064]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sotalol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[3930-20-9]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sotatercepte]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sotatercept]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1001080-50-7]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soterenol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8066]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Soterenol]]></nomenclaturadciinn>
+		<casnumber><![CDATA[13642-52-9]]></casnumber>
+		<ncm><![CDATA[2935.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Soticlestate]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Soticlestat]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1429505-03-2]]></casnumber>
+		<ncm><![CDATA[2933.39.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sotirimode]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sotirimod]]></nomenclaturadciinn>
+		<casnumber><![CDATA[227318-75-4]]></casnumber>
+		<ncm><![CDATA[2933.99.59]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sotorasibe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[12495]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sotorasib]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2296729-00-3]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sotrastaurina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sotrastaurin]]></nomenclaturadciinn>
+		<casnumber><![CDATA[425637-18-9]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sotrovimabe]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[12551]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sotrovimab]]></nomenclaturadciinn>
+		<casnumber><![CDATA[2423014-07-5]]></casnumber>
+		<ncm><![CDATA[3002.13.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Sovaprevir]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Sovaprevir]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1001667-23-7]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Subacetato de Alumínio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8067]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Aluminum Subacetate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[8000-61-1]]></casnumber>
+		<ncm><![CDATA[2915.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Subatizona]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8069]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Subathizone]]></nomenclaturadciinn>
+		<casnumber><![CDATA[121-55-1]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Subcitrato de Bismuto Coloidal]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9526]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Colloidal Bismuth Subcitrate ]]></nomenclaturadciinn>
+		<casnumber><![CDATA[57644-54-9]]></casnumber>
+		<ncm><![CDATA[2918.15.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Subcitrato de Bismuto E Potássio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Bismuth Subcitrate Potassium]]></nomenclaturadciinn>
+		<casnumber><![CDATA[880149-29-1]]></casnumber>
+		<ncm><![CDATA[2918.15.00]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Subendazol]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8070]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Subendazole]]></nomenclaturadciinn>
+		<casnumber><![CDATA[54340-66-8]]></casnumber>
+		<ncm><![CDATA[2934.99.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Subgalato de Bismuto]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Bismuth Subgallate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[22650-86-8]]></casnumber>
+		<ncm><![CDATA[2918.29.30]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Subgalato de Bismuto Hidratado]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8068]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Bismuth Subgallate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[22650-86-8]]></casnumber>
+		<ncm><![CDATA[2918.29.30]]></ncm>
+		<nve><![CDATA[Nomenclatura de Valor Aduaneiro e Estatística]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Subnitrato de Bismuto]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[9527]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Bismuth Subnitrate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[1304-85-4]]></casnumber>
+		<ncm><![CDATA[2834.29.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Succímer]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[8071]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Succimer]]></nomenclaturadciinn>
+		<casnumber><![CDATA[304-55-2]]></casnumber>
+		<ncm><![CDATA[2930.90.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Succímer (99m Tc)]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[10075]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Technetium Tc 99m Succimer]]></nomenclaturadciinn>
+		<casnumber><![CDATA[n.d]]></casnumber>
+		<ncm><![CDATA[2844.40.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Succinato de Abacavir]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Abacavir Succinate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[168146-84-7]]></casnumber>
+		<ncm><![CDATA[2922.50.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Succinato de Cálcio]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Calcium Succinate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[140-99-8]]></casnumber>
+		<ncm><![CDATA[2917.19.90]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Succinato de Carsatrina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Carsatrin Succinate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[132199-13-4]]></casnumber>
+		<ncm><![CDATA[2933.59.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Succinato de Cevipabulina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Cevipabulin Succinate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[852954-81-5]]></casnumber>
+		<ncm><![CDATA[2933.59.29]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+	<node>
+		<nomenclaturadcboriginal><![CDATA[Succinato de Cibenzolina]]></nomenclaturadcboriginal>
+		<nmerodcb><![CDATA[n.d.]]></nmerodcb>
+		<nomenclaturadciinn><![CDATA[Cibenzoline Succinate]]></nomenclaturadciinn>
+		<casnumber><![CDATA[100678-32-8]]></casnumber>
+		<ncm><![CDATA[2933.29.99]]></ncm>
+		<nve><![CDATA[Não - NVE]]></nve>
+	</node>
+</data>
