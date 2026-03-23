@@ -28,7 +28,7 @@ define( 'DB_NAME', 'dic.abc_teste' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'starcraft22)' );
+define( 'DB_PASSWORD', 'starcraft22(' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
