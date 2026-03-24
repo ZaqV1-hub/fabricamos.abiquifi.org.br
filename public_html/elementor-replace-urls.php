@@ -13,7 +13,7 @@ if ( ! class_exists( '\\Elementor\\Utils' ) ) {
 
 // Change these two URLs to match your old/new domains.
 $from = 'https://dicionario.abiquifi.org.br';
-$to   = 'https://dicionario.abiquifi.questione.ai';
+$to   = 'https://fabricamos.abiquifi.questione.ai';
 
 try {
 	$result = \Elementor\Utils::replace_urls( $from, $to );

@@ -6,7 +6,7 @@ define( 'WP_USE_THEMES', false );
 require __DIR__ . '/wp-load.php';
 
 $old_domain = 'dicionario.abiquifi.org.br';
-$new_domain = 'dicionario.abiquifi.questione.ai';
+$new_domain = 'fabricamos.abiquifi.questione.ai';
 
 $replace_pairs = [
 	[ 'from' => 'https://' . $old_domain, 'to' => 'https://' . $new_domain ],
