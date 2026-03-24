@@ -1,0 +1,128 @@
+{
+    "generated_at": "2026-03-24T14:38:39-03:00",
+    "pages": [
+        {
+            "ID": "6",
+            "post_status": "publish",
+            "post_name": "home",
+            "post_title": "Home"
+        },
+        {
+            "ID": "95",
+            "post_status": "publish",
+            "post_name": "politica-de-privacidade-e-de-protecao-de-dados-pessoais-lgpd",
+            "post_title": "POLÍTICA DE PRIVACIDADE E DE PROTEÇÃO DE DADOS PESSOAIS – LGPD"
+        },
+        {
+            "ID": "33106",
+            "post_status": "draft",
+            "post_name": "dicionario-dsf",
+            "post_title": "Dicionário (DSF)"
+        },
+        {
+            "ID": "33223",
+            "post_status": "draft",
+            "post_name": "cadastro",
+            "post_title": "Cadastro"
+        },
+        {
+            "ID": "33239",
+            "post_status": "draft",
+            "post_name": "log-in",
+            "post_title": "Log In"
+        },
+        {
+            "ID": "33240",
+            "post_status": "draft",
+            "post_name": "password-reset",
+            "post_title": "Password Reset"
+        },
+        {
+            "ID": "33241",
+            "post_status": "draft",
+            "post_name": "register",
+            "post_title": "Register"
+        },
+        {
+            "ID": "33242",
+            "post_status": "draft",
+            "post_name": "account",
+            "post_title": "Account"
+        },
+        {
+            "ID": "33243",
+            "post_status": "draft",
+            "post_name": "profile",
+            "post_title": "Profile"
+        },
+        {
+            "ID": "33566",
+            "post_status": "publish",
+            "post_name": "termos-e-condicoes-gerais-de-uso",
+            "post_title": "TERMOS E CONDIÇÕES GERAIS DE USO"
+        },
+        {
+            "ID": "33688",
+            "post_status": "draft",
+            "post_name": "metodologia-dsf",
+            "post_title": "Metodologia DSF"
+        },
+        {
+            "ID": "33693",
+            "post_status": "draft",
+            "post_name": "como-pesquisar-no-dsf",
+            "post_title": "Como Pesquisar no DSF"
+        },
+        {
+            "ID": "33722",
+            "post_status": "draft",
+            "post_name": "sobre-o-dicionario-de-substancias-farmaceuticas-dsf",
+            "post_title": "Sobre o Dicionário de Substâncias Farmacêuticas (DSF)"
+        },
+        {
+            "ID": "33752",
+            "post_status": "draft",
+            "post_name": "fale-conosco",
+            "post_title": "Fale conosco"
+        },
+        {
+            "ID": "33935",
+            "post_status": "auto-draft",
+            "post_name": "",
+            "post_title": "Rascunho automático"
+        },
+        {
+            "ID": "33943",
+            "post_status": "draft",
+            "post_name": "notas-explicativas-2",
+            "post_title": "Notas Explicativas"
+        }
+    ],
+    "front": [
+        {
+            "option_name": "page_on_front",
+            "option_value": "6"
+        },
+        {
+            "option_name": "show_on_front",
+            "option_value": "page"
+        }
+    ],
+    "menu_item_33540": [
+        {
+            "post_id": "33540",
+            "meta_key": "_menu_item_object",
+            "meta_value": "page"
+        },
+        {
+            "post_id": "33540",
+            "meta_key": "_menu_item_object_id",
+            "meta_value": "6"
+        },
+        {
+            "post_id": "33540",
+            "meta_key": "_menu_item_type",
+            "meta_value": "post_type"
+        }
+    ]
+}

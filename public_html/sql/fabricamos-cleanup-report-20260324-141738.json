@@ -1,0 +1,274 @@
+{
+    "generated_at": "2026-03-24T14:17:39-03:00",
+    "backup_file": "fabricamos-cleanup-backup-20260324-141738.json",
+    "updates": {
+        "blogname_affected": 1,
+        "blogdescription_affected": 1,
+        "target_posts_drafted": 25,
+        "catalog_posts_drafted": 15582,
+        "snippets_deactivated": 8
+    },
+    "options_after": [
+        {
+            "option_name": "blogdescription",
+            "option_value": "Base técnica limpa para reconstrução do Fabricamos"
+        },
+        {
+            "option_name": "blogname",
+            "option_value": "Fabricamos - Base de Desenvolvimento"
+        },
+        {
+            "option_name": "page_for_posts",
+            "option_value": "0"
+        },
+        {
+            "option_name": "page_on_front",
+            "option_value": "6"
+        },
+        {
+            "option_name": "show_on_front",
+            "option_value": "page"
+        }
+    ],
+    "target_posts_after": [
+        {
+            "ID": "33106",
+            "post_type": "page",
+            "post_status": "draft",
+            "post_name": "dicionario-dsf",
+            "post_title": "Dicionário (DSF)"
+        },
+        {
+            "ID": "33223",
+            "post_type": "page",
+            "post_status": "draft",
+            "post_name": "cadastro",
+            "post_title": "Cadastro"
+        },
+        {
+            "ID": "33239",
+            "post_type": "page",
+            "post_status": "draft",
+            "post_name": "log-in",
+            "post_title": "Log In"
+        },
+        {
+            "ID": "33240",
+            "post_type": "page",
+            "post_status": "draft",
+            "post_name": "password-reset",
+            "post_title": "Password Reset"
+        },
+        {
+            "ID": "33241",
+            "post_type": "page",
+            "post_status": "draft",
+            "post_name": "register",
+            "post_title": "Register"
+        },
+        {
+            "ID": "33242",
+            "post_type": "page",
+            "post_status": "draft",
+            "post_name": "account",
+            "post_title": "Account"
+        },
+        {
+            "ID": "33243",
+            "post_type": "page",
+            "post_status": "draft",
+            "post_name": "profile",
+            "post_title": "Profile"
+        },
+        {
+            "ID": "33396",
+            "post_type": "jet-smart-filters",
+            "post_status": "draft",
+            "post_name": "filtro-a-z",
+            "post_title": "DSF Posts - A–Z"
+        },
+        {
+            "ID": "33444",
+            "post_type": "jet-engine",
+            "post_status": "draft",
+            "post_name": "posts-do-dicionario",
+            "post_title": "posts do dicionário"
+        },
+        {
+            "ID": "33541",
+            "post_type": "nav_menu_item",
+            "post_status": "draft",
+            "post_name": "33541",
+            "post_title": "Entre ou Cadastra-se"
+        },
+        {
+            "ID": "33542",
+            "post_type": "nav_menu_item",
+            "post_status": "draft",
+            "post_name": "33542",
+            "post_title": "Acesse o Dicionário (DSF)"
+        },
+        {
+            "ID": "33570",
+            "post_type": "nav_menu_item",
+            "post_status": "draft",
+            "post_name": "minha-conta",
+            "post_title": "Minha Conta"
+        },
+        {
+            "ID": "33571",
+            "post_type": "nav_menu_item",
+            "post_status": "draft",
+            "post_name": "cadastrar",
+            "post_title": "Cadastrar"
+        },
+        {
+            "ID": "33688",
+            "post_type": "page",
+            "post_status": "draft",
+            "post_name": "metodologia-dsf",
+            "post_title": "Metodologia DSF"
+        },
+        {
+            "ID": "33693",
+            "post_type": "page",
+            "post_status": "draft",
+            "post_name": "como-pesquisar-no-dsf",
+            "post_title": "Como Pesquisar no DSF"
+        },
+        {
+            "ID": "33722",
+            "post_type": "page",
+            "post_status": "draft",
+            "post_name": "sobre-o-dicionario-de-substancias-farmaceuticas-dsf",
+            "post_title": "Sobre o Dicionário de Substâncias Farmacêuticas (DSF)"
+        },
+        {
+            "ID": "33734",
+            "post_type": "nav_menu_item",
+            "post_status": "draft",
+            "post_name": "sobre-o-dsf",
+            "post_title": "Sobre o DSF"
+        },
+        {
+            "ID": "33735",
+            "post_type": "nav_menu_item",
+            "post_status": "draft",
+            "post_name": "como-pesquisar",
+            "post_title": "Como Pesquisar"
+        },
+        {
+            "ID": "33736",
+            "post_type": "nav_menu_item",
+            "post_status": "draft",
+            "post_name": "33736",
+            "post_title": ""
+        },
+        {
+            "ID": "33752",
+            "post_type": "page",
+            "post_status": "draft",
+            "post_name": "fale-conosco",
+            "post_title": "Fale conosco"
+        },
+        {
+            "ID": "33792",
+            "post_type": "nav_menu_item",
+            "post_status": "draft",
+            "post_name": "33792",
+            "post_title": ""
+        },
+        {
+            "ID": "33793",
+            "post_type": "nav_menu_item",
+            "post_status": "draft",
+            "post_name": "33793",
+            "post_title": ""
+        },
+        {
+            "ID": "33814",
+            "post_type": "elementor_library",
+            "post_status": "draft",
+            "post_name": "composto-dicionario",
+            "post_title": "composto-dicionario"
+        },
+        {
+            "ID": "33943",
+            "post_type": "page",
+            "post_status": "draft",
+            "post_name": "notas-explicativas-2",
+            "post_title": "Notas Explicativas"
+        },
+        {
+            "ID": "33947",
+            "post_type": "nav_menu_item",
+            "post_status": "draft",
+            "post_name": "33947",
+            "post_title": ""
+        }
+    ],
+    "snippets_after": [
+        {
+            "id": "11",
+            "name": "Bloquear single para não logados",
+            "active": "-1"
+        },
+        {
+            "id": "15",
+            "name": "cookie quando o usuário faz login",
+            "active": "-1"
+        },
+        {
+            "id": "17",
+            "name": "Após envio do formulário de cadastro (Gravity Forms), edireciona para a URL salva",
+            "active": "-1"
+        },
+        {
+            "id": "20",
+            "name": "scroll automático para a lista do DSF após filtro\/paginação",
+            "active": "-1"
+        },
+        {
+            "id": "21",
+            "name": "DSF – Mensagem por letra vazia",
+            "active": "-1"
+        },
+        {
+            "id": "22",
+            "name": "DSF User Menu",
+            "active": "-1"
+        },
+        {
+            "id": "23",
+            "name": "não traduzir posts",
+            "active": "-1"
+        },
+        {
+            "id": "24",
+            "name": "Esconder o HEADER \/ MENU do tema só para assinantes (CSS)",
+            "active": "-1"
+        }
+    ],
+    "counts_after": {
+        "published_pages": [
+            {
+                "qty": "3"
+            }
+        ],
+        "published_posts": [
+            {
+                "qty": "0"
+            }
+        ],
+        "published_nav_menu_items": [
+            {
+                "qty": "4"
+            }
+        ],
+        "active_snippets": [
+            {
+                "qty": "0"
+            }
+        ]
+    }
+}

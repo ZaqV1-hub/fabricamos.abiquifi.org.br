@@ -1,0 +1,900 @@
+{
+    "generated_at": "2026-03-24T14:12:37-03:00",
+    "site": [
+        {
+            "option_name": "blogdescription",
+            "option_value": "ABIQUIFI"
+        },
+        {
+            "option_name": "blogname",
+            "option_value": "Dicionário de Substâncias Farmacêuticas (DSF)"
+        },
+        {
+            "option_name": "home",
+            "option_value": "https:\/\/fabricamos.abiquifi.questione.ai"
+        },
+        {
+            "option_name": "page_for_posts",
+            "option_value": "0"
+        },
+        {
+            "option_name": "page_on_front",
+            "option_value": "6"
+        },
+        {
+            "option_name": "show_on_front",
+            "option_value": "page"
+        },
+        {
+            "option_name": "siteurl",
+            "option_value": "https:\/\/fabricamos.abiquifi.questione.ai"
+        },
+        {
+            "option_name": "stylesheet",
+            "option_value": "jupiterx"
+        },
+        {
+            "option_name": "template",
+            "option_value": "jupiterx"
+        }
+    ],
+    "post_type_counts": [
+        {
+            "post_type": "attachment",
+            "post_status": "inherit",
+            "qty": "13"
+        },
+        {
+            "post_type": "custom_css",
+            "post_status": "publish",
+            "qty": "1"
+        },
+        {
+            "post_type": "customize_changeset",
+            "post_status": "auto-draft",
+            "qty": "1"
+        },
+        {
+            "post_type": "elementor_library",
+            "post_status": "draft",
+            "qty": "1"
+        },
+        {
+            "post_type": "elementor_library",
+            "post_status": "publish",
+            "qty": "7"
+        },
+        {
+            "post_type": "jet-engine",
+            "post_status": "publish",
+            "qty": "1"
+        },
+        {
+            "post_type": "jet-smart-filters",
+            "post_status": "publish",
+            "qty": "1"
+        },
+        {
+            "post_type": "language_switcher",
+            "post_status": "publish",
+            "qty": "4"
+        },
+        {
+            "post_type": "nav_menu_item",
+            "post_status": "publish",
+            "qty": "14"
+        },
+        {
+            "post_type": "page",
+            "post_status": "auto-draft",
+            "qty": "1"
+        },
+        {
+            "post_type": "page",
+            "post_status": "publish",
+            "qty": "15"
+        },
+        {
+            "post_type": "post",
+            "post_status": "publish",
+            "qty": "15582"
+        },
+        {
+            "post_type": "revision",
+            "post_status": "inherit",
+            "qty": "49"
+        },
+        {
+            "post_type": "wpcode",
+            "post_status": "draft",
+            "qty": "2"
+        }
+    ],
+    "pages": [
+        {
+            "ID": "6",
+            "post_status": "publish",
+            "post_name": "home",
+            "post_title": "Home",
+            "post_date": "2018-08-20 20:13:53"
+        },
+        {
+            "ID": "95",
+            "post_status": "publish",
+            "post_name": "politica-de-privacidade-e-de-protecao-de-dados-pessoais-lgpd",
+            "post_title": "POLÍTICA DE PRIVACIDADE E DE PROTEÇÃO DE DADOS PESSOAIS – LGPD",
+            "post_date": "2025-11-12 22:37:48"
+        },
+        {
+            "ID": "33106",
+            "post_status": "publish",
+            "post_name": "dicionario-dsf",
+            "post_title": "Dicionário (DSF)",
+            "post_date": "2025-11-07 10:37:30"
+        },
+        {
+            "ID": "33223",
+            "post_status": "publish",
+            "post_name": "cadastro",
+            "post_title": "Cadastro",
+            "post_date": "2025-11-07 15:51:21"
+        },
+        {
+            "ID": "33239",
+            "post_status": "publish",
+            "post_name": "log-in",
+            "post_title": "Log In",
+            "post_date": "2025-11-07 16:09:52"
+        },
+        {
+            "ID": "33240",
+            "post_status": "publish",
+            "post_name": "password-reset",
+            "post_title": "Password Reset",
+            "post_date": "2025-11-07 16:09:52"
+        },
+        {
+            "ID": "33241",
+            "post_status": "publish",
+            "post_name": "register",
+            "post_title": "Register",
+            "post_date": "2025-11-07 16:09:52"
+        },
+        {
+            "ID": "33242",
+            "post_status": "publish",
+            "post_name": "account",
+            "post_title": "Account",
+            "post_date": "2025-11-07 16:09:52"
+        },
+        {
+            "ID": "33243",
+            "post_status": "publish",
+            "post_name": "profile",
+            "post_title": "Profile",
+            "post_date": "2025-11-07 16:09:52"
+        },
+        {
+            "ID": "33566",
+            "post_status": "publish",
+            "post_name": "termos-e-condicoes-gerais-de-uso",
+            "post_title": "TERMOS E CONDIÇÕES GERAIS DE USO",
+            "post_date": "2025-11-12 22:39:53"
+        },
+        {
+            "ID": "33688",
+            "post_status": "publish",
+            "post_name": "metodologia-dsf",
+            "post_title": "Metodologia DSF",
+            "post_date": "2025-11-14 16:35:36"
+        },
+        {
+            "ID": "33693",
+            "post_status": "publish",
+            "post_name": "como-pesquisar-no-dsf",
+            "post_title": "Como Pesquisar no DSF",
+            "post_date": "2025-11-14 16:51:29"
+        },
+        {
+            "ID": "33722",
+            "post_status": "publish",
+            "post_name": "sobre-o-dicionario-de-substancias-farmaceuticas-dsf",
+            "post_title": "Sobre o Dicionário de Substâncias Farmacêuticas (DSF)",
+            "post_date": "2025-11-14 17:12:14"
+        },
+        {
+            "ID": "33752",
+            "post_status": "publish",
+            "post_name": "fale-conosco",
+            "post_title": "Fale conosco",
+            "post_date": "2025-11-17 10:19:50"
+        },
+        {
+            "ID": "33943",
+            "post_status": "publish",
+            "post_name": "notas-explicativas-2",
+            "post_title": "Notas Explicativas",
+            "post_date": "2026-03-20 12:56:09"
+        }
+    ],
+    "page_templates": [
+        {
+            "ID": "6",
+            "post_name": "home",
+            "post_title": "Home",
+            "template": "elementor_header_footer"
+        },
+        {
+            "ID": "95",
+            "post_name": "politica-de-privacidade-e-de-protecao-de-dados-pessoais-lgpd",
+            "post_title": "POLÍTICA DE PRIVACIDADE E DE PROTEÇÃO DE DADOS PESSOAIS – LGPD",
+            "template": "default"
+        },
+        {
+            "ID": "33106",
+            "post_name": "dicionario-dsf",
+            "post_title": "Dicionário (DSF)",
+            "template": "elementor_header_footer"
+        },
+        {
+            "ID": "33223",
+            "post_name": "cadastro",
+            "post_title": "Cadastro",
+            "template": "elementor_header_footer"
+        },
+        {
+            "ID": "33239",
+            "post_name": "log-in",
+            "post_title": "Log In",
+            "template": null
+        },
+        {
+            "ID": "33240",
+            "post_name": "password-reset",
+            "post_title": "Password Reset",
+            "template": null
+        },
+        {
+            "ID": "33241",
+            "post_name": "register",
+            "post_title": "Register",
+            "template": null
+        },
+        {
+            "ID": "33242",
+            "post_name": "account",
+            "post_title": "Account",
+            "template": null
+        },
+        {
+            "ID": "33243",
+            "post_name": "profile",
+            "post_title": "Profile",
+            "template": null
+        },
+        {
+            "ID": "33566",
+            "post_name": "termos-e-condicoes-gerais-de-uso",
+            "post_title": "TERMOS E CONDIÇÕES GERAIS DE USO",
+            "template": "default"
+        },
+        {
+            "ID": "33688",
+            "post_name": "metodologia-dsf",
+            "post_title": "Metodologia DSF",
+            "template": "elementor_header_footer"
+        },
+        {
+            "ID": "33693",
+            "post_name": "como-pesquisar-no-dsf",
+            "post_title": "Como Pesquisar no DSF",
+            "template": "elementor_header_footer"
+        },
+        {
+            "ID": "33722",
+            "post_name": "sobre-o-dicionario-de-substancias-farmaceuticas-dsf",
+            "post_title": "Sobre o Dicionário de Substâncias Farmacêuticas (DSF)",
+            "template": "elementor_header_footer"
+        },
+        {
+            "ID": "33752",
+            "post_name": "fale-conosco",
+            "post_title": "Fale conosco",
+            "template": "elementor_header_footer"
+        },
+        {
+            "ID": "33943",
+            "post_name": "notas-explicativas-2",
+            "post_title": "Notas Explicativas",
+            "template": "elementor_header_footer"
+        }
+    ],
+    "posts_summary": [
+        {
+            "total_posts": "15582",
+            "published": "15582"
+        }
+    ],
+    "menus": [
+        {
+            "term_id": "11",
+            "name": "menu rodape",
+            "count": "5"
+        },
+        {
+            "term_id": "12",
+            "name": "menu",
+            "count": "9"
+        }
+    ],
+    "menu_items": [
+        {
+            "ID": "33540",
+            "post_title": "",
+            "post_name": "33540",
+            "post_status": "publish"
+        },
+        {
+            "ID": "33541",
+            "post_title": "Entre ou Cadastra-se",
+            "post_name": "33541",
+            "post_status": "publish"
+        },
+        {
+            "ID": "33542",
+            "post_title": "Acesse o Dicionário (DSF)",
+            "post_name": "33542",
+            "post_status": "publish"
+        },
+        {
+            "ID": "33569",
+            "post_title": "POLÍTICA DE PRIVACIDADE",
+            "post_name": "politica-de-privacidade",
+            "post_status": "publish"
+        },
+        {
+            "ID": "33570",
+            "post_title": "Minha Conta",
+            "post_name": "minha-conta",
+            "post_status": "publish"
+        },
+        {
+            "ID": "33571",
+            "post_title": "Cadastrar",
+            "post_name": "cadastrar",
+            "post_status": "publish"
+        },
+        {
+            "ID": "33574",
+            "post_title": "TERMOS DE USO",
+            "post_name": "termos-de-uso",
+            "post_status": "publish"
+        },
+        {
+            "ID": "33579",
+            "post_title": "Site Abiquifi",
+            "post_name": "abiquifi",
+            "post_status": "publish"
+        },
+        {
+            "ID": "33734",
+            "post_title": "Sobre o DSF",
+            "post_name": "sobre-o-dsf",
+            "post_status": "publish"
+        },
+        {
+            "ID": "33735",
+            "post_title": "Como Pesquisar",
+            "post_name": "como-pesquisar",
+            "post_status": "publish"
+        },
+        {
+            "ID": "33736",
+            "post_title": "",
+            "post_name": "33736",
+            "post_status": "publish"
+        },
+        {
+            "ID": "33792",
+            "post_title": "",
+            "post_name": "33792",
+            "post_status": "publish"
+        },
+        {
+            "ID": "33793",
+            "post_title": "",
+            "post_name": "33793",
+            "post_status": "publish"
+        },
+        {
+            "ID": "33947",
+            "post_title": "",
+            "post_name": "33947",
+            "post_status": "publish"
+        }
+    ],
+    "snippets": [
+        {
+            "id": "1",
+            "name": "Tornar os nomes dos arquivos minúsculos no envio",
+            "active": "-1",
+            "scope": "global",
+            "priority": "10"
+        },
+        {
+            "id": "2",
+            "name": "Desativar barra de administração",
+            "active": "-1",
+            "scope": "global",
+            "priority": "10"
+        },
+        {
+            "id": "3",
+            "name": "Permitir smilies",
+            "active": "-1",
+            "scope": "global",
+            "priority": "10"
+        },
+        {
+            "id": "4",
+            "name": "Ano atual",
+            "active": "-1",
+            "scope": "global",
+            "priority": "10"
+        },
+        {
+            "id": "5",
+            "name": "Tornar os nomes dos arquivos minúsculos no envio",
+            "active": "-1",
+            "scope": "global",
+            "priority": "10"
+        },
+        {
+            "id": "6",
+            "name": "Desativar barra de administração",
+            "active": "-1",
+            "scope": "front-end",
+            "priority": "10"
+        },
+        {
+            "id": "7",
+            "name": "Permitir smilies",
+            "active": "-1",
+            "scope": "global",
+            "priority": "10"
+        },
+        {
+            "id": "8",
+            "name": "Ano atual",
+            "active": "-1",
+            "scope": "content",
+            "priority": "10"
+        },
+        {
+            "id": "10",
+            "name": "DSF — Redirecionamento de busca",
+            "active": "-1",
+            "scope": "global",
+            "priority": "10"
+        },
+        {
+            "id": "11",
+            "name": "Bloquear single para não logados",
+            "active": "1",
+            "scope": "global",
+            "priority": "10"
+        },
+        {
+            "id": "12",
+            "name": "Shortcode dos resultados",
+            "active": "-1",
+            "scope": "global",
+            "priority": "10"
+        },
+        {
+            "id": "13",
+            "name": "Shortcode pesquisa",
+            "active": "-1",
+            "scope": "global",
+            "priority": "10"
+        },
+        {
+            "id": "14",
+            "name": "Redireciona busca para Pesquisa",
+            "active": "-1",
+            "scope": "global",
+            "priority": "10"
+        },
+        {
+            "id": "15",
+            "name": "cookie quando o usuário faz login",
+            "active": "1",
+            "scope": "global",
+            "priority": "10"
+        },
+        {
+            "id": "16",
+            "name": "Salvar o redirect_to em cookie e limpar a URL",
+            "active": "-1",
+            "scope": "global",
+            "priority": "10"
+        },
+        {
+            "id": "17",
+            "name": "Após envio do formulário de cadastro (Gravity Forms), edireciona para a URL salva",
+            "active": "1",
+            "scope": "global",
+            "priority": "10"
+        },
+        {
+            "id": "19",
+            "name": "filtrar por primeira letra do título",
+            "active": "-1",
+            "scope": "global",
+            "priority": "10"
+        },
+        {
+            "id": "20",
+            "name": "scroll automático para a lista do DSF após filtro\/paginação",
+            "active": "1",
+            "scope": "front-end",
+            "priority": "10"
+        },
+        {
+            "id": "21",
+            "name": "DSF – Mensagem por letra vazia",
+            "active": "1",
+            "scope": "global",
+            "priority": "10"
+        },
+        {
+            "id": "22",
+            "name": "DSF User Menu",
+            "active": "1",
+            "scope": "global",
+            "priority": "10"
+        },
+        {
+            "id": "23",
+            "name": "não traduzir posts",
+            "active": "1",
+            "scope": "global",
+            "priority": "10"
+        },
+        {
+            "id": "24",
+            "name": "Esconder o HEADER \/ MENU do tema só para assinantes (CSS)",
+            "active": "1",
+            "scope": "global",
+            "priority": "10"
+        }
+    ],
+    "jet_post_types": [
+        {
+            "id": "1",
+            "slug": null,
+            "status": "query"
+        }
+    ],
+    "jet_taxonomies": [],
+    "forms_gf": [
+        {
+            "id": "1",
+            "title": "login",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "title": "Cadastro Completo",
+            "is_active": "1"
+        },
+        {
+            "id": "3",
+            "title": "Editar o Cadastro",
+            "is_active": "1"
+        }
+    ],
+    "users": [
+        {
+            "ID": "1",
+            "user_login": "dicionario_abiquifi_admin",
+            "user_email": "admin@dicionario.abiquifi.org.br",
+            "user_registered": "2025-11-06 18:15:30"
+        },
+        {
+            "ID": "2",
+            "user_login": "marcos.santana@blanver.com.br",
+            "user_email": "marcos.santana@blanver.com.br",
+            "user_registered": "2025-12-20 16:11:30"
+        },
+        {
+            "ID": "3",
+            "user_login": "norberto.prestes@abiquifi.org.br",
+            "user_email": "norberto.prestes@abiquifi.org.br",
+            "user_registered": "2025-12-22 23:01:07"
+        },
+        {
+            "ID": "4",
+            "user_login": "monise.olbi@cristalia.com.br",
+            "user_email": "monise.olbi@cristalia.com.br",
+            "user_registered": "2025-12-30 19:39:09"
+        },
+        {
+            "ID": "5",
+            "user_login": "thiago.nunes@comexport.com.br",
+            "user_email": "thiago.nunes@comexport.com.br",
+            "user_registered": "2025-12-31 11:35:59"
+        },
+        {
+            "ID": "6",
+            "user_login": "anapaula.brancalion@chemodobrasil.com.br",
+            "user_email": "anapaula.brancalion@chemodobrasil.com.br",
+            "user_registered": "2026-01-06 14:56:41"
+        },
+        {
+            "ID": "7",
+            "user_login": "f.macarini@caldic.com",
+            "user_email": "f.macarini@caldic.com",
+            "user_registered": "2026-01-06 19:41:04"
+        },
+        {
+            "ID": "8",
+            "user_login": "natalia.araujo@abiquifi.org.br",
+            "user_email": "natalia.araujo@abiquifi.org.br",
+            "user_registered": "2026-01-07 19:31:51"
+        },
+        {
+            "ID": "9",
+            "user_login": "fabio.carneiro@belpharma-api.com.br",
+            "user_email": "fabio.carneiro@belpharma-api.com.br",
+            "user_registered": "2026-01-08 18:44:03"
+        },
+        {
+            "ID": "10",
+            "user_login": "alexandre.correa@tevabrasil.com.br",
+            "user_email": "alexandre.correa@tevabrasil.com.br",
+            "user_registered": "2026-01-08 22:13:11"
+        },
+        {
+            "ID": "11",
+            "user_login": "heloisa.faccini@blau.com",
+            "user_email": "heloisa.faccini@blau.com",
+            "user_registered": "2026-01-09 11:59:15"
+        },
+        {
+            "ID": "12",
+            "user_login": "abusamia2014@gmail.com",
+            "user_email": "abusamia2014@gmail.com",
+            "user_registered": "2026-01-09 14:37:33"
+        },
+        {
+            "ID": "13",
+            "user_login": "isabela.ferres@comexport.com.br",
+            "user_email": "isabela.ferres@comexport.com.br",
+            "user_registered": "2026-01-12 14:18:24"
+        },
+        {
+            "ID": "14",
+            "user_login": "marcelo.fogaca@comexport.com.br",
+            "user_email": "marcelo.fogaca@comexport.com.br",
+            "user_registered": "2026-01-12 14:54:47"
+        },
+        {
+            "ID": "15",
+            "user_login": "beatriz.aguiar@comexport.com.br",
+            "user_email": "beatriz.aguiar@comexport.com.br",
+            "user_registered": "2026-01-12 22:48:58"
+        },
+        {
+            "ID": "16",
+            "user_login": "caique.amorim@comexport.com.br",
+            "user_email": "caique.amorim@comexport.com.br",
+            "user_registered": "2026-01-13 12:56:59"
+        },
+        {
+            "ID": "17",
+            "user_login": "marilenenuss@hotmail.com",
+            "user_email": "marilenenuss@hotmail.com",
+            "user_registered": "2026-01-13 13:55:09"
+        },
+        {
+            "ID": "18",
+            "user_login": "mariana.silverio@comexport.com.br",
+            "user_email": "mariana.silverio@comexport.com.br",
+            "user_registered": "2026-01-13 17:18:06"
+        },
+        {
+            "ID": "19",
+            "user_login": "silvana@lanzapharma.com",
+            "user_email": "silvana@lanzapharma.com",
+            "user_registered": "2026-01-14 12:49:16"
+        },
+        {
+            "ID": "20",
+            "user_login": "bianca.ehmke@cristalia.com.br",
+            "user_email": "bianca.ehmke@cristalia.com.br",
+            "user_registered": "2026-01-14 14:27:51"
+        },
+        {
+            "ID": "21",
+            "user_login": "zichmj@yahoo.com.br",
+            "user_email": "zichmj@yahoo.com.br",
+            "user_registered": "2026-01-14 18:06:43"
+        },
+        {
+            "ID": "22",
+            "user_login": "leia.santos@comexport.com.br",
+            "user_email": "leia.santos@comexport.com.br",
+            "user_registered": "2026-01-14 18:45:56"
+        },
+        {
+            "ID": "23",
+            "user_login": "carlos@ib8comunicacao.com.br",
+            "user_email": "carlos@ib8comunicacao.com.br",
+            "user_registered": "2026-01-15 18:23:08"
+        },
+        {
+            "ID": "24",
+            "user_login": "camilla.teles@hypera.com.br",
+            "user_email": "camilla.teles@hypera.com.br",
+            "user_registered": "2026-01-15 19:00:52"
+        },
+        {
+            "ID": "25",
+            "user_login": "Claudio Brandao",
+            "user_email": "claudiobrandao.rio@gmail.com",
+            "user_registered": "2025-02-03 20:57:53"
+        },
+        {
+            "ID": "26",
+            "user_login": "carlos@inboul.com.br",
+            "user_email": "carlos@inboul.com.br",
+            "user_registered": "2025-02-03 22:43:58"
+        },
+        {
+            "ID": "27",
+            "user_login": "araujo.natalia@live.com",
+            "user_email": "araujo.natalia@live.com",
+            "user_registered": "2025-02-12 18:34:21"
+        },
+        {
+            "ID": "28",
+            "user_login": "gferreira@acs-i.org",
+            "user_email": "gferreira@acs-i.org",
+            "user_registered": "2025-02-18 20:23:24"
+        },
+        {
+            "ID": "29",
+            "user_login": "vera@vandradeacc.com.br",
+            "user_email": "vera@vandradeacc.com.br",
+            "user_registered": "2025-02-19 12:08:08"
+        },
+        {
+            "ID": "30",
+            "user_login": "juliana.antonietti@legrandpharma.com.br",
+            "user_email": "juliana.antonietti@legrandpharma.com.br",
+            "user_registered": "2025-02-19 19:39:43"
+        },
+        {
+            "ID": "31",
+            "user_login": "daniele.borges@ems.com.br",
+            "user_email": "daniele.borges@ems.com.br",
+            "user_registered": "2025-02-19 19:46:22"
+        },
+        {
+            "ID": "32",
+            "user_login": "rodrigo.correia@formil.com.br",
+            "user_email": "rodrigo.correia@formil.com.br",
+            "user_registered": "2025-02-21 21:02:12"
+        },
+        {
+            "ID": "33",
+            "user_login": "webruivo@gmail.com",
+            "user_email": "webruivo@gmail.com",
+            "user_registered": "2025-03-03 12:44:44"
+        },
+        {
+            "ID": "34",
+            "user_login": "juliane.lima@saude.gov.br",
+            "user_email": "juliane.lima@saude.gov.br",
+            "user_registered": "2025-03-11 14:21:51"
+        },
+        {
+            "ID": "35",
+            "user_login": "gabriel.lisboa@teuto.com.br",
+            "user_email": "gabriel.lisboa@teuto.com.br",
+            "user_registered": "2025-03-18 12:36:57"
+        },
+        {
+            "ID": "36",
+            "user_login": "lurigonfor@gmail.com",
+            "user_email": "lurigonfor@gmail.com",
+            "user_registered": "2025-04-03 19:46:20"
+        },
+        {
+            "ID": "37",
+            "user_login": "luana.araujo@grupofarmabrasil.com.br",
+            "user_email": "luana.araujo@grupofarmabrasil.com.br",
+            "user_registered": "2025-04-15 21:37:02"
+        },
+        {
+            "ID": "38",
+            "user_login": "Flavia.Souza@tevabrasil.com.br",
+            "user_email": "Flavia.Souza@tevabrasil.com.br",
+            "user_registered": "2025-04-17 16:58:31"
+        },
+        {
+            "ID": "39",
+            "user_login": "ellen.mendes@vitamedic.ind.br",
+            "user_email": "ellen.mendes@vitamedic.ind.br",
+            "user_registered": "2025-04-23 13:29:58"
+        },
+        {
+            "ID": "40",
+            "user_login": "jotape1912@gmail.com",
+            "user_email": "jotape1912@gmail.com",
+            "user_registered": "2025-04-23 14:37:18"
+        },
+        {
+            "ID": "41",
+            "user_login": "LU_CELLI@HOTMAIL.COM",
+            "user_email": "LU_CELLI@HOTMAIL.COM",
+            "user_registered": "2025-04-27 16:15:13"
+        },
+        {
+            "ID": "42",
+            "user_login": "guilherme.silverio@pinex.com.br",
+            "user_email": "guilherme.silverio@pinex.com.br",
+            "user_registered": "2025-04-28 11:24:54"
+        },
+        {
+            "ID": "43",
+            "user_login": "naelene.costa@teuto.com.br",
+            "user_email": "naelene.costa@teuto.com.br",
+            "user_registered": "2025-04-30 15:03:10"
+        },
+        {
+            "ID": "44",
+            "user_login": "rosario@catarinensepharma.com.br",
+            "user_email": "rosario@catarinensepharma.com.br",
+            "user_registered": "2025-05-08 18:50:21"
+        },
+        {
+            "ID": "45",
+            "user_login": "carolina.carvalho@grupofarmabrasil.com.br",
+            "user_email": "carolina.carvalho@grupofarmabrasil.com.br",
+            "user_registered": "2025-05-13 18:23:53"
+        },
+        {
+            "ID": "46",
+            "user_login": "kinhomed@hotmail.com",
+            "user_email": "kinhomed@hotmail.com",
+            "user_registered": "2025-05-18 01:20:58"
+        },
+        {
+            "ID": "47",
+            "user_login": "edsonfurman@gmail.com",
+            "user_email": "edsonfurman@gmail.com",
+            "user_registered": "2025-05-23 18:32:32"
+        },
+        {
+            "ID": "48",
+            "user_login": "maria.godoi@althaia.com.br",
+            "user_email": "maria.godoi@althaia.com.br",
+            "user_registered": "2025-05-27 16:35:25"
+        },
+        {
+            "ID": "49",
+            "user_login": "safis1@msn.com",
+            "user_email": "safis1@msn.com",
+            "user_registered": "2025-05-29 12:21:36"
+        },
+        {
+            "ID": "50",
+            "user_login": "lgaferreira@uniaoquimica.com.br",
+            "user_email": "lgaferreira@uniaoquimica.com.br",
+            "user_registered": "2025-05-29 13:32:17"
+        }
+    ],
+    "active_plugins_raw": "a:15:{i:0;s:34:\"advanced-custom-fields-pro\/acf.php\";i:1;s:43:\"all-in-one-seo-pack\/all_in_one_seo_pack.php\";i:2;s:31:\"code-snippets\/code-snippets.php\";i:3;s:32:\"duplicate-page\/duplicatepage.php\";i:4;s:31:\"elementor-pro\/elementor-pro.php\";i:5;s:23:\"elementor\/elementor.php\";i:6;s:35:\"google-site-kit\/google-site-kit.php\";i:7;s:25:\"gtranslate\/gtranslate.php\";i:8;s:29:\"jet-elements\/jet-elements.php\";i:9;s:25:\"jet-engine\/jet-engine.php\";i:10;s:31:\"jupiterx-core\/jupiterx-core.php\";i:11;s:23:\"loco-translate\/loco.php\";i:12;s:28:\"malcare-security\/malcare.php\";i:13;s:41:\"wordpress-importer\/wordpress-importer.php\";i:14;s:37:\"wp-whatsapp-chat\/wp-whatsapp-chat.php\";}"
+}

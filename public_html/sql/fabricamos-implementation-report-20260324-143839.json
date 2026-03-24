@@ -1,0 +1,172 @@
+{
+    "generated_at": "2026-03-24T14:38:39-03:00",
+    "created_or_updated": {
+        "fabricamos": 35133,
+        "fabricamos_fabricante": 35134,
+        "detalhes": 35135,
+        "meu_fabricante": 35136,
+        "painel": 35137,
+        "login": 35138
+    },
+    "front": [
+        {
+            "option_name": "page_on_front",
+            "option_value": "35133"
+        },
+        {
+            "option_name": "show_on_front",
+            "option_value": "page"
+        }
+    ],
+    "pages": [
+        {
+            "ID": "6",
+            "post_status": "draft",
+            "post_name": "home",
+            "post_title": "Home (legado DSF)"
+        },
+        {
+            "ID": "95",
+            "post_status": "publish",
+            "post_name": "politica-de-privacidade-e-de-protecao-de-dados-pessoais-lgpd",
+            "post_title": "POLÍTICA DE PRIVACIDADE E DE PROTEÇÃO DE DADOS PESSOAIS – LGPD"
+        },
+        {
+            "ID": "33106",
+            "post_status": "draft",
+            "post_name": "dicionario-dsf",
+            "post_title": "Dicionário (DSF)"
+        },
+        {
+            "ID": "33223",
+            "post_status": "draft",
+            "post_name": "cadastro",
+            "post_title": "Cadastro"
+        },
+        {
+            "ID": "33239",
+            "post_status": "draft",
+            "post_name": "log-in",
+            "post_title": "Log In"
+        },
+        {
+            "ID": "33240",
+            "post_status": "draft",
+            "post_name": "password-reset",
+            "post_title": "Password Reset"
+        },
+        {
+            "ID": "33241",
+            "post_status": "draft",
+            "post_name": "register",
+            "post_title": "Register"
+        },
+        {
+            "ID": "33242",
+            "post_status": "draft",
+            "post_name": "account",
+            "post_title": "Account"
+        },
+        {
+            "ID": "33243",
+            "post_status": "draft",
+            "post_name": "profile",
+            "post_title": "Profile"
+        },
+        {
+            "ID": "33566",
+            "post_status": "publish",
+            "post_name": "termos-e-condicoes-gerais-de-uso",
+            "post_title": "TERMOS E CONDIÇÕES GERAIS DE USO"
+        },
+        {
+            "ID": "33688",
+            "post_status": "draft",
+            "post_name": "metodologia-dsf",
+            "post_title": "Metodologia DSF"
+        },
+        {
+            "ID": "33693",
+            "post_status": "draft",
+            "post_name": "como-pesquisar-no-dsf",
+            "post_title": "Como Pesquisar no DSF"
+        },
+        {
+            "ID": "33722",
+            "post_status": "draft",
+            "post_name": "sobre-o-dicionario-de-substancias-farmaceuticas-dsf",
+            "post_title": "Sobre o Dicionário de Substâncias Farmacêuticas (DSF)"
+        },
+        {
+            "ID": "33752",
+            "post_status": "draft",
+            "post_name": "fale-conosco",
+            "post_title": "Fale conosco"
+        },
+        {
+            "ID": "33935",
+            "post_status": "auto-draft",
+            "post_name": "",
+            "post_title": "Rascunho automático"
+        },
+        {
+            "ID": "33943",
+            "post_status": "draft",
+            "post_name": "notas-explicativas-2",
+            "post_title": "Notas Explicativas"
+        },
+        {
+            "ID": "35133",
+            "post_status": "publish",
+            "post_name": "fabricamos",
+            "post_title": "Fabricamos"
+        },
+        {
+            "ID": "35134",
+            "post_status": "publish",
+            "post_name": "fabricamos-fabricante",
+            "post_title": "Fabricamos - Fabricante"
+        },
+        {
+            "ID": "35135",
+            "post_status": "publish",
+            "post_name": "detalhes-do-fabricante",
+            "post_title": "Detalhes do Fabricante"
+        },
+        {
+            "ID": "35136",
+            "post_status": "publish",
+            "post_name": "meu-fabricante",
+            "post_title": "Meu Fabricante"
+        },
+        {
+            "ID": "35137",
+            "post_status": "publish",
+            "post_name": "painel-gerencial",
+            "post_title": "Painel Gerencial"
+        },
+        {
+            "ID": "35138",
+            "post_status": "publish",
+            "post_name": "fabricamos-login",
+            "post_title": "Login Fabricamos"
+        }
+    ],
+    "menu_item_33540": [
+        {
+            "post_id": "33540",
+            "meta_key": "_menu_item_object",
+            "meta_value": "page"
+        },
+        {
+            "post_id": "33540",
+            "meta_key": "_menu_item_object_id",
+            "meta_value": "35133"
+        },
+        {
+            "post_id": "33540",
+            "meta_key": "_menu_item_type",
+            "meta_value": "post_type"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "updated_at": "2026-03-24T15:14:44-03:00",
+    "before": {
+        "desktop": true,
+        "tablet": true,
+        "mobile": true
+    },
+    "after": {
+        "desktop": false,
+        "tablet": false,
+        "mobile": false
+    }
+}
