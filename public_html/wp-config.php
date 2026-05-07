@@ -100,6 +100,17 @@ define( 'WP_DEBUG', false );
 define('WP_MEMORY_LIMIT', '256M');
 define('WP_MAX_MEMORY_LIMIT', '512M');
 
+define('ABIQUIFI_SMTP_HOST', 'smtp.office365.com');
+define('ABIQUIFI_SMTP_PORT', '587');
+define('ABIQUIFI_SMTP_ENCRYPTION', 'tls');
+define('ABIQUIFI_SMTP_USER', 'marketing@abiquifi.org.br');
+define('ABIQUIFI_SMTP_PASS', '@Biquifi1204!');
+define('ABIQUIFI_MAIL_FROM_EMAIL', 'marketing@abiquifi.org.br');
+define('ABIQUIFI_MAIL_FROM_NAME', 'Fabricamos | Abiquifi');
+define('ABIQUIFI_MAIL_TO', 'marketing@abiquifi.org.br');
+define('ABIQUIFI_ANNOUNCE_MAIL_TO', 'marketing@abiquifi.org.br');
+define('ABIQUIFI_MAIL_LOG', '1');
+
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */

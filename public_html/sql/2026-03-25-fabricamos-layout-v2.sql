@@ -16,7 +16,7 @@ SET post_content = CONCAT(
   '\n\n/* FABRICAMOS_LAYOUT_V2_START */\n',
   'body.fab-page-active #jupiterx-main{width:100%;max-width:100%;padding-left:0;padding-right:0;}\n',
   'body.fab-page-active .jupiterx-footer{display:block !important;}\n',
-  '.fab-shell{max-width:min(1680px,calc(100vw - 64px));margin:clamp(20px,2.5vw,36px) auto clamp(36px,5vw,64px);padding:0;}\n',
+  '.fab-shell{width:100%;max-width:90%;margin:clamp(20px,2.5vw,36px) auto clamp(36px,5vw,64px);padding:0;}\n',
   '.fab-shell__hero{display:grid;gap:10px;margin:0 0 clamp(18px,2vw,26px);padding:0 2px;}\n',
   '.fab-shell__title{margin:0;font-family:"Barlow","Montserrat","Poppins",Arial,sans-serif;font-size:clamp(30px,3vw,44px);font-weight:700;line-height:1.1;color:#132d60;letter-spacing:-0.02em;}\n',
   '.fab-shell__subtitle{margin:0;max-width:980px;font-family:"Montserrat","Poppins",Arial,sans-serif;font-size:clamp(15px,1.2vw,18px);line-height:1.55;color:#3d4b67;}\n',
